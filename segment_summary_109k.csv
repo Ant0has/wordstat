@@ -1,0 +1,8 @@
+﻿segment;route_count;total_freq;avg_freq;median_freq;top_10_slugs
+SEO_GOLD_NEW;2;941;470.5;723;"rostov-moskva-2; sankt-peterburg-leningradskaya"
+SEO_INVEST_NEW;19;6942;365.4;323;"moskva-vostochnyj; orenburg-belyj; krasnodar-simferopol; krasnodar-gelendgik; ryazan-moskva; krasnodar-sevastopol; moskva-leningradskaya; aeroport-kolczovo-ekaterinburg; moskva-nigniy_novgorod; moskva-ufa"
+SEO_HARD_NEW;5;11485;2297.0;498;"oryol-orlov; kurgan-matveev-kurgan; kirov-kirov-kaluzhskaya-oblast; samara-aeroport-kurumoch; moskva-troiczk"
+SEO_AUTOPILOT_NEW;145;7530;51.9;18;"ufa-oktyabrskoe; rostov-doneck; krasnodar-sochi; ekaterinburg-ufa-2; kazan-oktyabrskij; kazan-oktyabrskoe; ekaterinburg-perm-2; moskva-czentralnyj; moskva-czentralnyj-2; krasnodar-krasnyj"
+POTENTIAL_DIRECT_NEW;83;8240;99.3;87;"krasnodar-majkop; moskva-ivanovo; ivanovo-moskva; arxangelsk-onega; cheboksary-kazan; moskva-krasnogvardejskoe; moskva-saratov; saratov-moskva; krasnodar-kurch; moskva-krasnyj"
+LOW_PRIORITY;6347;26294;4.1;2;"volgograd-belyj; moskva-neya; moskva-svobodnyj; moskva-svobodnyj-2; moskva-severnyj; ufa-yuzhnyj; ekaterinburg-uralskij; ekaterinburg-uralskij-2; moskva-pushkino; moskva-yuzhnyj"
+ZERO_DEMAND;0;0;0;0;
