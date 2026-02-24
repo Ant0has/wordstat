@@ -1,0 +1,1000 @@
+﻿page_url;city_from;city_to;price;distance_km;total_freq;freq_taksi;freq_transfer;freq_mezhgorod;freq_cena;max_phrase;max_count;in_direct;direct_strategy;segment;sub_segment
+https://city2city.ru/kazan-elabuga;Казань;;6300;210;42076;35681;3250;1629;1516;такси Казань ;35681;NO;;SEO;SEO_GOLD
+https://city2city.ru/kazan-leninogorsk;Казань;;8700;290;42076;35681;3250;1629;1516;такси Казань ;35681;NO;;SEO;SEO_GOLD
+https://city2city.ru/ekaterinburg-sibaj;Екатеринбург;;17700;590;40889;36663;1495;1356;1375;такси Екатеринбург ;36663;NO;;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/ekaterinburg-irbit;Екатеринбург;;6200;205;40889;36663;1495;1356;1375;такси Екатеринбург ;36663;NO;;SEO;SEO_GOLD
+https://city2city.ru/cheljabinsk-uchaly;Челябинск;;6300;190;28072;24846;1549;836;841;такси Челябинск ;24846;NO;;SEO;SEO_GOLD
+https://city2city.ru/cheljabinsk-sibaj;Челябинск;;11400;380;28072;24846;1549;836;841;такси Челябинск ;24846;NO;;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/cheljabinsk-beloreck;Челябинск;;8600;285;28072;24846;1549;836;841;такси Челябинск ;24846;NO;;SEO;SEO_GOLD
+https://city2city.ru/cheljabinsk-magnitogorsk;Челябинск;;9300;310;28072;24846;1549;836;841;такси Челябинск ;24846;NO;;SEO;SEO_GOLD
+https://city2city.ru/cheljabinsk-kurgan;Челябинск;;8100;270;28072;24846;1549;836;841;такси Челябинск ;24846;NO;;SEO;SEO_GOLD
+https://city2city.ru/donetsk-perm;Донецк;;66500;2220;10273;9553;180;141;399;такси Донецк ;9553;NO;;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/donetsk-tambov;Донецк;;26000;870;10273;9553;180;141;399;такси Донецк ;9553;NO;;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/donetsk-orenburg;Донецк;;53000;1770;10273;9553;180;141;399;такси Донецк ;9553;NO;;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/donetsk-volgograd;Донецк;;18600;620;10273;9553;180;141;399;такси Донецк ;9553;NO;;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/donetsk-kirov;Донецк;;56000;1860;10273;9553;180;141;399;такси Донецк ;9553;NO;;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/donetsk-maykop;Донецк;;22000;540;10273;9553;180;141;399;такси Донецк ;9553;NO;;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/donetsk-saratov;Донецк;;29000;970;10273;9553;180;141;399;такси Донецк ;9553;NO;;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/donetsk-ufa;Донецк;;57300;1910;10273;9553;180;141;399;такси Донецк ;9553;NO;;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/donetsk-ekaterinburg;Донецк;;68500;2280;10273;9553;180;141;399;такси Донецк ;9553;NO;;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/donetsk-chelyabinsk;Донецк;;67500;2250;10273;9553;180;141;399;такси Донецк ;9553;NO;;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/donetsk-saransk;Донецк;;35000;1160;10273;9553;180;141;399;такси Донецк ;9553;NO;;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/donetsk-kazan;Донецк;;47500;1580;10273;9553;180;141;399;такси Донецк ;9553;NO;;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/donetsk-yoshkar-ola;Донецк;;47000;1560;10273;9553;180;141;399;такси Донецк ;9553;NO;;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/bratsk-irkutsk;Братск;Иркутск;18500;620;1371;1197;4;58;112;такси Братск Иркутск;1197;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/izhevsk-kazan;Ижевск;Казань;11000;365;1026;128;856;8;34;трансфер Ижевск Казань;856;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/ekaterinburg-chelyabinsk-2;Екатеринбург;Челябинск;6500;210;962;642;180;62;78;такси Екатеринбург Челябинск;642;NO;;SEO;SEO_GOLD
+https://city2city.ru/chelyabinsk-ekaterinburg;Челябинск;Екатеринбург;6300;210;962;642;180;62;78;такси Челябинск Екатеринбург;642;NO;;SEO;SEO_GOLD
+https://city2city.ru/enisejsk-krasnojarsk;Енисейск;Красноярск;10200;340;535;483;5;35;12;такси Енисейск Красноярск;483;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/elista-volgograd;Элиста;Волгоград;8800;295;456;115;330;3;8;трансфер Элиста Волгоград;330;NO;;SEO;SEO_INVEST
+https://city2city.ru/kazan-moskva;Казань;Москва;24300;810;399;280;27;40;52;такси Казань Москва;280;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/izhevsk-ufa;Ижевск;Уфа;10200;340;384;122;234;15;13;трансфер Ижевск Уфа;234;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/belgorod-moskva;Белгород;Москва;19800;660;365;298;13;1;53;такси Белгород Москва;298;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/ekaterinburg-irbit-2;Екатеринбург;Ирбит;6200;205;341;250;0;68;23;такси Екатеринбург Ирбит;250;NO;;SEO;SEO_INVEST
+https://city2city.ru/joshkar-ola-kazan;Йошкар-Ола;Казань;4500;145;325;198;82;5;40;такси Йошкар-Ола Казань;198;NO;;SEO;SEO_INVEST
+https://city2city.ru/ekaterinburg-tyumen;Екатеринбург;Тюмень;9900;330;303;198;48;23;34;такси Екатеринбург Тюмень;198;NO;;SEO;SEO_INVEST
+https://city2city.ru/kemerovo-novosibirsk;Кемерово;Новосибирск;7800;260;299;161;95;11;32;такси Кемерово Новосибирск;161;NO;;SEO;SEO_INVEST
+https://city2city.ru/blagoveshhensk-svobodnyj;Благовещенск;Свободный;5100;155;297;264;11;12;10;такси Благовещенск Свободный;264;NO;;SEO;SEO_INVEST
+https://city2city.ru/barnaul-belokuriha;Барнаул;Белокуриха;6800;225;280;152;85;9;34;такси Барнаул Белокуриха;152;NO;;SEO;SEO_INVEST
+https://city2city.ru/irkutsk-angarsk;Иркутск;Ангарск;3000;45;278;207;3;34;34;такси Иркутск Ангарск;207;NO;;SEO;SEO_INVEST
+https://city2city.ru/chelyabinsk-ufa;Челябинск;Уфа;12400;415;251;202;4;31;14;такси Челябинск Уфа;202;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/kazan-orenburg;Казань;Оренбург;21900;730;247;184;4;31;28;такси Казань Оренбург;184;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/ekaterinburg-magnitogorsk-2;Екатеринбург;Магнитогорск;15600;520;240;84;132;11;13;трансфер Екатеринбург Магнитогорск;132;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/izhevsk-sarapul;Ижевск;Сарапул;3200;70;239;197;6;9;27;такси Ижевск Сарапул;197;NO;;SEO;SEO_INVEST
+https://city2city.ru/chelyabinsk-miass;Челябинск;Миасс;3800;105;237;158;46;10;23;такси Челябинск Миасс;158;NO;;SEO;SEO_INVEST
+https://city2city.ru/barnaul-biysk-2;Барнаул;Бийск;5300;160;219;105;93;4;17;такси Барнаул Бийск;105;NO;;SEO;SEO_INVEST
+https://city2city.ru/izhevsk-votkinsk;Ижевск;Воткинск;3000;65;208;151;6;8;43;такси Ижевск Воткинск;151;NO;;SEO;SEO_INVEST
+https://city2city.ru/kazan-oktyabrskij-respublika-bashkortostan;Казань;Октябрьский;12300;410;206;153;2;51;0;такси Казань Октябрьский;153;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/kazan-aznakaevo;Казань;Азнакаево;9300;310;204;189;0;2;13;такси Казань Азнакаево;189;NO;;SEO;SEO_INVEST
+https://city2city.ru/kazan-zelenodolsk;Казань;Зеленодольск;3000;45;201;158;4;9;30;такси Казань Зеленодольск;158;NO;;SEO;SEO_INVEST
+https://city2city.ru/kemerovo-novokuznetsk;Кемерово;Новокузнецк;6600;220;188;87;55;26;20;такси Кемерово Новокузнецк;87;NO;;SEO;SEO_INVEST
+https://city2city.ru/ekaterinburg-sibaj-2;Екатеринбург;Сибай;17700;590;182;164;1;8;9;такси Екатеринбург Сибай;164;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/barnaul-gorno-altaysk;Барнаул;Горно-Алтайск;7600;255;179;107;51;0;21;такси Барнаул Горно-Алтайск;107;NO;;SEO;SEO_INVEST
+https://city2city.ru/ekaterinburg-pervouralsk;Екатеринбург;Первоуральск;3000;45;172;136;6;5;25;такси Екатеринбург Первоуральск;136;NO;;SEO;SEO_INVEST
+https://city2city.ru/chelyabinsk-chebarkul;Челябинск;Чебаркуль;3800;85;169;135;3;0;31;такси Челябинск Чебаркуль;135;NO;;SEO;SEO_INVEST
+https://city2city.ru/ekaterinburg-moskva;Екатеринбург;Москва;50200;1675;154;119;3;14;18;такси Екатеринбург Москва;119;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/izhevsk-agryz;Ижевск;Агрыз;3000;40;152;121;4;2;25;такси Ижевск Агрыз;121;NO;;SEO;SEO_INVEST
+https://city2city.ru/ivanovo-yaroslavl;Иваново;Ярославль;4100;115;147;74;50;2;21;такси Иваново Ярославль;74;NO;;SEO;SEO_INVEST
+https://city2city.ru/elista-astraxan;Элиста;Астрахань;9300;310;144;89;46;3;6;такси Элиста Астрахань;89;NO;;SEO;SEO_INVEST
+https://city2city.ru/astraxan-elista;Астрахань;Элиста;9300;310;144;89;46;3;6;такси Астрахань Элиста;89;NO;;SEO;SEO_INVEST
+https://city2city.ru/izhevsk-perm;Ижевск;Пермь;8500;280;136;39;89;5;3;трансфер Ижевск Пермь;89;NO;;SEO;SEO_INVEST
+https://city2city.ru/ekaterinburg-ozyorsk;Екатеринбург;Озерск;4500;145;135;133;0;1;1;такси Екатеринбург Озерск;133;NO;;SEO;SEO_INVEST
+https://city2city.ru/cheboksary-novocheboksarsk;Чебоксары;Новочебоксарск;3000;15;130;106;0;4;20;такси Чебоксары Новочебоксарск;106;NO;;SEO;SEO_INVEST
+https://city2city.ru/belgorod-voronezh;Белгород;Воронеж;7600;255;126;101;2;4;19;такси Белгород Воронеж;101;NO;;SEO;SEO_INVEST
+https://city2city.ru/kazan-bavly;Казань;Бавлы;10500;350;126;116;0;9;1;такси Казань Бавлы;116;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/kaluga-tula;Калуга;Тула;3000;105;120;85;15;1;19;такси Калуга Тула;85;NO;;SEO;SEO_INVEST
+https://city2city.ru/kazan-tujmazy;Казань;Туймазы;11400;379;120;93;1;23;3;такси Казань Туймазы;93;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/ivanovo-vladimir;Иваново;Владимир;3500;115;117;77;33;0;7;такси Иваново Владимир;77;NO;;SEO;SEO_INVEST
+https://city2city.ru/ekaterinburg-kamensk-uralskij;Екатеринбург;Каменск-Уральский;3600;100;113;87;2;9;15;такси Екатеринбург Каменск-Уральский;87;NO;;SEO;SEO_INVEST
+https://city2city.ru/blagoveshhensk-belogorsk;Благовещенск;Белогорск;4700;130;110;91;2;6;11;такси Благовещенск Белогорск;91;NO;;SEO;SEO_INVEST
+https://city2city.ru/belogorsk-blagoveshhensk;Белогорск;Благовещенск;4700;130;110;91;2;6;11;такси Белогорск Благовещенск;91;NO;;SEO;SEO_INVEST
+https://city2city.ru/ivanovo-plyos;Иваново;Плёс;3200;70;110;74;18;0;18;такси Иваново Плёс;74;NO;;SEO;SEO_INVEST
+https://city2city.ru/izhevsk-glazov;Ижевск;Глазов;5800;175;103;84;11;1;7;такси Ижевск Глазов;84;NO;;SEO;SEO_INVEST
+https://city2city.ru/kemerovo-yurga;Кемерово;Юрга;4300;95;102;65;1;18;18;такси Кемерово Юрга;65;NO;;SEO;SEO_INVEST
+https://city2city.ru/aldan-jakutsk;Алдан;Якутск;15800;525;100;85;9;6;0;такси Алдан Якутск;85;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_PRIORITY
+https://city2city.ru/chelyabinsk-kopejsk;Челябинск;Копейск;3000;15;100;88;0;7;5;такси Челябинск Копейск;88;NO;;SEO;SEO_INVEST
+https://city2city.ru/astraxan-volgograd;Астрахань;Волгоград;12800;425;97;71;3;6;17;такси Астрахань Волгоград;71;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kaluga-obninsk;Калуга;Обнинск;2500;85;96;79;1;0;16;такси Калуга Обнинск;79;NO;;SEO;SEO_STANDARD
+https://city2city.ru/irkutsk-shelexov;Иркутск;Шелехов;2000;20;94;80;0;1;13;такси Иркутск Шелехов;80;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ivanovo-kostroma;Иваново;Кострома;3000;105;93;47;32;1;13;такси Иваново Кострома;47;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kemerovo-belovo;Кемерово;Белово;3500;120;89;69;3;6;11;такси Кемерово Белово;69;NO;;SEO;SEO_STANDARD
+https://city2city.ru/elista-moskva;Элиста;Москва;38000;1265;88;61;23;0;4;такси Элиста Москва;61;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/chelyabinsk-moskva;Челябинск;Москва;52500;1745;87;78;1;0;8;такси Челябинск Москва;78;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/irkutsk-usole-sibirskoe;Иркутск;Усолье-Сибирское;3800;85;84;62;4;1;17;такси Иркутск Усолье-Сибирское;62;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ivanovo-kineshma;Иваново;Кинешма;3800;105;83;60;5;1;17;такси Иваново Кинешма;60;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kemerovo-prokopevsk;Кемерово;Прокопьевск;6400;195;81;50;7;16;8;такси Кемерово Прокопьевск;50;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-verxnyaya-pyshma;Екатеринбург;Верхняя Пышма;2000;25;80;63;7;1;9;такси Екатеринбург Верхняя Пышма;63;NO;;SEO;SEO_STANDARD
+https://city2city.ru/belgorod-rossosh;Белгород;Россошь;7800;260;79;55;13;0;11;такси Белгород Россошь;55;NO;;SEO;SEO_STANDARD
+https://city2city.ru/belgorod-rossosh-2;Белгород;Россошь;7800;260;79;55;13;0;11;такси Белгород Россошь;55;NO;;SEO;SEO_STANDARD
+https://city2city.ru/chelyabinsk-zlatoust;Челябинск;Златоуст;5000;150;79;53;14;9;3;такси Челябинск Златоуст;53;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-alapaevsk;Екатеринбург;Алапаевск;5300;160;78;56;0;9;13;такси Екатеринбург Алапаевск;56;NO;;SEO;SEO_STANDARD
+https://city2city.ru/chelyabinsk-tyumen;Челябинск;Тюмень;12600;420;78;62;4;9;3;такси Челябинск Тюмень;62;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kemerovo-tomsk;Кемерово;Томск;6200;205;78;44;19;3;12;такси Кемерово Томск;44;NO;;SEO;SEO_STANDARD
+https://city2city.ru/barnaul-novoaltaysk;Барнаул;Новоалтайск;2000;20;75;65;0;2;8;такси Барнаул Новоалтайск;65;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-severouralsk;Екатеринбург;Североуральск;13200;440;74;68;0;1;5;такси Екатеринбург Североуральск;68;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/izhevsk-moskva;Ижевск;Москва;35500;1180;74;56;4;5;9;такси Ижевск Москва;56;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/ekaterinburg-beloreczk;Екатеринбург;Белорецк;53700;1790;73;67;0;5;1;такси Екатеринбург Белорецк;67;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/astraxan-moskva;Астрахань;Москва;41800;1395;72;61;0;1;10;такси Астрахань Москва;61;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/hanty-mansijsk-njagan;Ханты-Мансийск;Нягань;8700;290;71;54;4;0;13;такси Ханты-Мансийск Нягань;54;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-asbest;Екатеринбург;Асбест;3800;85;70;48;0;7;15;такси Екатеринбург Асбест;48;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kazan-innopolis;Казань;Иннополис;2000;40;70;62;4;0;4;такси Казань Иннополис;62;NO;;SEO;SEO_STANDARD
+https://city2city.ru/irkutsk-slyudyanka;Иркутск;Слюдянка;3800;105;69;58;2;0;9;такси Иркутск Слюдянка;58;NO;;SEO;SEO_STANDARD
+https://city2city.ru/belgorod-stroitel;Белгород;Строитель;2000;25;69;64;0;0;5;такси Белгород Строитель;64;NO;;SEO;SEO_STANDARD
+https://city2city.ru/izhevsk-neftekamsk;Ижевск;Нефтекамск;4700;130;69;57;1;4;7;такси Ижевск Нефтекамск;57;NO;;SEO;SEO_STANDARD
+https://city2city.ru/irkutsk-cheremxovo;Иркутск;Черемхово;5200;145;69;50;0;3;16;такси Иркутск Черемхово;50;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ivanovo-vichuga;Иваново;Вичуга;3400;75;69;48;0;1;20;такси Иваново Вичуга;48;NO;;SEO;SEO_STANDARD
+https://city2city.ru/belgorod-shebekino;Белгород;Шебекино;2000;35;68;58;0;0;10;такси Белгород Шебекино;58;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kazan-belebej;Казань;Белебей;13000;435;67;65;1;1;0;такси Казань Белебей;65;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kazan-tolyatti;Казань;Тольятти;10000;340;65;43;8;3;11;такси Казань Тольятти;43;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/chelyabinsk-app-bugristoe;Челябинск;Троицк;4500;150;64;46;6;3;9;такси Челябинск Троицк;46;NO;;SEO;SEO_STANDARD
+https://city2city.ru/blagoveshhensk-jakutsk;Благовещенск;Якутск;53000;1765;62;48;0;10;4;такси Благовещенск Якутск;48;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/belgorod-valujki;Белгород;Валуйки;5300;147;62;55;0;0;7;такси Белгород Валуйки;55;NO;;SEO;SEO_STANDARD
+https://city2city.ru/barnaul-alyaysk;Барнаул;Алейск;4900;135;61;47;0;2;12;такси Барнаул Алейск;47;NO;;SEO;SEO_STANDARD
+https://city2city.ru/barnaul-rubtsovsk;Барнаул;Рубцовск;8800;295;59;52;1;0;6;такси Барнаул Рубцовск;52;NO;;SEO;SEO_STANDARD
+https://city2city.ru/cheboksary-nizhnij-novgorod;Чебоксары;Нижний Новгород;7000;240;57;33;12;1;11;такси Чебоксары Нижний Новгород;33;NO;;SEO;SEO_STANDARD
+https://city2city.ru/cheboksary-czivilsk;Чебоксары;Цивильск;2000;35;56;43;0;0;13;такси Чебоксары Цивильск;43;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-sysert;Екатеринбург;Сысерть;3000;50;56;47;1;2;6;такси Екатеринбург Сысерть;47;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-miass;Екатеринбург;Миасс;7200;240;55;39;5;2;9;такси Екатеринбург Миасс;39;NO;;SEO;SEO_STANDARD
+https://city2city.ru/irkutsk-kirensk;Иркутск;Киренск;28500;950;55;52;0;1;2;такси Иркутск Киренск;52;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/bratsk-krasnojarsk;Братск;Красноярск;20400;680;55;49;0;3;3;такси Братск Красноярск;49;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/ekaterinburg-beryozovskij;Екатеринбург;Берёзовский;2000;20;55;48;3;1;3;такси Екатеринбург Берёзовский;48;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-kazan;Екатеринбург;Казань;26700;890;54;42;6;1;5;такси Екатеринбург Казань;42;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/bryansk-domodedovo;Брянск;Домодедово;12000;400;53;2;51;0;0;трансфер Брянск Домодедово;51;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kemerovo-krasnoyarsk;Кемерово;Красноярск;15800;525;53;24;20;5;4;такси Кемерово Красноярск;24;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kazan-bolgar;Казань;Болгар;6100;185;51;42;3;2;4;такси Казань Болгар;42;NO;;SEO;SEO_STANDARD
+https://city2city.ru/chelyabinsk-orenburg;Челябинск;Оренбург;22400;745;51;38;2;9;2;такси Челябинск Оренбург;38;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/chelyabinsk-satka;Челябинск;Сатка;5500;190;51;38;1;2;10;такси Челябинск Сатка;38;NO;;SEO;SEO_STANDARD
+https://city2city.ru/belgorod-sankt-peterburg;Белгород;Санкт-Петербург;41000;1365;49;36;1;0;12;такси Белгород Санкт-Петербург;36;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/bryansk-smolensk;Брянск;Смоленск;7400;245;49;37;1;0;11;такси Брянск Смоленск;37;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kaluga-suvorov;Калуга;Суворов;2000;55;48;36;0;0;12;такси Калуга Суворов;36;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-novouralsk;Екатеринбург;Новоуральск;2500;80;48;41;4;1;2;такси Екатеринбург Новоуральск;41;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-rezh;Екатеринбург;Реж;2500;85;48;39;0;4;5;такси Екатеринбург Реж;39;NO;;SEO;SEO_STANDARD
+https://city2city.ru/bryansk-dyatkovo;Брянск;Дятьково;3000;45;47;41;0;0;6;такси Брянск Дятьково;41;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-revda-2;Екатеринбург;Ревда;2000;50;47;38;1;6;2;такси Екатеринбург Ревда;38;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kazan-volzhsk;Казань;Волжск;3000;60;47;41;0;3;3;такси Казань Волжск;41;NO;;SEO;SEO_STANDARD
+https://city2city.ru/irkutsk-krasnoyarsk;Иркутск;Красноярск;31800;1060;46;33;0;0;13;такси Иркутск Красноярск;33;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/astraxan-xarabali;Астрахань;Харабали;5300;160;46;46;0;0;0;такси Астрахань Харабали;46;NO;;SEO;SEO_STANDARD
+https://city2city.ru/chelyabinsk-orsk;Челябинск;Орск;18300;610;46;32;0;0;14;такси Челябинск Орск;32;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kemerovo-anzhero-sudzhensk;Кемерово;Анжеро-Судженск;3000;100;45;29;0;9;7;такси Кемерово Анжеро-Судженск;29;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-zarechnyj-2;Екатеринбург;Заречный;2000;55;44;39;2;1;2;такси Екатеринбург Заречный;39;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kemerovo-kiselyovsk;Кемерово;Киселёвск;5000;175;44;9;1;31;3;межгород Кемерово Киселёвск;31;NO;;SEO;SEO_STANDARD
+https://city2city.ru/chelyabinsk-yuzhnouralsk;Челябинск;Южноуральск;2500;90;44;34;1;1;8;такси Челябинск Южноуральск;34;NO;;SEO;SEO_STANDARD
+https://city2city.ru/cheboksary-alatyr;Чебоксары;Алатырь;6000;195;44;34;0;6;4;такси Чебоксары Алатырь;34;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-orenburg;Екатеринбург;Оренбург;28800;960;43;39;1;1;2;такси Екатеринбург Оренбург;39;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kazan-buinsk;Казань;Буинск;4500;145;43;36;1;0;6;такси Казань Буинск;36;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kazan-saratov;Казань;Саратов;19600;655;42;31;4;3;4;такси Казань Саратов;31;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/elista-mineralnye-vody;Элиста;Минеральные Воды;9300;310;42;11;31;0;0;трансфер Элиста Минеральные Воды;31;NO;;SEO;SEO_STANDARD
+https://city2city.ru/izhevsk-samara;Ижевск;Самара;16500;555;42;32;4;1;5;такси Ижевск Самара;32;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kazan-magnitogorsk;Казань;Магнитогорск;26100;870;42;20;19;1;2;такси Казань Магнитогорск;20;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/cheboksary-ulyanovsk;Чебоксары;Ульяновск;7000;240;41;28;6;3;4;такси Чебоксары Ульяновск;28;NO;;SEO;SEO_STANDARD
+https://city2city.ru/bryansk-starodub;Брянск;Стародуб;5000;140;41;35;0;0;6;такси Брянск Стародуб;35;NO;;SEO;SEO_STANDARD
+https://city2city.ru/irkutsk-zima;Иркутск;Зима;8000;270;40;35;3;2;0;такси Иркутск Зима;35;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kemerovo-tayga;Кемерово;Тайга;3800;105;40;27;2;2;9;такси Кемерово Тайга;27;NO;;SEO;SEO_STANDARD
+https://city2city.ru/irkutsk-severobajkalsk;Иркутск;Северобайкальск;24600;820;40;30;0;10;0;такси Иркутск Северобайкальск;30;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/blagoveshhensk-zeya;Благовещенск;Зея;15300;510;40;36;0;4;0;такси Благовещенск Зея;36;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/elista-stavropol;Элиста;Ставрополь;8000;265;39;31;8;0;0;такси Элиста Ставрополь;31;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kemerovo-topki;Кемерово;Топки;3000;35;39;32;0;1;6;такси Кемерово Топки;32;NO;;SEO;SEO_STANDARD
+https://city2city.ru/irkutsk-novosibirsk;Иркутск;Новосибирск;55000;1835;39;31;0;0;8;такси Иркутск Новосибирск;31;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/bryansk-pochep;Брянск;Почеп;2500;80;38;37;0;0;1;такси Брянск Почеп;37;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-kachkanar;Екатеринбург;Качканар;7500;255;38;23;4;5;6;такси Екатеринбург Качканар;23;NO;;SEO;SEO_STANDARD
+https://city2city.ru/chelyabinsk-emanzhelinsk;Челябинск;Еманжелинск;2000;55;38;32;0;0;6;такси Челябинск Еманжелинск;32;NO;;SEO;SEO_STANDARD
+https://city2city.ru/bryansk-oryol;Брянск;Орёл;4000;130;38;30;4;0;4;такси Брянск Орёл;30;NO;;SEO;SEO_STANDARD
+https://city2city.ru/energodar-ufa;Энергодар;;65500;2190;38;36;1;0;1;такси Энергодар ;36;NO;;DIRECT;DIRECT_STANDARD
+https://city2city.ru/energodar-rostov-na-don;Энергодар;;14000;460;38;36;1;0;1;такси Энергодар ;36;NO;;DIRECT;DIRECT_STANDARD
+https://city2city.ru/energodar-simferopol;Энергодар;;10500;350;38;36;1;0;1;такси Энергодар ;36;NO;;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kazan-vyatskie-polyany;Казань;Вятские Поляны;5000;165;38;34;1;2;1;такси Казань Вятские Поляны;34;NO;;SEO;SEO_STANDARD
+https://city2city.ru/izhevsk-nizhnekamsk;Ижевск;Нижнекамск;6300;210;37;2;34;0;1;трансфер Ижевск Нижнекамск;34;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ivanovo-suzdal;Иваново;Суздаль;3600;80;37;20;15;0;2;такси Иваново Суздаль;20;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ivanovo-rostov-velikij;Иваново;Ростов;4700;130;37;11;24;0;2;трансфер Иваново Ростов;24;NO;;SEO;SEO_STANDARD
+https://city2city.ru/aeroport-gagarin-balakovo;аэропорт Гагарин;Балаково;5100;155;37;27;4;0;6;такси аэропорт Гагарин Балаково;27;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kazan-laishevo;Казань;Лаишево;3000;60;36;28;0;3;5;такси Казань Лаишево;28;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-nevyansk;Екатеринбург;Невьянск;2500;90;36;22;2;6;6;такси Екатеринбург Невьянск;22;NO;;SEO;SEO_STANDARD
+https://city2city.ru/chelyabinsk-ozyorsk;Челябинск;Озерск;3500;115;36;30;1;4;1;такси Челябинск Озерск;30;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kaluga-maloyaroslavecz;Калуга;Малоярославец;2000;70;35;28;0;0;7;такси Калуга Малоярославец;28;NO;;SEO;SEO_STANDARD
+https://city2city.ru/chelyabinsk-shhuche;Челябинск;Щучье;3000;100;35;30;0;0;5;такси Челябинск Щучье;30;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kemerovo-leninsk-kuznetskiy;Кемерово;Ленинск-Кузнецкий;3000;100;35;21;0;4;10;такси Кемерово Ленинск-Кузнецкий;21;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kazan-sibaj;Казань;Сибай;28400;945;35;32;0;0;3;такси Казань Сибай;32;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/chelyabinsk-korkino;Челябинск;Коркино;3000;40;34;32;0;1;1;такси Челябинск Коркино;32;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kaluga-kirov-kaluzhskaya-oblast;Калуга;Киров;36000;1200;34;31;0;0;3;такси Калуга Киров;31;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/ekaterinburg-izhevsk;Екатеринбург;Ижевск;17000;565;34;11;23;0;0;трансфер Екатеринбург Ижевск;23;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/izhevsk-ekaterinburg;Ижевск;Екатеринбург;17100;570;34;11;23;0;0;трансфер Ижевск Екатеринбург;23;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/ekaterinburg-nizhnyaya-tura;Екатеринбург;Нижняя Тура;7000;235;33;29;0;1;3;такси Екатеринбург Нижняя Тура;29;NO;;SEO;SEO_STANDARD
+https://city2city.ru/irkutsk-sayansk;Иркутск;Саянск;8500;285;33;26;0;0;7;такси Иркутск Саянск;26;NO;;SEO;SEO_STANDARD
+https://city2city.ru/astraxan-narimanov;Астрахань;Нариманов;2000;45;33;28;0;0;5;такси Астрахань Нариманов;28;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kazan-buguruslan;Казань;Бугуруслан;11700;390;32;29;0;0;3;такси Казань Бугуруслан;29;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/barnaul-zarinsk;Барнаул;Заринск;3500;115;32;27;0;2;3;такси Барнаул Заринск;27;NO;;SEO;SEO_STANDARD
+https://city2city.ru/astraxan-rostov-na-donu;Астрахань;Ростов-на-Дону;23100;770;32;21;6;0;5;такси Астрахань Ростов-на-Дону;21;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kazan-neftekamsk;Казань;Нефтекамск;12400;415;32;20;0;12;0;такси Казань Нефтекамск;20;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/ivanovo-nizhnij-novgorod;Иваново;Нижний Новгород;7500;245;31;17;12;0;2;такси Иваново Нижний Новгород;17;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-chebarkul;Екатеринбург;Чебаркуль;7800;260;31;25;0;3;3;такси Екатеринбург Чебаркуль;25;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kemerovo-beryozovskiy;Кемерово;Берёзовский;55800;1860;31;24;0;2;5;такси Кемерово Берёзовский;24;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/astraxan-stavropol;Астрахань;Ставрополь;17400;580;31;28;0;0;3;такси Астрахань Ставрополь;28;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/bryansk-kursk;Брянск;Курск;8500;285;30;20;1;0;9;такси Брянск Курск;20;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kaluga-kozelsk;Калуга;Козельск;3200;70;30;26;0;1;3;такси Калуга Козельск;26;NO;;SEO;SEO_STANDARD
+https://city2city.ru/chelyabinsk-kusa;Челябинск;Куса;5500;180;30;12;16;0;2;трансфер Челябинск Куса;16;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ivanovo-komsomolsk;Иваново;Комсомольск;3000;55;30;19;2;1;8;такси Иваново Комсомольск;19;NO;;SEO;SEO_STANDARD
+https://city2city.ru/belgorod-samara;Белгород;Самара;35500;1190;30;23;0;0;7;такси Белгород Самара;23;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/belgorod-novyj_oskol;Белгород;Новый Оскол;3500;110;30;19;0;0;11;такси Белгород Новый Оскол;19;NO;;SEO;SEO_STANDARD
+https://city2city.ru/bryansk-lyudinovo;Брянск;Людиново;3600;80;30;26;0;0;4;такси Брянск Людиново;26;NO;;SEO;SEO_STANDARD
+https://city2city.ru/irkutsk-chita;Иркутск;Чита;32800;1095;30;27;0;3;0;такси Иркутск Чита;27;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/belgorod-lipeck;Белгород;Липецк;11500;385;29;18;0;3;8;такси Белгород Липецк;18;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/ekaterinburg-zlatoust;Екатеринбург;Златоуст;8100;270;29;23;3;1;2;такси Екатеринбург Златоуст;23;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kazan-volgograd;Казань;Волгоград;30900;1030;28;22;0;0;6;такси Казань Волгоград;22;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/belgorod-korocha;Белгород;Короча;3000;55;28;20;0;0;8;такси Белгород Короча;20;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ivanovo-yuzha;Иваново;Южа;3000;95;27;20;1;1;5;такси Иваново Южа;20;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-ulyanovsk;Екатеринбург;Ульяновск;30200;1005;27;20;0;0;7;такси Екатеринбург Ульяновск;20;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/belgorod-kazan;Белгород;Казань;38600;1285;27;15;0;0;12;такси Белгород Казань;15;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kazan-belgorod;Казань;Белгород;40400;1345;27;15;0;0;12;такси Казань Белгород;15;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kaluga-lyudinovo;Калуга;Людиново;5800;175;27;17;0;0;10;такси Калуга Людиново;17;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kazan-orsk;Казань;Орск;29700;990;27;23;1;3;0;такси Казань Орск;23;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/irkutsk-bodajbo;Иркутск;Бодайбо;43800;1460;27;20;1;6;0;такси Иркутск Бодайбо;20;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/joshkar-ola-volzhsk;Йошкар-Ола;Волжск;3000;100;26;23;0;0;3;такси Йошкар-Ола Волжск;23;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kazan-arsk;Казань;Арск;3200;70;26;22;0;0;4;такси Казань Арск;22;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-krasnoturinsk;Екатеринбург;Краснотурьинск;11600;385;26;23;0;0;3;такси Екатеринбург Краснотурьинск;23;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/ekaterinburg-aramil;Екатеринбург;Арамиль;2000;25;26;25;0;0;1;такси Екатеринбург Арамиль;25;NO;;SEO;SEO_STANDARD
+https://city2city.ru/cheboksary-penza;Чебоксары;Пенза;14000;470;26;22;0;0;4;такси Чебоксары Пенза;22;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kazan-zainsk;Казань;Заинск;7200;240;25;23;1;0;1;такси Казань Заинск;23;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-krasnoufimsk;Екатеринбург;Красноуфимск;6000;200;25;16;2;5;2;такси Екатеринбург Красноуфимск;16;NO;;SEO;SEO_STANDARD
+https://city2city.ru/handyga-jakutsk;Хандыга;Якутск;12600;420;25;23;0;1;1;такси Хандыга Якутск;23;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kaluga-tarusa;Калуга;Таруса;2000;70;25;19;1;0;5;такси Калуга Таруса;19;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kazan-malmyzh;Казань;Малмыж;5000;140;25;24;0;0;1;такси Казань Малмыж;24;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-serov;Екатеринбург;Серов;10500;350;25;18;1;3;3;такси Екатеринбург Серов;18;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/irkutsk-ust-ilimsk;Иркутск;Усть-Илимск;27000;900;25;24;0;0;1;такси Иркутск Усть-Илимск;24;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/joshkar-ola-kirov;Йошкар-Ола;Киров;9000;300;24;16;1;2;5;такси Йошкар-Ола Киров;16;NO;;SEO;SEO_STANDARD
+https://city2city.ru/irkutsk-tulun;Иркутск;Тулун;12000;400;24;21;0;1;2;такси Иркутск Тулун;21;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/blagoveshhensk-nerjungri;Благовещенск;Нерюнгри;29400;980;24;19;0;3;2;такси Благовещенск Нерюнгри;19;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kemerovo-barnaul;Кемерово;Барнаул;12000;395;24;19;5;0;0;такси Кемерово Барнаул;19;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/ekaterinburg-oktyabrskij-5;Екатеринбург;Октябрьский;18500;620;24;17;0;6;1;такси Екатеринбург Октябрьский;17;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/astraxan-kamyzyak;Астрахань;Камызяк;3000;35;23;18;0;0;5;такси Астрахань Камызяк;18;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ivanovo-kovrov;Иваново;Ковров;4300;95;23;19;0;0;4;такси Иваново Ковров;19;NO;;SEO;SEO_STANDARD
+https://city2city.ru/bryansk-trubchevsk;Брянск;Трубчевск;3000;95;23;21;0;0;2;такси Брянск Трубчевск;21;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ivanovo-privolzhsk;Иваново;Приволжск;2000;50;23;19;0;0;4;такси Иваново Приволжск;19;NO;;SEO;SEO_STANDARD
+https://city2city.ru/barnaul-tomsk;Барнаул;Томск;14700;490;23;17;4;0;2;такси Барнаул Томск;17;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/bryansk-karachev;Брянск;Карачев;3000;45;22;21;0;0;1;такси Брянск Карачев;21;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ivanovo-rodniki;Иваново;Родники;3000;55;22;22;0;0;0;такси Иваново Родники;22;NO;;SEO;SEO_STANDARD
+https://city2city.ru/habarovsk-jakutsk;Хабаровск;Якутск;69900;2330;22;20;0;0;2;такси Хабаровск Якутск;20;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kazan-kukmor;Казань;Кукмор;5100;155;22;20;0;0;2;такси Казань Кукмор;20;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kazan-salavat;Казань;Салават;19800;660;22;19;0;0;3;такси Казань Салават;19;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kaluga-meshhovsk;Калуга;Мещовск;2500;85;22;17;0;0;5;такси Калуга Мещовск;17;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-snezhinsk;Екатеринбург;Снежинск;3000;105;22;19;0;2;1;такси Екатеринбург Снежинск;19;NO;;SEO;SEO_STANDARD
+https://city2city.ru/izhevsk-naberezhnye-chelny;Ижевск;Набережные Челны;5500;190;21;7;14;0;0;трансфер Ижевск Набережные Челны;14;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kaluga-smolensk;Калуга;Смоленск;10500;350;21;18;0;0;3;такси Калуга Смоленск;18;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/chelyabinsk-sankt-peterburg;Челябинск;Санкт-Петербург;73200;2440;21;17;1;0;3;такси Челябинск Санкт-Петербург;17;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/chelyabinsk-karabash;Челябинск;Карабаш;3500;110;21;16;0;0;5;такси Челябинск Карабаш;16;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kaluga-bryansk;Калуга;Брянск;7000;225;21;16;3;0;2;такси Калуга Брянск;16;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kazan-mamadysh;Казань;Мамадыш;5600;170;21;20;0;0;1;такси Казань Мамадыш;20;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kazan-novocheboksarsk;Казань;Новочебоксарск;4500;150;21;16;0;0;5;такси Казань Новочебоксарск;16;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-voronezh;Екатеринбург;Воронеж;54200;1805;21;11;0;8;2;такси Екатеринбург Воронеж;11;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/bryansk-sevsk;Брянск;Севск;4000;140;21;15;0;0;6;такси Брянск Севск;15;NO;;SEO;SEO_STANDARD
+https://city2city.ru/bryansk-kaluga;Брянск;Калуга;6800;225;21;16;3;0;2;такси Брянск Калуга;16;NO;;SEO;SEO_STANDARD
+https://city2city.ru/bryansk-novozybkov;Брянск;Новозыбков;6000;200;21;19;0;0;2;такси Брянск Новозыбков;19;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-talicza;Екатеринбург;Талица;6500;220;21;15;0;2;4;такси Екатеринбург Талица;15;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-sredneuralsk;Екатеринбург;Среднеуральск;3000;25;20;16;0;1;3;такси Екатеринбург Среднеуральск;16;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-samara;Екатеринбург;Самара;27200;905;20;15;1;0;4;такси Екатеринбург Самара;15;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/cheboksary-naberezhnye-chelny;Чебоксары;Набережные Челны;12000;405;20;16;1;3;0;такси Чебоксары Набережные Челны;16;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/ekaterinburg-kirov;Екатеринбург;Киров;25500;850;19;8;3;5;3;такси Екатеринбург Киров;8;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/joshkar-ola-zvenigovo;Йошкар-Ола;Звенигово;3000;95;19;13;0;0;6;такси Йошкар-Ола Звенигово;13;NO;;SEO;SEO_STANDARD
+https://city2city.ru/belgorod-tula;Белгород;Тула;14500;485;19;15;0;0;4;такси Белгород Тула;15;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/ekaterinburg-kirov-2;Екатеринбург;Киров;25500;850;19;8;3;5;3;такси Екатеринбург Киров;8;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/belgorod-alekseevka;Белгород;Алексеевка;38000;1260;19;16;0;0;3;такси Белгород Алексеевка;16;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/chelyabinsk-shadrinsk;Челябинск;Шадринск;6500;215;19;14;0;0;5;такси Челябинск Шадринск;14;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kaluga-podolsk;Калуга;Подольск;4500;155;19;15;0;0;4;такси Калуга Подольск;15;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ivanovo-kazan;Иваново;Казань;19000;635;18;10;7;0;1;такси Иваново Казань;10;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/ekaterinburg-artyomovskij;Екатеринбург;Артёмовский;4200;116;18;16;0;0;2;такси Екатеринбург Артёмовский;16;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ivanovo-ryazan;Иваново;Рязань;10500;350;18;12;2;0;4;такси Иваново Рязань;12;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/astraxan-axtubinsk;Астрахань;Ахтубинск;9300;310;18;14;0;0;4;такси Астрахань Ахтубинск;14;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-turinsk;Екатеринбург;Туринск;8000;260;17;14;0;0;3;такси Екатеринбург Туринск;14;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-kushva;Екатеринбург;Кушва;5500;190;17;13;0;0;4;такси Екатеринбург Кушва;13;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kazan-sterlitamak;Казань;Стерлитамак;18500;620;17;14;1;1;1;такси Казань Стерлитамак;14;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/bryansk-surazh;Брянск;Сураж;5000;165;17;11;1;0;5;такси Брянск Сураж;11;NO;;SEO;SEO_STANDARD
+https://city2city.ru/belgorod-vologda;Белгород;Вологда;33900;1130;17;12;0;0;5;такси Белгород Вологда;12;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/belgorod-orel;Белгород;Орёл;9000;300;16;13;0;0;3;такси Белгород Орёл;13;NO;;SEO;SEO_STANDARD
+https://city2city.ru/blagoveshhensk-xabarovsk;Благовещенск;Хабаровск;21600;720;16;11;1;3;1;такси Благовещенск Хабаровск;11;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/elista-rostov-na-donu;Элиста;Ростов-на-Дону;13500;450;16;9;3;0;4;такси Элиста Ростов-на-Дону;9;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kemerovo-mariinsk;Кемерово;Мариинск;5000;175;16;14;0;1;1;такси Кемерово Мариинск;14;NO;;SEO;SEO_STANDARD
+https://city2city.ru/bryansk-unecha;Брянск;Унеча;5000;140;16;14;0;0;2;такси Брянск Унеча;14;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-nizhnie-sergi;Екатеринбург;Нижние Серги;3000;100;16;9;2;0;5;такси Екатеринбург Нижние Серги;9;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ivanovo-aleksandrov;Иваново;Александров;6500;210;15;14;0;1;0;такси Иваново Александров;14;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kazan-sochi;Казань;Сочи;59400;1980;15;4;8;2;1;трансфер Казань Сочи;8;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/izhevsk-orenburg;Ижевск;Оренбург;21800;725;15;15;0;0;0;такси Ижевск Оренбург;15;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/belgorod-tambov;Белгород;Тамбов;14200;475;15;14;0;0;1;такси Белгород Тамбов;14;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/bryansk-voronezh;Брянск;Воронеж;13500;445;15;13;0;0;2;такси Брянск Воронеж;13;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/belgorod-nizhnij-novgorod;Белгород;Нижний Новгород;32500;1080;15;14;0;0;1;такси Белгород Нижний Новгород;14;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/cheboksary-zelenodolsk;Чебоксары;Зеленодольск;3500;120;15;11;0;1;3;такси Чебоксары Зеленодольск;11;NO;;SEO;SEO_STANDARD
+https://city2city.ru/barnaul-zmeinogorsk-2;Барнаул;Змеиногорск;9900;330;15;13;1;0;1;такси Барнаул Змеиногорск;13;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-verxnij-tagil;Екатеринбург;Верхний Тагил;3000;100;15;12;0;0;3;такси Екатеринбург Верхний Тагил;12;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kazan-abdulino;Казань;Абдулино;13200;440;14;10;0;3;1;такси Казань Абдулино;10;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/barnaul-novokuznetsk;Барнаул;Новокузнецк;12500;410;14;7;5;1;1;такси Барнаул Новокузнецк;7;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kaluga-oryol;Калуга;Орёл;6500;210;14;14;0;0;0;такси Калуга Орёл;14;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-orsk;Екатеринбург;Орск;24600;820;14;12;0;2;0;такси Екатеринбург Орск;12;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kazan-vladimir;Казань;Владимир;18600;620;14;11;1;0;2;такси Казань Владимир;11;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kazan-penza;Казань;Пенза;15900;530;14;11;2;1;0;такси Казань Пенза;11;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kazan-zvenigovo;Казань;Звенигово;3800;85;14;10;0;0;4;такси Казань Звенигово;10;NO;;SEO;SEO_STANDARD
+https://city2city.ru/cheboksary-kozmodemyansk;Чебоксары;Козьмодемьянск;2000;70;14;12;0;0;2;такси Чебоксары Козьмодемьянск;12;NO;;SEO;SEO_STANDARD
+https://city2city.ru/joshkar-ola-yaransk;Йошкар-Ола;Яранск;2500;85;14;11;0;2;1;такси Йошкар-Ола Яранск;11;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kaluga-suxinichi;Калуга;Сухиничи;3000;100;14;10;0;1;3;такси Калуга Сухиничи;10;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-kirovgrad;Екатеринбург;Кировград;3000;95;14;12;0;0;2;такси Екатеринбург Кировград;12;NO;;SEO;SEO_STANDARD
+https://city2city.ru/blagoveshhensk-cziolkovskij;Благовещенск;Циолковский;7400;245;14;11;0;0;3;такси Благовещенск Циолковский;11;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-verxnyaya-salda;Екатеринбург;Верхняя Салда;5000;175;14;9;3;0;2;такси Екатеринбург Верхняя Салда;9;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-gubaxa;Екатеринбург;Губаха;12000;400;14;1;13;0;0;трансфер Екатеринбург Губаха;13;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/belgorod-tver;Белгород;Тверь;24900;830;14;12;0;0;2;такси Белгород Тверь;12;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/bryansk-obninsk;Брянск;Обнинск;8500;285;14;11;0;0;3;такси Брянск Обнинск;11;NO;;SEO;SEO_STANDARD
+https://city2city.ru/bryansk-tula;Брянск;Тула;10000;330;13;11;0;0;2;такси Брянск Тула;11;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kaluga-voronezh;Калуга;Воронеж;13000;435;13;10;0;3;0;такси Калуга Воронеж;10;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/joshkar-ola-nizhnij-novgorod;Йошкар-Ола;Нижний Новгород;10500;350;13;10;3;0;0;такси Йошкар-Ола Нижний Новгород;10;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/chelyabinsk-bajmak;Челябинск;Баймак;13500;450;13;13;0;0;0;такси Челябинск Баймак;13;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/ekaterinburg-sochi;Екатеринбург;Сочи;81300;2710;13;7;3;1;2;такси Екатеринбург Сочи;7;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/elista-essentuki;Элиста;Ессентуки;10500;350;13;4;6;0;3;трансфер Элиста Ессентуки;6;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kazan-chelyabinsk;Казань;Челябинск;28400;945;13;3;9;0;1;трансфер Казань Челябинск;9;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/ekaterinburg-sankt-peterburg;Екатеринбург;Санкт-Петербург;71100;2370;13;8;0;3;2;такси Екатеринбург Санкт-Петербург;8;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/chelyabinsk-kazan;Челябинск;Казань;28800;960;13;3;9;0;1;трансфер Челябинск Казань;9;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/belgorod-volgograd;Белгород;Волгоград;24300;810;13;13;0;0;0;такси Белгород Волгоград;13;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/belgorod-biryuch;Белгород;Бирюч;4500;150;12;7;0;0;5;такси Белгород Бирюч;7;NO;;SEO;SEO_STANDARD
+https://city2city.ru/astraxan-lagan;Астрахань;Лагань;5800;175;12;12;0;0;0;такси Астрахань Лагань;12;NO;;SEO;SEO_STANDARD
+https://city2city.ru/chelyabinsk-voronezh;Челябинск;Воронеж;52200;1740;12;12;0;0;0;такси Челябинск Воронеж;12;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kazan-kumertau;Казань;Кумертау;21600;720;12;10;0;0;2;такси Казань Кумертау;10;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/elista-pyatigorsk;Элиста;Пятигорск;9900;330;12;4;5;3;0;трансфер Элиста Пятигорск;5;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-gornozavodsk;Екатеринбург;Горнозаводск;9500;310;12;6;0;0;6;такси Екатеринбург Горнозаводск;6;NO;;SEO;SEO_STANDARD
+https://city2city.ru/astraxan-gorod-lagan;Астрахань;Лагань;5800;175;12;12;0;0;0;такси Астрахань Лагань;12;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kaluga-kurovskoe;Калуга;Куровское;7400;245;12;9;0;0;3;такси Калуга Куровское;9;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-verxnij-ufalej;Екатеринбург;Верхний Уфалей;5500;180;12;12;0;0;0;такси Екатеринбург Верхний Уфалей;12;NO;;SEO;SEO_STANDARD
+https://city2city.ru/chelyabinsk-penza;Челябинск;Пенза;36900;1230;12;10;0;2;0;такси Челябинск Пенза;10;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/barnaul-omsk;Барнаул;Омск;26000;875;12;6;4;1;1;такси Барнаул Омск;6;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/belgorod-saratov;Белгород;Саратов;23200;775;12;12;0;0;0;такси Белгород Саратов;12;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kazan-urzhum;Казань;Уржум;6800;225;12;9;0;0;3;такси Казань Уржум;9;NO;;SEO;SEO_STANDARD
+https://city2city.ru/cheboksary-sterlitamak;Чебоксары;Стерлитамак;24500;820;12;7;0;2;3;такси Чебоксары Стерлитамак;7;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/chelyabinsk-verxneuralsk;Челябинск;Верхнеуральск;7500;245;11;10;0;0;1;такси Челябинск Верхнеуральск;10;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kemerovo-gurevsk;Кемерово;Гурьевск;5000;150;11;9;0;0;2;такси Кемерово Гурьевск;9;NO;;SEO;SEO_STANDARD
+https://city2city.ru/irkutsk-tajshet;Иркутск;Тайшет;20000;670;11;6;0;3;2;такси Иркутск Тайшет;6;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/belgorod-ryazan;Белгород;Рязань;19000;640;11;7;0;0;4;такси Белгород Рязань;7;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/ekaterinburg-surgut;Екатеринбург;Сургут;33800;1125;11;6;3;1;1;такси Екатеринбург Сургут;6;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/aeroport-pulkovo-velikij-novgorod;аэропорт Пулково;Великий Новгород;6300;190;11;6;4;0;1;такси аэропорт Пулково Великий Новгород;6;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-chusovoj;Екатеринбург;Чусовой;10500;350;10;7;0;0;3;такси Екатеринбург Чусовой;7;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/elista-gorod-lagan;Элиста;Лагань;38500;1280;10;10;0;0;0;такси Элиста Лагань;10;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/ekaterinburg-degtyarsk;Екатеринбург;Дегтярск;2000;65;10;10;0;0;0;такси Екатеринбург Дегтярск;10;NO;;SEO;SEO_STANDARD
+https://city2city.ru/kemerovo-irkutsk;Кемерово;Иркутск;47600;1585;10;6;2;0;2;такси Кемерово Иркутск;6;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kemerovo-osinniki;Кемерово;Осинники;7500;245;10;6;4;0;0;такси Кемерово Осинники;6;NO;;SEO;SEO_STANDARD
+https://city2city.ru/bryansk-belgorod;Брянск;Белгород;12500;420;10;9;0;0;1;такси Брянск Белгород;9;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/irkutsk-kemerovo;Иркутск;Кемерово;47400;1580;10;6;2;0;2;такси Иркутск Кемерово;6;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/ekaterinburg-saratov;Екатеринбург;Саратов;39500;1315;10;8;0;0;2;такси Екатеринбург Саратов;8;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/chelyabinsk-nizhnevartovsk;Челябинск;Нижневартовск;42500;1420;10;3;6;0;1;трансфер Челябинск Нижневартовск;6;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kazan-kostroma;Казань;Кострома;21500;715;10;4;2;3;1;такси Казань Кострома;4;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/ekaterinburg-naberezhnye-chelny;Екатеринбург;Набережные Челны;19000;625;10;6;0;2;2;такси Екатеринбург Набережные Челны;6;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kaluga-vyazma;Калуга;Вязьма;5500;180;10;8;0;0;2;такси Калуга Вязьма;8;NO;;SEO;SEO_STANDARD
+https://city2city.ru/irkutsk-omsk;Иркутск;Омск;74100;2470;10;10;0;0;0;такси Иркутск Омск;10;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/chelyabinsk-nyazepetrovsk;Челябинск;Нязепетровск;6500;220;10;7;0;1;2;такси Челябинск Нязепетровск;7;NO;;SEO;SEO_STANDARD
+https://city2city.ru/elista-lagan;Элиста;Лагань;9000;300;10;10;0;0;0;такси Элиста Лагань;10;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ekaterinburg-yuzhnouralsk;Екатеринбург;Южноуральск;9600;320;10;7;2;0;1;такси Екатеринбург Южноуральск;7;NO;;SEO;SEO_STANDARD
+https://city2city.ru/ivanovo-sochi;Иваново;Сочи;57000;1905;10;8;1;0;1;такси Иваново Сочи;8;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/kazan-rostov-na-donu;Казань;Ростов-на-Дону;45900;1530;10;9;0;0;1;такси Казань Ростов-на-Дону;9;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/blagoveshhensk-ussurijsk;Благовещенск;Уссурийск;41500;1390;10;7;0;1;2;такси Благовещенск Уссурийск;7;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_STANDARD
+https://city2city.ru/ekaterinburg-krasnouralsk;Екатеринбург;Красноуральск;6000;205;9;7;0;1;1;такси Екатеринбург Красноуральск;7;NO;;SEO;SEO_LOW
+https://city2city.ru/irkutsk-jakutsk;Иркутск;Якутск;96000;3200;9;6;1;0;2;такси Иркутск Якутск;6;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/belgorod-smolensk;Белгород;Смоленск;20100;670;9;8;0;0;1;такси Белгород Смоленск;8;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/irkutsk-nizhneudinsk;Иркутск;Нижнеудинск;15600;520;9;8;0;1;0;такси Иркутск Нижнеудинск;8;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-meleuz;Казань;Мелеуз;20500;680;9;4;0;3;2;такси Казань Мелеуз;4;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/irkutsk-vladivostok;Иркутск;Владивосток;120000;4000;9;6;0;3;0;такси Иркутск Владивосток;6;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/izhevsk-vyatskie-polyany;Ижевск;Вятские Поляны;9500;320;9;9;0;0;0;такси Ижевск Вятские Поляны;9;NO;;SEO;SEO_LOW
+https://city2city.ru/astraxan-kislovodsk;Астрахань;Кисловодск;20200;675;9;4;5;0;0;трансфер Астрахань Кисловодск;5;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/belgorod-smolensk-2;Белгород;Смоленск;20100;670;9;8;0;0;1;такси Белгород Смоленск;8;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-tambov;Казань;Тамбов;24300;810;9;6;0;0;3;такси Казань Тамбов;6;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/belgorod-yaroslavl;Белгород;Ярославль;28000;935;9;7;0;0;2;такси Белгород Ярославль;7;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-syktyvkar;Казань;Сыктывкар;25200;840;9;5;1;0;3;такси Казань Сыктывкар;5;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/bryansk-kirov-kaluzhskaya-oblast;Брянск;Киров;41000;1370;9;7;0;0;2;такси Брянск Киров;7;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/irkutsk-bajkalsk;Иркутск;Байкальская улица;5200;145;9;6;0;0;3;такси Иркутск Байкальская улица;6;NO;;SEO;SEO_LOW
+https://city2city.ru/barnaul-slavgorod;Барнаул;Славгород;13000;440;9;5;0;0;4;такси Барнаул Славгород;5;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/belgorod-vladimir;Белгород;Владимир;25200;840;9;9;0;0;0;такси Белгород Владимир;9;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/blagoveshhensk-birobidzhan;Благовещенск;Биробиджан;15600;520;9;9;0;0;0;такси Благовещенск Биробиджан;9;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/blagoveshhensk-vladivostok;Благовещенск;Владивосток;42400;1415;9;7;1;0;1;такси Благовещенск Владивосток;7;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/cheboksary-yadrin;Чебоксары;Ядрин;2500;80;9;6;0;0;3;такси Чебоксары Ядрин;6;NO;;SEO;SEO_LOW
+https://city2city.ru/cheboksary-zvenigovo;Чебоксары;Звенигово;2500;85;8;8;0;0;0;такси Чебоксары Звенигово;8;NO;;SEO;SEO_LOW
+https://city2city.ru/izhevsk-ulyanovsk;Ижевск;Ульяновск;17000;570;8;7;0;0;1;такси Ижевск Ульяновск;7;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/irkutsk-svirsk;Иркутск;Свирск;4000;130;8;7;0;0;1;такси Иркутск Свирск;7;NO;;SEO;SEO_LOW
+https://city2city.ru/elista-kislovodsk;Элиста;Кисловодск;11000;365;8;4;4;0;0;такси Элиста Кисловодск;4;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/ivanovo-gavrilov-posad;Иваново;Гаврилов Посад;4000;90;8;8;0;0;0;такси Иваново Гаврилов Посад;8;NO;;SEO;SEO_LOW
+https://city2city.ru/kazan-sim;Казань;Сим;20400;680;8;8;0;0;0;такси Казань Сим;8;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/ivanovo-penza;Иваново;Пенза;16800;561;8;4;2;0;2;такси Иваново Пенза;4;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-menzelinsk;Казань;Мензелинск;8500;290;8;8;0;0;0;такси Казань Мензелинск;8;NO;;SEO;SEO_LOW
+https://city2city.ru/kazan-sarapul;Казань;Сарапул;11500;390;8;0;8;0;0;трансфер Казань Сарапул;8;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-kopejsk;Екатеринбург;Копейск;6500;220;8;7;0;0;1;такси Екатеринбург Копейск;7;NO;;SEO;SEO_LOW
+https://city2city.ru/kaluga-sankt-peterburg;Калуга;Санкт-Петербург;26400;880;8;5;1;1;1;такси Калуга Санкт-Петербург;5;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/astraxan-sankt-peterburg;Астрахань;Санкт-Петербург;63200;2105;8;8;0;0;0;такси Астрахань Санкт-Петербург;8;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-surgut;Казань;Сургут;59800;1995;8;8;0;0;0;такси Казань Сургут;8;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-dzerzhinsk;Казань;Дзержинск;14500;490;8;3;4;0;1;трансфер Казань Дзержинск;4;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/bryansk-pskov;Брянск;Псков;21000;705;8;5;2;0;1;такси Брянск Псков;5;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/blagoveshhensk-tynda;Благовещенск;Тында;23200;775;8;7;0;0;1;такси Благовещенск Тында;7;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-sankt-peterburg;Казань;Санкт-Петербург;45300;1510;8;4;2;2;0;такси Казань Санкт-Петербург;4;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/astraxan-kazan;Астрахань;Казань;43800;1460;8;6;0;0;2;такси Астрахань Казань;6;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/blagoveshhensk-rajchixinsk;Благовещенск;Райчихинск;5600;170;8;7;0;1;0;такси Благовещенск Райчихинск;7;NO;;SEO;SEO_LOW
+https://city2city.ru/ivanovo-volgorechensk;Иваново;Волгореченск;2000;60;7;6;0;0;1;такси Иваново Волгореченск;6;NO;;SEO;SEO_LOW
+https://city2city.ru/kazan-tetyushi;Казань;Тетюши;5000;150;7;5;0;0;2;такси Казань Тетюши;5;NO;;SEO;SEO_LOW
+https://city2city.ru/ekaterinburg-verxnyaya-tura;Екатеринбург;Верхняя Тура;6000;205;7;4;0;0;3;такси Екатеринбург Верхняя Тура;4;NO;;SEO;SEO_LOW
+https://city2city.ru/kaluga-novomoskovsk;Калуга;Новомосковск;5000;165;7;6;0;0;1;такси Калуга Новомосковск;6;NO;;SEO;SEO_LOW
+https://city2city.ru/astraxan-novorossijsk;Астрахань;Новороссийск;29000;970;7;5;0;0;2;такси Астрахань Новороссийск;5;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/izhevsk-kambarka;Ижевск;Камбарка;4000;110;7;7;0;0;0;такси Ижевск Камбарка;7;NO;;SEO;SEO_LOW
+https://city2city.ru/ekaterinburg-troiczk;Екатеринбург;Троицк;51000;1700;7;5;2;0;0;такси Екатеринбург Троицк;5;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/chelyabinsk-sosnovka;Челябинск;Сосновка;26500;890;7;7;0;0;0;такси Челябинск Сосновка;7;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/astraxan-mineralnye-vody;Астрахань;Минеральные Воды;18600;620;7;5;0;0;2;такси Астрахань Минеральные Воды;5;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/astraxan-ufa;Астрахань;Уфа;50500;1680;7;7;0;0;0;такси Астрахань Уфа;7;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/cheboksary-volzhsk;Чебоксары;Волжск;3500;110;7;7;0;0;0;такси Чебоксары Волжск;7;NO;;SEO;SEO_LOW
+https://city2city.ru/ekaterinburg-verxoture;Екатеринбург;Верхотурье;9000;300;7;7;0;0;0;такси Екатеринбург Верхотурье;7;NO;;SEO;SEO_LOW
+https://city2city.ru/chelyabinsk-ulyanovsk;Челябинск;Ульяновск;29800;995;7;6;0;0;1;такси Челябинск Ульяновск;6;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/astraxan-sochi;Астрахань;Сочи;32600;1085;7;5;0;0;2;такси Астрахань Сочи;5;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ivanovo-puchezh;Иваново;Пучеж;5000;160;7;5;0;0;2;такси Иваново Пучеж;5;NO;;SEO;SEO_LOW
+https://city2city.ru/chelyabinsk-surgut;Челябинск;Сургут;36000;1195;7;4;0;0;3;такси Челябинск Сургут;4;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/izhevsk-kirov;Ижевск;Киров;12800;425;7;4;2;0;1;такси Ижевск Киров;4;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-syzran;Казань;Сызрань;10200;340;7;6;1;0;0;такси Казань Сызрань;6;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/belgorod-liski;Белгород;Лиски;8000;260;7;6;0;0;1;такси Белгород Лиски;6;NO;;SEO;SEO_LOW
+https://city2city.ru/ivanovo-rostov-na-donu;Иваново;Ростов-на-Дону;41000;1360;7;6;0;0;1;такси Иваново Ростов-на-Дону;6;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/blagoveshhensk-shimanovsk;Благовещенск;Шимановск;8800;295;7;6;0;0;1;такси Благовещенск Шимановск;6;NO;;SEO;SEO_LOW
+https://city2city.ru/ekaterinburg-tavda;Екатеринбург;Тавда;11000;360;7;7;0;0;0;такси Екатеринбург Тавда;7;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-app-bugristoe;Екатеринбург;Троицк;10500;350;7;5;2;0;0;такси Екатеринбург Троицк;5;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/elista-volgodonsk;Элиста;Волгодонск;7000;235;7;3;4;0;0;трансфер Элиста Волгодонск;4;NO;;SEO;SEO_LOW
+https://city2city.ru/ekaterinburg-app-doneczk;Екатеринбург;Донецк;62500;2090;7;7;0;0;0;такси Екатеринбург Донецк;7;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/cheboksary-kirov;Чебоксары;Киров;12000;395;7;6;0;1;0;такси Чебоксары Киров;6;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kemerovo-belokuriha;Кемерово;Белокуриха;16000;540;7;6;0;0;1;такси Кемерово Белокуриха;6;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-lysva;Екатеринбург;Лысьва;11500;380;6;5;0;0;1;такси Екатеринбург Лысьва;5;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/belgorod-kaluga;Белгород;Калуга;15000;505;6;5;0;0;1;такси Белгород Калуга;5;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/astraxan-kerch;Астрахань;Керчь;32000;1070;6;6;0;0;0;такси Астрахань Керчь;6;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-plast;Екатеринбург;Пласт;10000;330;6;5;1;0;0;такси Екатеринбург Пласт;5;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/chelyabinsk-pervomajskij;Челябинск;посёлок Первомайский;50000;1660;6;5;0;0;1;такси Челябинск посёлок Первомайский;5;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/belgorod-penza;Белгород;Пенза;23000;765;6;6;0;0;0;такси Белгород Пенза;6;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kaluga-mosalsk;Калуга;Мосальск;3000;95;6;4;0;0;2;такси Калуга Мосальск;4;NO;;SEO;SEO_LOW
+https://city2city.ru/ekaterinburg-satka;Екатеринбург;Сатка;9600;320;6;6;0;0;0;такси Екатеринбург Сатка;6;NO;;SEO;SEO_LOW
+https://city2city.ru/barnaul-abakan;Барнаул;Абакан;34000;1140;6;4;0;0;2;такси Барнаул Абакан;4;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-chernushka;Екатеринбург;Чернушка;9500;310;6;6;0;0;0;такси Екатеринбург Чернушка;6;NO;;SEO;SEO_LOW
+https://city2city.ru/blagoveshhensk-obluche;Благовещенск;Облучье;11000;360;6;5;0;0;1;такси Благовещенск Облучье;5;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/elista-gorodovikovsk;Элиста;Городовиковск;7200;240;6;6;0;0;0;такси Элиста Городовиковск;6;NO;;SEO;SEO_LOW
+https://city2city.ru/astraxan-znamensk;Астрахань;Знаменск;11000;360;6;6;0;0;0;такси Астрахань Знаменск;6;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/ivanovo-kamenka;Иваново;Каменка;19000;640;6;3;0;0;3;такси Иваново Каменка;3;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/astraxan-tambov;Астрахань;Тамбов;28500;950;6;5;0;0;1;такси Астрахань Тамбов;5;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-chajkovskij;Казань;Чайковский;13800;460;6;3;2;0;1;такси Казань Чайковский;3;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/chelyabinsk-kursk;Челябинск;Курск;59700;1990;6;6;0;0;0;такси Челябинск Курск;6;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/belgorod-velikij-novgorod;Белгород;Великий Новгород;35800;1195;6;5;0;0;1;такси Белгород Великий Новгород;5;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/barnaul-kyzyl;Барнаул;Кызыл;45500;1520;6;6;0;0;0;такси Барнаул Кызыл;6;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/astraxan-sevastopol;Астрахань;Севастополь;40500;1350;6;6;0;0;0;такси Астрахань Севастополь;6;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/bryansk-simferopol;Брянск;Симферополь;51500;1720;6;5;1;0;0;такси Брянск Симферополь;5;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/ivanovo-kursk;Иваново;Курск;25000;825;6;6;0;0;0;такси Иваново Курск;6;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kemerovo-sharypovo;Кемерово;Шарыпово;9000;300;6;6;0;0;0;такси Кемерово Шарыпово;6;NO;;SEO;SEO_LOW
+https://city2city.ru/ekaterinburg-kasli;Екатеринбург;Касли;3500;120;6;4;0;0;2;такси Екатеринбург Касли;4;NO;;SEO;SEO_LOW
+https://city2city.ru/barnaul-yarovoe;Барнаул;Яровое;13500;450;6;3;1;0;2;такси Барнаул Яровое;3;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/bryansk-sankt-peterburg;Брянск;Санкт-Петербург;32400;1080;6;5;1;0;0;такси Брянск Санкт-Петербург;5;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-voronezh;Казань;Воронеж;31000;1035;6;4;1;0;1;такси Казань Воронеж;4;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/barnaul-krasnoyarsk;Барнаул;Красноярск;27600;920;6;5;0;0;1;такси Барнаул Красноярск;5;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/chelyabinsk-krasnogorsk;Челябинск;Красногорск;53000;1770;6;6;0;0;0;такси Челябинск Красногорск;6;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-buzuluk;Казань;Бузулук;14500;490;6;5;0;0;1;такси Казань Бузулук;5;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/kaluga-belgorod;Калуга;Белгород;15500;515;6;5;0;0;1;такси Калуга Белгород;5;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-tolyatti;Екатеринбург;Тольятти;28000;940;6;4;0;2;0;такси Екатеринбург Тольятти;4;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kemerovo-abakan;Кемерово;Абакан;22000;730;5;3;0;1;1;такси Кемерово Абакан;3;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/astraxan-gelendzhik;Астрахань;Геленджик;29400;980;5;2;3;0;0;трансфер Астрахань Геленджик;3;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/belgorod-boguchar;Белгород;Богучар;11000;360;5;4;0;0;1;такси Белгород Богучар;4;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/chelyabinsk-rostov-na-donu;Челябинск;Ростов-на-Дону;64000;2130;5;5;0;0;0;такси Челябинск Ростов-на-Дону;5;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ivanovo-noginsk;Иваново;Ногинск;7500;255;5;4;0;0;1;такси Иваново Ногинск;4;NO;;SEO;SEO_LOW
+https://city2city.ru/belgorod-arxangelsk;Белгород;Архангельск;57000;1900;5;5;0;0;0;такси Белгород Архангельск;5;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/bryansk-nizhnij-novgorod;Брянск;Нижний Новгород;24600;820;5;4;0;0;1;такси Брянск Нижний Новгород;4;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/izhevsk-chelyabinsk;Ижевск;Челябинск;22600;755;5;5;0;0;0;такси Ижевск Челябинск;5;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/astraxan-volzhskij;Астрахань;Волжский;13200;440;5;3;0;0;2;такси Астрахань Волжский;3;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/blagoveshhensk-chita;Благовещенск;Чита;45600;1520;5;5;0;0;0;такси Благовещенск Чита;5;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-sorochinsk;Казань;Сорочинск;17500;580;5;4;0;0;1;такси Казань Сорочинск;4;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-alatyr;Казань;Алатырь;7500;250;5;3;0;2;0;такси Казань Алатырь;3;NO;;SEO;SEO_LOW
+https://city2city.ru/chelyabinsk-izhevsk;Челябинск;Ижевск;22600;755;5;5;0;0;0;такси Челябинск Ижевск;5;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ivanovo-ekaterinburg;Иваново;Екатеринбург;45500;1515;5;3;0;0;2;такси Иваново Екатеринбург;3;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/cheboksary-sosnovka;Чебоксары;Сосновка;10000;340;5;5;0;0;0;такси Чебоксары Сосновка;5;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-sovetskij-2;Екатеринбург;Советский;21500;720;5;4;0;0;1;такси Екатеринбург Советский;4;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/ivanovo-sankt-peterburg;Иваново;Санкт-Петербург;26800;895;5;3;2;0;0;такси Иваново Санкт-Петербург;3;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/belgorod-ufa;Белгород;Уфа;48000;1600;5;3;0;0;2;такси Белгород Уфа;3;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/bryansk-rossosh;Брянск;Россошь;19000;630;5;4;0;0;1;такси Брянск Россошь;4;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/ivanovo-tula;Иваново;Тула;14000;475;5;5;0;0;0;такси Иваново Тула;5;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/barnaul-berdsk;Барнаул;Бердск;6000;195;5;3;1;1;0;такси Барнаул Бердск;3;NO;;SEO;SEO_LOW
+https://city2city.ru/izhevsk-tolyatti;Ижевск;Тольятти;17600;585;5;5;0;0;0;такси Ижевск Тольятти;5;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kaluga-lipeczk;Калуга;Липецк;12000;400;4;3;0;0;1;такси Калуга Липецк;3;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/bryansk-rylsk;Брянск;Рыльск;6500;210;4;2;0;0;2;такси Брянск Рыльск;2;NO;;SEO;SEO_LOW
+https://city2city.ru/irkutsk-aeroport-ust-kut;аэропорт Иркутск;Усть-Кут;38500;960;4;4;0;0;0;такси аэропорт Иркутск Усть-Кут;4;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/izhevsk-sankt-peterburg;Ижевск;Санкт-Петербург;56000;1875;4;3;0;0;1;такси Ижевск Санкт-Петербург;3;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-nyazepetrovsk;Екатеринбург;Нязепетровск;6500;215;4;2;0;0;2;такси Екатеринбург Нязепетровск;2;NO;;SEO;SEO_LOW
+https://city2city.ru/cheboksary-izhevsk;Чебоксары;Ижевск;15500;520;4;1;3;0;0;трансфер Чебоксары Ижевск;3;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/barnaul-cherepanovo-2;Барнаул;Черепаново;4000;135;4;4;0;0;0;такси Барнаул Черепаново;4;NO;;SEO;SEO_LOW
+https://city2city.ru/belgorod-obninsk;Белгород;Обнинск;17500;590;4;4;0;0;0;такси Белгород Обнинск;4;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/belgorod-oboyan;Белгород;Обоянь;2500;80;4;2;0;0;2;такси Белгород Обоянь;2;NO;;SEO;SEO_LOW
+https://city2city.ru/chelyabinsk-sochi;Челябинск;Сочи;79600;2655;4;3;1;0;0;такси Челябинск Сочи;3;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/cheboksary-syzran;Чебоксары;Сызрань;11000;370;4;2;0;0;2;такси Чебоксары Сызрань;2;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/belgorod-simferopol;Белгород;Симферополь;41500;1380;4;3;0;0;1;такси Белгород Симферополь;3;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/kemerovo-gorno-altaysk;Кемерово;Горно-Алтайск;17100;570;4;2;2;0;0;такси Кемерово Горно-Алтайск;2;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-yugorsk;Екатеринбург;Югорск;21300;710;4;4;0;0;0;такси Екатеринбург Югорск;4;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/kirov-anapa;Киров;Анапа;66000;2195;4;3;0;0;1;такси Киров Анапа;3;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/izhevsk-chernushka;Ижевск;Чернушка;9500;310;4;4;0;0;0;такси Ижевск Чернушка;4;NO;;SEO;SEO_LOW
+https://city2city.ru/ivanovo-vyazniki;Иваново;Вязники;5000;170;4;4;0;0;0;такси Иваново Вязники;4;NO;;SEO;SEO_LOW
+https://city2city.ru/cheboksary-lyskovo;Чебоксары;Лысково;5000;160;4;2;0;0;2;такси Чебоксары Лысково;2;NO;;SEO;SEO_LOW
+https://city2city.ru/elista-anapa;Элиста;Анапа;20500;690;4;3;0;0;1;такси Элиста Анапа;3;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-rostov-na-don;Екатеринбург;Ростов-на-Дону;66000;2200;4;4;0;0;0;такси Екатеринбург Ростов-на-Дону;4;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ivanovo-anapa;Иваново;Анапа;53600;1785;4;1;3;0;0;трансфер Иваново Анапа;3;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-birsk;Екатеринбург;Бирск;13000;440;4;3;0;0;1;такси Екатеринбург Бирск;3;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/izhevsk-yanaul;Ижевск;Янаул;5800;175;3;2;0;0;1;такси Ижевск Янаул;2;NO;;SEO;SEO_LOW
+https://city2city.ru/astraxan-belgorod;Астрахань;Белгород;38000;1260;3;3;0;0;0;такси Астрахань Белгород;3;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/cheboksary-oktyabrskij-respublika-bashkortostan;Чебоксары;Октябрьский;17000;560;3;3;0;0;0;такси Чебоксары Октябрьский;3;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/bryansk-rostov-na-donu;Брянск;Ростов-на-Дону;30900;1030;3;2;0;0;1;такси Брянск Ростов-на-Дону;2;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/irkutsk-ekaterinburg;Иркутск;Екатеринбург;102000;3400;3;3;0;0;0;такси Иркутск Екатеринбург;3;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/bryansk-doneczk-rostovskaya-oblast;Брянск;Донецк;35100;1170;3;3;0;0;0;такси Брянск Донецк;3;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/belgorod-sochi;Белгород;Сочи;37000;1230;3;3;0;0;0;такси Белгород Сочи;3;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/barnaul-iskitim-2;Барнаул;Искитим;5500;180;3;1;0;2;0;межгород Барнаул Искитим;2;NO;;SEO;SEO_LOW
+https://city2city.ru/ekaterinburg-berezniki;Екатеринбург;Березники;16500;550;3;0;2;1;0;трансфер Екатеринбург Березники;2;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/aeroport-pulkovo-ivangorod;аэропорт Пулково;Ивангород;5400;165;3;3;0;0;0;такси аэропорт Пулково Ивангород;3;NO;;SEO;SEO_LOW
+https://city2city.ru/chelyabinsk-nizhnekamsk;Челябинск;Нижнекамск;22500;750;3;3;0;0;0;такси Челябинск Нижнекамск;3;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/kemerovo-toguchin;Кемерово;Тогучин;6000;195;3;3;0;0;0;такси Кемерово Тогучин;3;NO;;SEO;SEO_LOW
+https://city2city.ru/belgorod-pskov;Белгород;Псков;34000;1135;3;3;0;0;0;такси Белгород Псков;3;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kemerovo-myski;Кемерово;Мыски;5000;165;3;2;0;0;1;такси Кемерово Мыски;2;NO;;SEO;SEO_LOW
+https://city2city.ru/elista-voronezh;Элиста;Воронеж;25000;835;3;2;1;0;0;такси Элиста Воронеж;2;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/astraxan-zheleznovodsk;Астрахань;Железноводск;19000;640;3;3;0;0;0;такси Астрахань Железноводск;3;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/ivanovo-naro-fominsk;Иваново;Наро-Фоминск;11500;390;3;3;0;0;0;такси Иваново Наро-Фоминск;3;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/chelyabinsk-mirnyj;Челябинск;Мирный;144000;4800;3;3;0;0;0;такси Челябинск Мирный;3;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-sosnovka;Казань;Сосновка;5500;185;3;3;0;0;0;такси Казань Сосновка;3;NO;;SEO;SEO_LOW
+https://city2city.ru/ivanovo-furmanov;Иваново;город Фурманов;2000;35;3;2;0;0;1;такси Иваново город Фурманов;2;NO;;SEO;SEO_LOW
+https://city2city.ru/izhevsk-agidel;Ижевск;Агидель;5000;170;3;2;0;0;1;такси Ижевск Агидель;2;NO;;SEO;SEO_LOW
+https://city2city.ru/aeroport-gagarin-volsk;аэропорт Гагарин;Вольск;4400;121;3;3;0;0;0;такси аэропорт Гагарин Вольск;3;NO;;SEO;SEO_LOW
+https://city2city.ru/kaluga-zhizdra;Калуга;Жиздра;4500;150;3;3;0;0;0;такси Калуга Жиздра;3;NO;;SEO;SEO_LOW
+https://city2city.ru/bryansk-lipeczk;Брянск;Липецк;13000;430;3;2;1;0;0;такси Брянск Липецк;2;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-barysh;Казань;Барыш;11000;360;3;3;0;0;0;такси Казань Барыш;3;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/bryansk-stavropol;Брянск;Ставрополь;41000;1365;3;3;0;0;0;такси Брянск Ставрополь;3;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kaluga-zhukov;Калуга;Жуков;2500;90;3;3;0;0;0;такси Калуга Жуков;3;NO;;SEO;SEO_LOW
+https://city2city.ru/chelyabinsk-ryazan;Челябинск;Рязань;50500;1690;3;3;0;0;0;такси Челябинск Рязань;3;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-novyj-urengoj;Казань;Новый Уренгой;82000;2740;3;3;0;0;0;такси Казань Новый Уренгой;3;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/bryansk-sochi;Брянск;Сочи;47500;1580;3;1;2;0;0;трансфер Брянск Сочи;2;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/astraxan-temryuk;Астрахань;Темрюк;29000;970;3;3;0;0;0;такси Астрахань Темрюк;3;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/blagoveshhensk-zavitinsk;Благовещенск;Завитинск;5600;170;3;2;0;0;1;такси Благовещенск Завитинск;2;NO;;SEO;SEO_LOW
+https://city2city.ru/ekaterinburg-chajkovskij;Екатеринбург;Чайковский;14000;470;3;2;1;0;0;такси Екатеринбург Чайковский;2;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/kemerovo-zelenogorsk;Кемерово;Зеленогорск;129000;4300;3;2;0;0;1;такси Кемерово Зеленогорск;2;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/arxangelsk-vologda;Архангельск;Вологда;23000;765;3;2;0;1;0;такси Архангельск Вологда;2;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/chelyabinsk-mezhgore;Челябинск;Межгорье;11000;370;3;2;0;0;1;такси Челябинск Межгорье;2;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-chernushka;Казань;Чернушка;18500;610;3;2;0;0;1;такси Казань Чернушка;2;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-vologda;Казань;Вологда;31500;1050;2;2;0;0;0;такси Казань Вологда;2;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-gaj;Екатеринбург;Гай;25500;850;2;2;0;0;0;такси Екатеринбург Гай;2;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/chelyabinsk-bakal;Челябинск;Бакал;6000;205;2;2;0;0;0;такси Челябинск Бакал;2;NO;;SEO;SEO_LOW
+https://city2city.ru/chelyabinsk-adler;Челябинск;Адлер;81500;2720;2;0;2;0;0;трансфер Челябинск Адлер;2;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-tula;Екатеринбург;Тула;55500;1850;2;2;0;0;0;такси Екатеринбург Тула;2;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kemerovo-iskitim;Кемерово;Искитим;9500;310;2;1;0;0;1;такси Кемерово Искитим;1;NO;;SEO;SEO_LOW
+https://city2city.ru/ekaterinburg-kurgan;международный аэропорт Кольцово Екатеринбург;;11000;365;2;1;0;0;1;такси международный аэропорт Кольцово Екатеринбург ;1;NO;;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-murom;Казань;Муром;15000;500;2;2;0;0;0;такси Казань Муром;2;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/elista-posyolok-komsomolskij;Элиста;посёлок Комсомольский;6000;200;2;2;0;0;0;такси Элиста посёлок Комсомольский;2;NO;;SEO;SEO_LOW
+https://city2city.ru/astraxan-orenburg;Астрахань;Оренбург;48500;1620;2;2;0;0;0;такси Астрахань Оренбург;2;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-birsk;Казань;Бирск;16500;550;2;1;0;0;1;такси Казань Бирск;1;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-solnechnyj;Екатеринбург;посёлок Солнечный;52000;1740;2;1;0;1;0;такси Екатеринбург посёлок Солнечный;1;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/izhevsk-magnitogorsk;Ижевск;Магнитогорск;20000;675;2;2;0;0;0;такси Ижевск Магнитогорск;2;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/joshkar-ola-naberezhnye-chelny;Йошкар-Ола;Набережные Челны;12000;395;2;2;0;0;0;такси Йошкар-Ола Набережные Челны;2;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-almetevsk;Екатеринбург;Альметьевск;24500;810;2;1;0;0;1;такси Екатеринбург Альметьевск;1;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/astraxan-pyatigorsk;Астрахань;Пятигорск;19200;640;2;2;0;0;0;такси Астрахань Пятигорск;2;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/joshkar-ola-urzhum;Йошкар-Ола;Уржум;8000;260;2;1;0;0;1;такси Йошкар-Ола Уржум;1;NO;;SEO;SEO_LOW
+https://city2city.ru/ekaterinburg-stavropol;Екатеринбург;Ставрополь;68500;2290;2;2;0;0;0;такси Екатеринбург Ставрополь;2;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-agryz;Казань;Агрыз;10000;340;2;2;0;0;0;такси Казань Агрыз;2;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/ivanovo-ufa;Иваново;Уфа;35100;1170;2;1;1;0;0;такси Иваново Уфа;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/cheboksary-rostov-na-donu;Чебоксары;Ростов-на-Дону;41700;1390;2;2;0;0;0;такси Чебоксары Ростов-на-Дону;2;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-magnitogorsk;международный аэропорт Кольцово Екатеринбург;;15400;515;2;1;0;0;1;такси международный аэропорт Кольцово Екатеринбург ;1;NO;;DIRECT;DIRECT_TEST
+https://city2city.ru/bryansk-lokot;Брянск;посёлок Локоть;4300;95;2;2;0;0;0;такси Брянск посёлок Локоть;2;NO;;SEO;SEO_LOW
+https://city2city.ru/ekaterinburg-chelyabinsk;международный аэропорт Кольцово Екатеринбург;;6300;210;2;1;0;0;1;такси международный аэропорт Кольцово Екатеринбург ;1;NO;;SEO;SEO_LOW
+https://city2city.ru/chelyabinsk-kurtamysh;Челябинск;Куртамыш;7500;250;2;1;0;0;1;такси Челябинск Куртамыш;1;NO;;SEO;SEO_LOW
+https://city2city.ru/ekaterinburg-cheboksary;Екатеринбург;Чебоксары;31500;1045;2;1;0;0;1;такси Екатеринбург Чебоксары;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/belgorod-sevastopol;Белгород;Севастополь;44000;1470;2;2;0;0;0;такси Белгород Севастополь;2;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/irkutsk-vixorevka;Иркутск;Вихоревка;18000;600;2;2;0;0;0;такси Иркутск Вихоревка;2;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-bajmak;Екатеринбург;Баймак;19800;660;2;2;0;0;0;такси Екатеринбург Баймак;2;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/kemerovo-yarovoe;Кемерово;Яровое;20000;670;2;0;2;0;0;трансфер Кемерово Яровое;2;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/astraxan-ejsk;Астрахань;Ейск;26800;895;2;2;0;0;0;такси Астрахань Ейск;2;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/blagoveshhensk-ulan-ude;Благовещенск;Улан-Удэ;66000;2200;2;2;0;0;0;такси Благовещенск Улан-Удэ;2;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/elista-gelendzhik;Элиста;Геленджик;20000;670;2;1;0;0;1;такси Элиста Геленджик;1;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/kemerovo-biysk;Кемерово;Бийск;14000;470;2;2;0;0;0;такси Кемерово Бийск;2;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/bryansk-desnogorsk;Брянск;Десногорск;5000;175;2;2;0;0;0;такси Брянск Десногорск;2;NO;;SEO;SEO_LOW
+https://city2city.ru/kaluga-simferopol;Калуга;Симферополь;50500;1680;2;2;0;0;0;такси Калуга Симферополь;2;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-glazov;Казань;Глазов;17000;560;2;1;0;0;1;такси Казань Глазов;1;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-agidel;Казань;Агидель;12500;410;2;2;0;0;0;такси Казань Агидель;2;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/cheboksary-nizhnekamsk;Чебоксары;Нижнекамск;11000;370;2;1;0;0;1;такси Чебоксары Нижнекамск;1;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/cheboksary-bugulma;Чебоксары;Бугульма;14000;460;2;0;0;2;0;межгород Чебоксары Бугульма;2;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/irkutsk-troiczk;Иркутск;Троицк;153000;5100;2;2;0;0;0;такси Иркутск Троицк;2;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/elista-sochi;Элиста;Сочи;23200;775;2;0;2;0;0;трансфер Элиста Сочи;2;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ivanovo-samara;Иваново;Самара;27400;915;2;2;0;0;0;такси Иваново Самара;2;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/elista-zheleznovodsk;Элиста;Железноводск;10000;330;2;0;2;0;0;трансфер Элиста Железноводск;2;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/chelyabinsk-joshkar-ola;Челябинск;Йошкар-Ола;32600;1088;2;0;2;0;0;трансфер Челябинск Йошкар-Ола;2;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-shadrinsk;международный аэропорт Кольцово Екатеринбург;;6900;230;2;1;0;0;1;такси международный аэропорт Кольцово Екатеринбург ;1;NO;;SEO;SEO_LOW
+https://city2city.ru/chelyabinsk-anapa;Челябинск;Анапа;76500;2555;2;2;0;0;0;такси Челябинск Анапа;2;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-emanzhelinsk;Екатеринбург;Еманжелинск;8000;265;2;2;0;0;0;такси Екатеринбург Еманжелинск;2;NO;;SEO;SEO_LOW
+https://city2city.ru/ekaterinburg-ufa;международный аэропорт Кольцово Екатеринбург;;15800;525;2;1;0;0;1;такси международный аэропорт Кольцово Екатеринбург ;1;NO;;DIRECT;DIRECT_TEST
+https://city2city.ru/cheboksary-sergach;Чебоксары;Сергач;5000;165;2;1;0;0;1;такси Чебоксары Сергач;1;NO;;SEO;SEO_LOW
+https://city2city.ru/ekaterinburg-solikamsk;Екатеринбург;Соликамск;15900;530;2;1;0;0;1;такси Екатеринбург Соликамск;1;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-tagil;международный аэропорт Кольцово Екатеринбург;;4300;95;2;1;0;0;1;такси международный аэропорт Кольцово Екатеринбург ;1;NO;;SEO;SEO_LOW
+https://city2city.ru/ekaterinburg-perm;международный аэропорт Кольцово Екатеринбург;;10800;360;2;1;0;0;1;такси международный аэропорт Кольцово Екатеринбург ;1;NO;;DIRECT;DIRECT_TEST
+https://city2city.ru/elista-sankt-peterburg;Элиста;Санкт-Петербург;59200;1975;2;2;0;0;0;такси Элиста Санкт-Петербург;2;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kemerovo-salair;Кемерово;Салаир;5000;165;2;2;0;0;0;такси Кемерово Салаир;2;NO;;SEO;SEO_LOW
+https://city2city.ru/kaluga-ruza;Калуга;Руза;5000;165;2;1;0;0;1;такси Калуга Руза;1;NO;;SEO;SEO_LOW
+https://city2city.ru/irkutsk-blagoveshhensk;Иркутск;Благовещенск;79000;2640;2;2;0;0;0;такси Иркутск Благовещенск;2;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-shumixa;Екатеринбург;Шумиха;5000;175;2;1;0;0;1;такси Екатеринбург Шумиха;1;NO;;SEO;SEO_LOW
+https://city2city.ru/ekaterinburg-nyagan;Екатеринбург;Нягань;26100;870;2;2;0;0;0;такси Екатеринбург Нягань;2;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/aeroport-pulkovo-pskov;аэропорт Пулково;Псков;9000;300;2;1;1;0;0;такси аэропорт Пулково Псков;1;NO;;SEO;SEO_LOW
+https://city2city.ru/irkutsk-bolshoe-goloustnoe;Иркутск;посёлок Большое Голоустное;5000;123;2;2;0;0;0;такси Иркутск посёлок Большое Голоустное;2;NO;;SEO;SEO_LOW
+https://city2city.ru/blagoveshhensk-skovorodino;Благовещенск;Сковородино;19200;640;2;2;0;0;0;такси Благовещенск Сковородино;2;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-kirov;Международный аэропорт Казань;;11800;395;1;1;0;0;0;такси Международный аэропорт Казань ;1;NO;;DIRECT;DIRECT_TEST
+https://city2city.ru/belgorod-petrozavodsk;Белгород;Петрозаводск;50000;1660;1;1;0;0;0;такси Белгород Петрозаводск;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/chelyabinsk-novotroiczk;Челябинск;Новотроицк;19000;630;1;1;0;0;0;такси Челябинск Новотроицк;1;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/kemerovo-tashtagol;Кемерово;Таштагол;11000;370;1;1;0;0;0;такси Кемерово Таштагол;1;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/ivanovo-gavrilov-yam;Иваново;Гаврилов-Ям;2500;80;1;1;0;0;0;такси Иваново Гаврилов-Ям;1;NO;;SEO;SEO_LOW
+https://city2city.ru/chelyabinsk-nizhnij-tagil;Челябинск;Нижний Тагил;10500;350;1;1;0;0;0;такси Челябинск Нижний Тагил;1;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/bryansk-adler;Брянск;Адлер;48000;1600;1;0;0;1;0;межгород Брянск Адлер;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kaluga-protvino;Калуга;Протвино;3000;100;1;1;0;0;0;такси Калуга Протвино;1;NO;;SEO;SEO_LOW
+https://city2city.ru/ekaterinburg-yuryuzan;Екатеринбург;Юрюзань;6000;205;1;0;1;0;0;трансфер Екатеринбург Юрюзань;1;NO;;SEO;SEO_LOW
+https://city2city.ru/astraxan-budyonnovsk;Астрахань;Будённовск;15000;500;1;1;0;0;0;такси Астрахань Будённовск;1;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-volgograd;Екатеринбург;Волгоград;52000;1735;1;1;0;0;0;такси Екатеринбург Волгоград;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-simferopol;Казань;Симферополь;63500;2120;1;1;0;0;0;такси Казань Симферополь;1;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/belgorod-chelyabinsk;Белгород;Челябинск;60500;2010;1;1;0;0;0;такси Белгород Челябинск;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ivanovo-ermolino;Иваново;Ермолино;12500;410;1;1;0;0;0;такси Иваново Ермолино;1;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/astraxan-volgodonsk;Астрахань;Волгодонск;16500;550;1;1;0;0;0;такси Астрахань Волгодонск;1;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/joshkar-ola-saratov;Йошкар-Ола;Саратов;23000;765;1;0;0;1;0;межгород Йошкар-Ола Саратов;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/bryansk-tver;Брянск;Тверь;15600;520;1;1;0;0;0;такси Брянск Тверь;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/joshkar-ola-ufa;Йошкар-Ола;Уфа;20500;685;1;0;0;1;0;межгород Йошкар-Ола Уфа;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/astraxan-voronezh;Астрахань;Воронеж;30000;1000;1;1;0;0;0;такси Астрахань Воронеж;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-ulyanovsk;Международный аэропорт Казань;;6600;220;1;1;0;0;0;такси Международный аэропорт Казань ;1;NO;;SEO;SEO_LOW
+https://city2city.ru/kazan-bugulma;Международный аэропорт Казань;;9600;320;1;1;0;0;0;такси Международный аэропорт Казань ;1;NO;;SEO;SEO_LOW
+https://city2city.ru/irkutsk-zheleznogorsk-ilimskij;Иркутск;Железногорск-Илимский;34000;846;1;1;0;0;0;такси Иркутск Железногорск-Илимский;1;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/ivanovo-joshkar-ola;Иваново;Йошкар-Ола;16200;540;1;0;1;0;0;трансфер Иваново Йошкар-Ола;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/irkutsk-xuzhir;Иркутск;посёлок Хужир;8800;295;1;1;0;0;0;такси Иркутск посёлок Хужир;1;NO;;SEO;SEO_LOW
+https://city2city.ru/belgorod-adler;Белгород;Адлер;38000;1260;1;1;0;0;0;такси Белгород Адлер;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-samara;Международный аэропорт Казань;;11200;375;1;1;0;0;0;такси Международный аэропорт Казань ;1;NO;;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-yoskar_ola;Международный аэропорт Казань;;5000;150;1;1;0;0;0;такси Международный аэропорт Казань ;1;NO;;SEO;SEO_LOW
+https://city2city.ru/astraxan-yalta;Астрахань;Ялта;40400;1345;1;1;0;0;0;такси Астрахань Ялта;1;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/chelyabinsk-nizhnij-novgorod;Челябинск;Нижний Новгород;40500;1350;1;1;0;0;0;такси Челябинск Нижний Новгород;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-oktyabrskij-6;Екатеринбург;посёлок Октябрьский;18500;620;1;1;0;0;0;такси Екатеринбург посёлок Октябрьский;1;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/barnaul-yurga;Барнаул;Юрга;12500;410;1;1;0;0;0;такси Барнаул Юрга;1;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-izhevsk;Международный аэропорт Казань;;11100;370;1;1;0;0;0;такси Международный аэропорт Казань ;1;NO;;DIRECT;DIRECT_TEST
+https://city2city.ru/belgorod-stavropol;Белгород;Ставрополь;31500;1055;1;1;0;0;0;такси Белгород Ставрополь;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/cheboksary-syktyvkar;Чебоксары;Сыктывкар;23600;785;1;1;0;0;0;такси Чебоксары Сыктывкар;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-almetevsk;Международный аэропорт Казань;;8000;265;1;1;0;0;0;такси Международный аэропорт Казань ;1;NO;;SEO;SEO_LOW
+https://city2city.ru/bryansk-star;Брянск;посёлок Старь;2000;65;1;1;0;0;0;такси Брянск посёлок Старь;1;NO;;SEO;SEO_LOW
+https://city2city.ru/kazan-perm;Международный аэропорт Казань;;20000;665;1;1;0;0;0;такси Международный аэропорт Казань ;1;NO;;DIRECT;DIRECT_TEST
+https://city2city.ru/astraxan-ryazan;Астрахань;Рязань;36500;1220;1;0;1;0;0;трансфер Астрахань Рязань;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kaluga-kolomna;Калуга;Коломна;6500;220;1;1;0;0;0;такси Калуга Коломна;1;NO;;SEO;SEO_LOW
+https://city2city.ru/ivanovo-lipeczk;Иваново;Липецк;18300;610;1;1;0;0;0;такси Иваново Липецк;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/cheboksary-perm;Чебоксары;Пермь;22000;725;1;1;0;0;0;такси Чебоксары Пермь;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-nizhniy_novgorod;Международный аэропорт Казань;;12600;420;1;1;0;0;0;такси Международный аэропорт Казань ;1;NO;;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-zhigulyovsk;Казань;Жигулёвск;10000;340;1;1;0;0;0;такси Казань Жигулёвск;1;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-nab_chelny;Международный аэропорт Казань;;7500;250;1;1;0;0;0;такси Международный аэропорт Казань ;1;NO;;SEO;SEO_LOW
+https://city2city.ru/kazan-ekaterinburg;Международный аэропорт Казань;;26000;865;1;1;0;0;0;такси Международный аэропорт Казань ;1;NO;;DIRECT;DIRECT_TEST
+https://city2city.ru/astraxan-saratov;Астрахань;Саратов;24000;800;1;1;0;0;0;такси Астрахань Саратов;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-sol-ileczk;Екатеринбург;Соль-Илецк;29500;990;1;1;0;0;0;такси Екатеринбург Соль-Илецк;1;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-cheboksary;Международный аэропорт Казань;;5100;155;1;1;0;0;0;такси Международный аэропорт Казань ;1;NO;;SEO;SEO_LOW
+https://city2city.ru/kazan-nizhnekamsk;Международный аэропорт Казань;;6000;200;1;1;0;0;0;такси Международный аэропорт Казань ;1;NO;;SEO;SEO_LOW
+https://city2city.ru/joshkar-ola-ivanovo;Йошкар-Ола;Иваново;17100;570;1;0;1;0;0;трансфер Йошкар-Ола Иваново;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-sevastopol;Казань;Севастополь;66500;2210;1;1;0;0;0;такси Казань Севастополь;1;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-dobryanka;Екатеринбург;Добрянка;13000;430;1;1;0;0;0;такси Екатеринбург Добрянка;1;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-chistopol;Международный аэропорт Казань;;5000;140;1;1;0;0;0;такси Международный аэропорт Казань ;1;NO;;SEO;SEO_LOW
+https://city2city.ru/bryansk-novomoskovsk;Брянск;Новомосковск;10500;351;1;1;0;0;0;такси Брянск Новомосковск;1;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-chebarkul;Казань;Чебаркуль;26700;890;1;1;0;0;0;такси Казань Чебаркуль;1;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/izhevsk-joshkar-ola;Ижевск;Йошкар-Ола;15000;495;1;1;0;0;0;такси Ижевск Йошкар-Ола;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-tobolsk;Екатеринбург;Тобольск;17600;585;1;1;0;0;0;такси Екатеринбург Тобольск;1;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/belgorod-serpuxov;Белгород;Серпухов;17200;573;1;1;0;0;0;такси Белгород Серпухов;1;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-poxvistnevo;Казань;Похвистнево;11000;360;1;1;0;0;0;такси Казань Похвистнево;1;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/izhevsk-sochi;Ижевск;Сочи;70000;2340;1;1;0;0;0;такси Ижевск Сочи;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-nizhnevartovsk;Екатеринбург;Нижневартовск;40000;1340;1;1;0;0;0;такси Екатеринбург Нижневартовск;1;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-saransk;Международный аэропорт Казань;;12000;405;1;1;0;0;0;такси Международный аэропорт Казань ;1;NO;;DIRECT;DIRECT_TEST
+https://city2city.ru/bryansk-murom;Брянск;Муром;21400;715;1;1;0;0;0;такси Брянск Муром;1;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/ekaterinburg-anapa;Екатеринбург;Анапа;77500;2590;1;0;0;1;0;межгород Екатеринбург Анапа;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-sergach;Казань;Сергач;9000;300;1;1;0;0;0;такси Казань Сергач;1;NO;;SEO;SEO_LOW
+https://city2city.ru/astraxan-lipeczk;Астрахань;Липецк;33500;1110;1;1;0;0;0;такси Астрахань Липецк;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/ivanovo-navoloki;Иваново;Наволоки;3500;110;1;1;0;0;0;такси Иваново Наволоки;1;NO;;SEO;SEO_LOW
+https://city2city.ru/kazan-ufa;Международный аэропорт Казань;;15900;530;1;1;0;0;0;такси Международный аэропорт Казань ;1;NO;;DIRECT;DIRECT_TEST
+https://city2city.ru/elista-volzhskij;Элиста;Волжский;9500;320;1;1;0;0;0;такси Элиста Волжский;1;NO;;SEO;SEO_LOW
+https://city2city.ru/blagoveshhensk-aldan;Благовещенск;Алдан;37200;1240;1;1;0;0;0;такси Благовещенск Алдан;1;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/chelyabinsk-nizhnyaya-tura;Челябинск;Нижняя Тура;13500;450;1;1;0;0;0;такси Челябинск Нижняя Тура;1;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;DIRECT;DIRECT_TEST
+https://city2city.ru/astraxan-penza;Астрахань;Пенза;30500;1010;1;1;0;0;0;такси Астрахань Пенза;1;YES;ТОЧНЫЕ_КЛЮЧИ;DIRECT;DIRECT_TEST
+https://city2city.ru/chelyabinsk-berezniki;Челябинск;Березники;22500;750;1;0;1;0;0;трансфер Челябинск Березники;1;YES;ГРУППИРОВКА_ПО_ГОРОДУ;DIRECT;DIRECT_TEST
+https://city2city.ru/kazan-kozlovka;Казань;село Козловка;2500;85;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-kilmez;Казань;посёлок городского типа Кильмезь;6000;200;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/astraxan-granicza-kazaxstan;Астрахань;52А-3;3200;70;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/bryansk-livny;Брянск;Ливны;8000;270;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/aeroport-kolczovo-pervouralsk;аэропорт Екатеринбург (Кольцово) имени А.Н. Демидова;Первоуральск;3000;60;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/elista-selo-divnoe;Элиста;село Дивное;3000;100;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kemerovo-berdsk;Кемерово;Бердск;8500;285;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kemerovo-kaltan;Кемерово;Калтан;8000;260;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-oktyabrskij;Екатеринбург;поселок городского типа Октябрьский;18500;620;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kirov-afanasevo;Киров;посёлок городского типа Афанасьево;7400;245;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/irkutsk-ostrov-olxon;Иркутск;село Сахюрта;8800;295;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-suksun;Екатеринбург;рабочий посёлок Суксун;7000;230;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-tyoplaya-gora;Екатеринбург;рабочий посёлок Тёплая Гора;8000;265;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-nurlat;Казань;село Нурлаты;6800;225;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kaluga-gremyachevo;Калуга;поселок городского типа Гремячево;18500;620;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/bryansk-selo-troiczkoe;Брянск;село Троицкое;4000;110;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-miass;Казань;Миасс;25500;850;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/cheboksary-granicza-kazaxstan;Чебоксары;52А-3;25000;830;0;0;0;0;0;;0;YES;ТОЧНЫЕ_КЛЮЧИ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kemerovo-zarinsk;Кемерово;Заринск;9500;310;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/astraxan-volgo-kaspijskij;Астрахань;поселок городского типа Волго-Каспийский;2000;25;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/irkutsk-neryungri;Иркутск;Нерюнгри;71500;2380;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/cheboksary-belebej;Чебоксары;Белебей;17500;590;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/belgorod-vejdelevka;Белгород;посёлок городского типа Вейделевка;5000;175;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/izhevsk-tyumen;Ижевск;Тюмень;28000;930;0;0;0;0;0;;0;YES;ТОЧНЫЕ_КЛЮЧИ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ekaterinburg-tver;Екатеринбург;Тверь;55500;1850;0;0;0;0;0;;0;YES;ТОЧНЫЕ_КЛЮЧИ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/bryansk-navlya;Брянск;рабочий посёлок Навля;2000;60;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/cheboksary-surskoe;Чебоксары;рабочий посёлок Сурское;7000;235;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/aeroport-kurumoch-syzran;аэропорт Самара (Курумоч) имени С.П. Королева;Сызрань;5000;152;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/belgorod-borovichi;Белгород;Боровичи;33000;1100;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-yanaul;Казань;Янаул;14100;470;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/bryansk-gelendzhik;Брянск;Геленджик;44000;1470;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ivanovo-podolsk;Иваново;Подольск;10000;340;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/izhevsk-penza;Ижевск;Пенза;26400;880;0;0;0;0;0;;0;YES;ТОЧНЫЕ_КЛЮЧИ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ekaterinburg-reftinskij;Екатеринбург;посёлок городского типа Рефтинский;3800;105;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/astraxan-app-karauzek;Астрахань;село Котяевка;3000;60;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-lyskovo;Казань;Лысково;9400;314;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/bryansk-kamenka;Брянск;Каменка;23500;780;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/chelyabinsk-novyj-urengoj;Челябинск;Новый Уренгой;58000;1940;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/cheboksary-vasilsursk;Чебоксары;рабочий посёлок Васильсурск;3000;100;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/belgorod-murom;Белгород;Муром;29000;970;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ekaterinburg-elan;Екатеринбург;рабочий посёлок Елань;7600;252;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/joshkar-ola-orshanka;Йошкар-Ола;посёлок городского типа Оршанка;3000;35;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/aeroport-platov-app-bugaevka;Аэропорт Платов;село Бугаёвка;10900;363;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ekaterinburg-pokrovskoe;Екатеринбург;посёлок городского типа Покровское;51500;1710;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ivanovo-posyolok-komsomolskij;Иваново;посёлок Комсомольский;3000;36;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-kinel;Казань;Кинель;11000;370;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/joshkar-ola-novyj-toryal;Йошкар-Ола;посёлок городского типа Новый Торъял;3600;80;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/bryansk-suzemka;Брянск;посёлок Суземка;5000;160;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kaluga-shebekino;Калуга;Шебекино;16500;550;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ekaterinburg-selo-krasnogvardejskoe;Екатеринбург;село Красногвардейское;84000;2800;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/bryansk-ivot;Брянск;посёлок Ивот;2000;60;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-mishkino;Екатеринбург;поселок городского типа Мишкино;14000;460;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/elista-posyolok-iki-burul;Элиста;поселок Ики-Бурул;3200;70;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kaluga-loo;Калуга;посёлок Лоо;46200;1540;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/chelyabinsk-krasnogorskij;Челябинск;посёлок городского типа Красногорский;2000;70;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ivanovo-uglich;Иваново;Углич;6500;215;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/joshkar-ola-sochi;Йошкар-Ола;Сочи;61000;2030;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/bryansk-naro-fominsk;Брянск;Наро-Фоминск;9500;320;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-druzhinino;Екатеринбург;посёлок городского типа Дружинино;3800;85;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/belgorod-millerovo;Белгород;Миллерово;14500;480;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/elista-plyaxo;Элиста;село Пляхо;18500;620;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/cheboksary-komsomolskij;Чебоксары;рабочий посёлок Комсомольский;16000;540;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/belgorod-tomarovka;Белгород;посёлок городского типа Томаровка;2000;30;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/astraxan-liman;Астрахань;рабочий посёлок Лиман;3800;105;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/astraxan-zelenokumsk;Астрахань;Зеленокумск;17000;560;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/irkutsk-aeroport-bajkal-ulan-ude;Иркутск;аэропорт Улан-Удэ (Байкал);13800;460;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ekaterinburg-vishnevogorsk;Екатеринбург;посёлок городского типа Вишневогорск;4500;145;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-uraj;Екатеринбург;Урай;22000;740;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/astraxan-krasnye-barrikady;Астрахань;поселок городского типа Красные Баррикады;2000;30;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/joshkar-ola-rostov-na-donu;Йошкар-Ола;Ростов-на-Дону;44500;1490;0;0;0;0;0;;0;YES;ТОЧНЫЕ_КЛЮЧИ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ekaterinburg-kogalym;Екатеринбург;Когалым;39000;1300;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/chelyabinsk-valujki;Челябинск;Валуйки;60300;2010;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kaluga-solnechnogorsk;Калуга;Солнечногорск;6700;223;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/elista-selo-priyutnoe;Элиста;село Приютное;3000;65;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ivanovo-adler;Иваново;Адлер;58000;1930;0;0;0;0;0;;0;YES;ТОЧНЫЕ_КЛЮЧИ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/chelyabinsk-vishnevogorsk;Челябинск;посёлок городского типа Вишневогорск;4500;155;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/chelyabinsk-roza;Челябинск;посёлок городского типа Роза;2000;35;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-sol-ileczk;Казань;Соль-Илецк;24000;800;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/belgorod-maslova-pristan;Белгород;посёлок городского типа Маслова Пристань;2000;20;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-karabash;Екатеринбург;посёлок городского типа Карабаш;5500;185;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-verx-nejvinskij;Екатеринбург;городской округ Верх-Нейвинский;2500;80;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-palkino;Екатеринбург;посёлок городского типа Палкино;75000;2500;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/astraxan-posyolok-yashkul;Астрахань;поселок Яшкуль;6800;225;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-arti;Екатеринбург;посёлок городского типа Арти;5600;170;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/chelyabinsk-kropachyovo;Челябинск;посёлок городского типа Кропачёво;8000;275;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/chelyabinsk-sysert;Челябинск;Сысерть;5000;165;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/aeroport-kurumoch-granicza-kazaxstan;аэропорт Самара (Курумоч) имени С.П. Королева;52А-3;9000;300;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-kuzino;Екатеринбург;деревня Кузино;4300;95;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-app-orsk;Екатеринбург;село Алимбетовка;25000;830;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/belgorod-naro-fominsk;Белгород;Наро-Фоминск;18500;620;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/astraxan-zavolzhskoe;Астрахань;Заволжское сельское поселение;4000;140;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-nizhnij-lomov;Казань;Нижний Ломов;17400;580;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/cheboksary-pilna;Чебоксары;поселок городского типа Пильна;5000;175;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/chelyabinsk-kuvandyk;Челябинск;Кувандык;19500;650;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ekaterinburg-pyshma;Екатеринбург;посёлок городского типа Пышма;3000;25;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-baltasi;Казань;посёлок городского типа Балтаси;3800;105;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/izhevsk-sol-ileczk;Ижевск;Соль-Илецк;23500;790;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-kislovodsk;Казань;Кисловодск;51000;1700;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/irkutsk-lugovoj;Иркутск;посёлок городского типа Луговой;102000;3400;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ekaterinburg-maxnyovo;Екатеринбург;посёлок городского типа Махнёво;7000;240;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-malysheva;Екатеринбург;рабочий поселок Малышева;3000;100;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-rossosh;Казань;Россошь;36000;1195;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/izhevsk-kilmez;Ижевск;посёлок городского типа Кильмезь;6100;185;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/belgorod-kanevskaya;Белгород;станица Каневская;26000;867;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ivanovo-ulyanovsk;Иваново;Ульяновск;20100;670;0;0;0;0;0;;0;YES;ТОЧНЫЕ_КЛЮЧИ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/belgorod-granicza-ukraina;Белгород;М-3 Украина;5000;150;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/irkutsk-bajkal;Иркутск;село Сахюрта;9900;330;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-uchaly;Казань;село Учалы;26500;890;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ivanovo-lux;Иваново;посёлок городского типа Лух;4300;95;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/aeroport-kolczovo-chelyabinsk;аэропорт Екатеринбург (Кольцово) имени А.Н. Демидова;Челябинск;6000;200;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/chelyabinsk-zauralskij;Челябинск;посёлок городского типа Зауральский;2000;55;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/belgorod-selo-troiczkoe;Белгород;село Троицкое;4000;135;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/joshkar-ola-kanash;Йошкар-Ола;деревня Канаш;5000;160;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-sernur;Казань;посёлок городского типа Сернур;5000;165;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-pelym;Екатеринбург;посёлок городского типа Пелым;19000;640;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/cheboksary-kozlovka;Чебоксары;село Козловка;3000;95;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/irkutsk-listvyanka;Иркутск;село Листвянка;3200;70;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/bryansk-rognedino;Брянск;поселок Рогнедино;3000;100;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-nizhnie-vyazovye;Казань;посёлок городского типа Нижние Вязовые;2000;65;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/belgorod-kerch;Белгород;Керчь;35500;1190;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/astraxan-neftekumsk;Астрахань;Нефтекумск;12500;420;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/elista-selo-yashalta;Элиста;село Яшалта;6300;210;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-kargapole;Екатеринбург;посёлок Каргаполье;61000;2030;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ivanovo-nerl;Иваново;поселок городского типа Нерль;8500;280;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/astraxan-tuapse;Астрахань;Туапсе;29000;970;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/chelyabinsk-reftinskij;Челябинск;посёлок городского типа Рефтинский;8500;280;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/belgorod-krasnyj-oktyabr;Белгород;посёлок городского типа Красный Октябрь;2000;35;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/joshkar-ola-kiknur;Йошкар-Ола;посёлок городского типа Кикнур;4000;130;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kemerovo-bogotol;Кемерово;Боготол;8500;290;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/aeroport-kurumoch-buzuluk;аэропорт Самара (Курумоч) имени С.П. Королева;Бузулук;6000;200;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-sars;Екатеринбург;деревня Большой Сарс;7000;235;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/elista-posyolok-zimovniki;Элиста;посёлок Зимовники;5900;180;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/belgorod-livny;Белгород;Ливны;9000;300;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/izhevsk-bugulma;Ижевск;Бугульма;10000;330;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/chelyabinsk-mezhozyornyj;Челябинск;посёлок городского типа Межозёрный;6500;215;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/astraxan-kozlovo;Астрахань;посёлок городского типа Козлово;2000;55;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/irkutsk-arshan;Иркутск;поселок Аршан;6300;210;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/elista-granicza-kazaxstan;Элиста;52А-3;11500;380;0;0;0;0;0;;0;YES;ТОЧНЫЕ_КЛЮЧИ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-naro-fominsk;Казань;Наро-Фоминск;26500;890;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-apastovo;Казань;поселок городского типа Апастово;4100;115;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/bryansk-belaya-beryozka;Брянск;посёлок Белая Берёзка;4700;130;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ivanovo-pestyaki;Иваново;посёлок городского типа Пестяки;4500;125;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/chelyabinsk-elan;Челябинск;рабочий посёлок Елань;46000;1540;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-kamskie-polyany;Казань;поселок городского типа Камские Поляны;6100;185;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ivanovo-gelendzhik;Иваново;Геленджик;54000;1800;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/elista-selo-sadovoe;Элиста;село Садовое;5800;175;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-sharya;Екатеринбург;Шарья;34000;1135;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/izhevsk-chebarkul;Ижевск;Чебаркуль;20100;670;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ivanovo-kolobovo;Иваново;посёлок городского типа Колобово;3000;50;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/chelyabinsk-mednogorsk;Челябинск;Медногорск;20500;690;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/blagoveshhensk-uglegorsk;Благовещенск;Углегорск;156000;5200;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/belgorod-volokonovka;Белгород;посёлок городского типа Волоконовка;3500;115;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/elista-selo-malye-derbety;Элиста;село Малые Дербеты;6400;195;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-chishmy;Казань;деревня Чишмы;15500;520;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-dzhalil;Казань;посёлок городского типа Джалиль;9000;300;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/astraxan-posyolok-czagan-aman;Астрахань;посёлок городского типа Цаган Аман;5900;180;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/chelyabinsk-selo-stepnoe;Челябинск;село Степное;5000;170;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-kamskoe-uste;Казань;посёлок городского типа Камское Устье;4300;120;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/belgorod-rylsk;Белгород;Рыльск;7000;230;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kaluga-polotnyanyj-zavod;Калуга;посёлок городского типа Полотняный Завод;3000;35;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/cheboksary-posyolok-komsomolskij;Чебоксары;посёлок Комсомольский;8000;260;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/elista-posyolok-yashkul;Элиста;поселок Яшкуль;4000;90;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/chelyabinsk-oktyabrskoe;Челябинск;посёлок городского типа Октябрьское;81000;2700;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-aktyubinskij;Казань;посёлок городского типа Актюбинский;8800;295;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-vasilevo;Казань;посёлок городского типа Васильево;26400;880;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/chelyabinsk-petrovskij;Челябинск;поселок городского типа Петровский;23000;760;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/aeroport-kolczovo-kurgan;аэропорт Екатеринбург (Кольцово) имени А.Н. Демидова;Курган;10800;360;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/aeroport-kurumoch-orenburg;аэропорт Самара (Курумоч) имени С.П. Королева;Оренбург;13200;440;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-priyutovo;Казань;поселок городского типа Приютово;13500;450;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-suslonger;Казань;городское поселение Суслонгер;3000;105;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/aeroport-kurumoch-pervomajsk;аэропорт Самара (Курумоч) имени С.П. Королева;Первомайск;19000;632;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-nikolaevka;Казань;деревня Николаевка;66000;2200;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/elista-selo-arzgir;Элиста;село Арзгир;4000;140;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/aeroport-krasnodar-pashkovskij-doneczk-rostovskaya-oblast;аэропорт Краснодар (Пашковский) имени Екатерины II;Донецк;13100;437;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/cheboksary-dubrovka;Чебоксары;деревня Дубровка;34300;1143;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/bryansk-pogar;Брянск;посёлок Погар;4500;125;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/chelyabinsk-simferopol;Челябинск;Симферополь;85000;2840;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/blagoveshhensk-kuldur;Благовещенск;поселок городского типа Кульдур;13000;430;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/bryansk-dubrovka;Брянск;деревня Дубровка;4000;90;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-ishim;Екатеринбург;Ишим;18500;620;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/izhevsk-omutninsk;Ижевск;Омутнинск;12500;420;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/chelyabinsk-noyabrsk;Челябинск;Ноябрьск;45000;1500;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ekaterinburg-achit;Екатеринбург;посёлок городского типа Ачит;5900;180;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ivanovo-vyksa;Иваново;Выкса;9000;295;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ivanovo-rovenki;Иваново;посёлок городского типа Ровеньки;31800;1060;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ekaterinburg-lesnoj;Екатеринбург;поселок Лесной;7000;235;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/aeroport-kolczovo-miass;аэропорт Екатеринбург (Кольцово) имени А.Н. Демидова;Миасс;6900;230;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-staroutkinsk;Екатеринбург;поселок городского типа Староуткинск;4300;120;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/cheboksary-kstovo;Чебоксары;Кстово;6500;215;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-kirs;Екатеринбург;Кирс;22000;730;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/joshkar-ola-kotelnich;Йошкар-Ола;Котельнич;6500;215;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/joshkar-ola-kuzhener;Йошкар-Ола;посёлок городского типа Куженер;3400;75;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kemerovo-aeroport-tolmachevo-novosibirsk;Кемерово;Новосибирск (Толмачёво) терминал Б;8500;290;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/bryansk-vygonichi;Брянск;посёлок городского типа Выгоничи;2000;30;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/belgorod-rovenki;Белгород;посёлок городского типа Ровеньки;7200;240;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/cheboksary-yaransk;Чебоксары;Яранск;5000;175;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-arxangelsk;Казань;Архангельск;42500;1420;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-sosnovyj-bor;Казань;посёлок городского типа Сосновый Бор;7800;260;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/astraxan-verxnij-baskunchak;Астрахань;посёлок городского типа Верхний Баскунчак;10200;340;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/chelyabinsk-yurgamysh;Челябинск;поселок городского типа Юргамыш;6500;210;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/astraxan-adler;Астрахань;Адлер;33300;1110;0;0;0;0;0;;0;YES;ТОЧНЫЕ_КЛЮЧИ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-yaransk;Казань;Яранск;7000;230;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/elista-komsomolskij;Элиста;рабочий посёлок Комсомольский;6000;200;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/belgorod-app-kolotilovka;Белгород;село Колотиловка;3600;100;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/joshkar-ola-yurino;Йошкар-Ола;посёлок городского типа Юрино;6200;205;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-verxnyaya-sinyachixa;Екатеринбург;посёлок городского типа Верхняя Синячиха;5000;170;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-priobe;Екатеринбург;посёлок городского типа Приобье;28000;930;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ekaterinburg-sterlitamak;Екатеринбург;Стерлитамак;19400;645;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-sharanga;Казань;посёлок городского типа Шаранга;8500;280;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/elista-budyonnovsk;Элиста;Будённовск;6500;210;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-bogatye-saby;Казань;Муниципальное образование поселок городского типа Богатые Сабы;3800;105;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-karabash;Казань;Карабаш;26500;890;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/chelyabinsk-granicza-kazaxstan;Челябинск;52А-3;5000;150;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/cheboksary-kanash;Чебоксары;деревня Канаш;5900;180;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/belgorod-ramenskoe;Белгород;Раменское;20700;690;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/elista-arxipo-osipovka;Элиста;село Архипо-Осиповка;18500;610;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-murmansk;Казань;Мурманск;84000;2800;0;0;0;0;0;;0;YES;ТОЧНЫЕ_КЛЮЧИ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/cheboksary-shumerlya;Чебоксары;деревня Шумерля;3000;105;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ivanovo-gus-xrustalnyj;Иваново;Гусь-Хрустальный;5500;185;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-rybnaya-sloboda;Казань;посёлок городского типа Рыбная Слобода;4000;90;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/joshkar-ola-kilemary;Йошкар-Ола;посёлок городского типа Килемары;2500;80;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/irkutsk-granicza-mongolii;Иркутск;село Ташанта;20400;680;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/elista-yuganecz;Элиста;рабочий посёлок Юганец;39800;1326;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kaluga-elektrostal;Калуга;Электросталь;7100;237;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-granicza-kazaxstan;Казань;52А-3;22800;760;0;0;0;0;0;;0;YES;ТОЧНЫЕ_КЛЮЧИ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-paranga;Казань;посёлок городского типа Параньга;4000;135;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/astraxan-posyolok-komsomolskij;Астрахань;посёлок Комсомольский;7000;235;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-urussu;Казань;поселок городского типа Уруссу;11100;370;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/aeroport-bogashyovo-seversk;аэропорт Томск (Богашёво) имени Н.И. Камова;Северск;3000;40;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/aeroport-kolczovo-kamensk-uralskij;аэропорт Екатеринбург (Кольцово) имени А.Н. Демидова;Каменск-Уральский;3600;100;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/bryansk-bytosh;Брянск;посёлок Бытошь;2500;80;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/bryansk-kletnya;Брянск;посёлок городского типа Клетня;4300;95;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/chelyabinsk-smolino;Челябинск;посёлок городского типа Смолино;42000;1400;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/elista-remontnoe;Элиста;село Ремонтное;2000;70;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/aeroport-bogashyovo-yurga;аэропорт Томск (Богашёво) имени Н.И. Камова;Юрга;4500;125;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/joshkar-ola-suslonger;Йошкар-Ола;городское поселение Суслонгер;3000;45;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/elista-selo-troiczkoe;Элиста;село Троицкое;15900;530;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kaluga-dzhankoj;Калуга;Джанкой;50600;1688;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-alekseevskoe;Казань;посёлок городского типа Алексеевское;4300;95;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/irkutsk-kultuk;Иркутск;рабочий посёлок Култук;4300;95;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-sosva;Екатеринбург;поселок городского типа Сосьва;13800;460;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/belgorod-yakovlevo;Белгород;посёлок городского типа Яковлево;2000;30;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-sevastopol;Екатеринбург;Севастополь;89000;2960;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-morki;Казань;посёлок городского типа Морки;4100;115;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/aeroport-tolmachevo-novosibirsk-novoaltaysk;Новосибирск (Толмачёво) терминал Б;Новоалтайск;8000;222;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/chelyabinsk-berdyaush;Челябинск;посёлок городского типа Бердяуш;5500;190;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/irkutsk-tunkinskaya-dolina;Иркутск;село Тунка;9000;300;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/astraxan-staricza;Астрахань;Старица;48500;1620;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ekaterinburg-verxnie-sergi;Екатеринбург;поселок городского типа Верхние Серги;3600;100;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/astraxan-ilinka;Астрахань;село Ильинка;2000;20;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/astraxan-stanicza-kurskaya;Астрахань;станица Курская;16000;540;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/bryansk-komarichi;Брянск;посёлок Комаричи;4000;130;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/cheboksary-vorotynecz;Чебоксары;поселок городского типа Воротынец;3000;100;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/joshkar-ola-kostroma;Йошкар-Ола;Кострома;18600;620;0;0;0;0;0;;0;YES;ТОЧНЫЕ_КЛЮЧИ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/aeroport-kolczovo-nizhnij-tagil;аэропорт Екатеринбург (Кольцово) имени А.Н. Демидова;Нижний Тагил;5100;141;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-beloyarskij;Екатеринбург;посёлок городского типа Белоярский;2000;55;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ivanovo-savino;Иваново;деревня Савино;2000;65;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-shalya;Екатеринбург;посёлок городского типа Шаля;7600;255;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/elista-yalta;Элиста;Ялта;30800;1025;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/belgorod-ivnya;Белгород;посёлок городского типа Ивня;2000;75;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-tuapse;Екатеринбург;Туапсе;78500;2620;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/chelyabinsk-mapp-krasnyj-kamen;Челябинск;посёлок Красный Камень;72000;2400;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ekaterinburg-uchaly;Екатеринбург;село Учалы;10200;340;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/aeroport-pulkovo-murmansk;аэропорт Пулково;Мурманск;41100;1370;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-staraya-kulatka;Казань;посёлок городского типа Старая Кулатка;13500;450;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ivanovo-granicza-kazaxstan;Иваново;52А-3;39600;1320;0;0;0;0;0;;0;YES;ТОЧНЫЕ_КЛЮЧИ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/chelyabinsk-makushino;Челябинск;Макушино;12000;400;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/belgorod-chernyanka;Белгород;посёлок городского типа Чернянка;3800;105;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/izhevsk-vereshhagino;Ижевск;Верещагино;6000;205;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/elista-kozhva;Элиста;посёлок городского типа Кожва;81500;2710;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ekaterinburg-atig;Екатеринбург;посёлок городского типа Атиг;4000;90;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kirov-arbazh;Киров;посёлок городского типа Арбаж;6500;210;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-kanash;Казань;деревня Канаш;5000;175;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-tugulym;Екатеринбург;посёлок городского типа Тугулым;8000;270;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-bisert;Екатеринбург;посёлок городского типа Бисерть;3000;105;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/blagoveshhensk-tommot;Благовещенск;Томмот;39500;1320;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/aeroport-pulkovo-tixvin;аэропорт Пулково;Тихвин;6800;225;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/joshkar-ola-lyskovo;Йошкар-Ола;Лысково;7500;250;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/elista-liman;Элиста;рабочий посёлок Лиман;9600;320;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/astraxan-kamensk-shaxtinskij;Астрахань;Каменск-Шахтинский;23200;775;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-lebyazhe;Казань;рабочий посёлок Лебяжье;8000;275;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/elista-posyolok-czagan-aman;Элиста;посёлок городского типа Цаган Аман;9300;310;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/belgorod-krasnaya-yaruga;Белгород;посёлок городского типа Красная Яруга;2500;80;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/chelyabinsk-dimitrovgrad;Челябинск;Димитровград;27000;900;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/astraxan-nizhnij-novgorod;Астрахань;Нижний Новгород;42500;1410;0;0;0;0;0;;0;YES;ТОЧНЫЕ_КЛЮЧИ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/cheboksary-obninsk;Чебоксары;Обнинск;23100;770;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/elista-posyolok-bolshoj-czaryn;Элиста;посёлок Большой Царын;8000;265;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/cheboksary-magnitogorsk;Чебоксары;Магнитогорск;31000;1035;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/joshkar-ola-sanchursk;Йошкар-Ола;посёлок городского типа Санчурск;3000;55;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/joshkar-ola-sernur;Йошкар-Ола;посёлок городского типа Сернур;2500;90;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/joshkar-ola-yaroslavl;Йошкар-Ола;Ярославль;21000;700;0;0;0;0;0;;0;YES;ТОЧНЫЕ_КЛЮЧИ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/astraxan-feodosiya;Астрахань;Феодосия;35000;1165;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ekaterinburg-gari;Екатеринбург;посёлок городского типа Гари;15500;510;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/elista-selo-zavetnoe;Элиста;село Заветное;4000;140;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/cheboksary-yurino;Чебоксары;посёлок городского типа Юрино;2500;85;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/izhevsk-granicza-kazaxstan;Ижевск;52А-3;24000;800;0;0;0;0;0;;0;YES;ТОЧНЫЕ_КЛЮЧИ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ekaterinburg-verxnee-dubrovo;Екатеринбург;посёлок городского типа Верхнее Дуброво;2000;45;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/chelyabinsk-kargapole;Челябинск;посёлок Каргаполье;8000;275;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/bryansk-xvalynsk;Брянск;Хвалынск;35900;1196;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-kujbyshevskij-zaton;Казань;посёлок городского типа Куйбышевский Затон;4500;125;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/belgorod-ekaterinburg;Белгород;Екатеринбург;65000;2165;0;0;0;0;0;;0;YES;ТОЧНЫЕ_КЛЮЧИ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/chelyabinsk-dubrovka;Челябинск;деревня Дубровка;2000;50;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/joshkar-ola-paranga;Йошкар-Ола;посёлок городского типа Параньга;4000;110;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/bryansk-krasnaya-gora;Брянск;посёлок городского типа Красная Гора;7000;230;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/cheboksary-krasnoarmejsk;Чебоксары;Красноармейск;22000;740;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/astraxan-valujki;Астрахань;Валуйки;34500;1150;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/joshkar-ola-morki;Йошкар-Ола;посёлок городского типа Морки;3500;110;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/irkutsk-mamaj;Иркутск;село Выдрино;6400;195;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kaluga-sochi;Калуга;Сочи;46500;1545;0;0;0;0;0;;0;YES;ТОЧНЫЕ_КЛЮЧИ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/joshkar-ola-solnechnyj;Йошкар-Ола;посёлок Солнечный;26500;890;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kazan-cherdakly;Казань;посёлок городского типа Чердаклы;8000;270;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-mari-turek;Казань;поселок городского типа Мари-Турек;5500;185;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kaluga-belyov;Калуга;Белёв;3000;100;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/belgorod-granicza-kitaj;Белгород;А-350;3500;78;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/bryansk-zlynka;Брянск;Злынка;6500;215;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/barnaul-aeroport-tolmachevo-novosibirsk;Барнаул;Новосибирск (Толмачёво) терминал Б;7500;255;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/chelyabinsk-petuxovo;Челябинск;Петухово;13500;450;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/blagoveshhensk-komsomolsk-na-amure;Благовещенск;Комсомольск-на-Амуре;32500;1090;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/ekaterinburg-gelendzhik;Екатеринбург;Геленджик;78500;2620;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/joshkar-ola-sharanga;Йошкар-Ола;посёлок городского типа Шаранга;4000;140;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/elista-posyolok-ketchenery;Элиста;поселок Кетченеры;4300;120;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/belgorod-urazovo;Белгород;посёлок городского типа Уразово;5300;160;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ivanovo-chkalovsk;Иваново;Чкаловск;4500;155;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/izhevsk-mozhga;Ижевск;село Можга;4300;95;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/bryansk-klimovo;Брянск;посёлок Климово;6400;215;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/joshkar-ola-pizhanka;Йошкар-Ола;посёлок городского типа Пижанка;4000;130;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/irkutsk-kavykta;Иркутск;рабочий посёлок Магистральный;66600;2220;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/irkutsk-mrs;Иркутск;село Сахюрта;8800;295;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/kazan-mozhga;Казань;село Можга;9000;300;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ekaterinburg-petuxovo;Екатеринбург;Петухово;16500;550;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kaluga-granicza-kazaxstan;Калуга;52А-3;39000;1300;0;0;0;0;0;;0;YES;ТОЧНЫЕ_КЛЮЧИ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/aeroport-kurumoch-buguruslan;аэропорт Самара (Курумоч) имени С.П. Королева;Бугуруслан;6100;185;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/izhevsk-kungur;Ижевск;Кунгур;11000;370;0;0;0;0;0;;0;YES;ДИНАМИЧЕСКИЕ_ОБЪЯВЛЕНИЯ;IGNORE;IGNORE_HIGH_CHECK
+https://city2city.ru/kaluga-borovsk;Калуга;Боровск;3000;95;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/ivanovo-lezhnevo;Иваново;посёлок городского типа Лежнево;2000;30;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/joshkar-ola-mari-turek;Йошкар-Ола;поселок городского типа Мари-Турек;4000;130;0;0;0;0;0;;0;NO;;IGNORE;IGNORE_ZERO
+https://city2city.ru/chelyabinsk-kuzneczk;Челябинск;Кузнецк;34000;1140;0;0;0;0;0;;0;YES;ГРУППИРОВКА_ПО_ГОРОДУ;IGNORE;IGNORE_HIGH_CHECK

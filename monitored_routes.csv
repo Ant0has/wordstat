@@ -1,0 +1,663 @@
+page_url,city_from,city_to,price,segment
+https://city2city.ru/kazan-elabuga,Казань,,6300,SEO
+https://city2city.ru/kazan-leninogorsk,Казань,,8700,SEO
+https://city2city.ru/ekaterinburg-sibaj,Екатеринбург,,17700,DIRECT
+https://city2city.ru/ekaterinburg-irbit,Екатеринбург,,6200,SEO
+https://city2city.ru/cheljabinsk-uchaly,Челябинск,,6300,SEO
+https://city2city.ru/cheljabinsk-sibaj,Челябинск,,11400,DIRECT
+https://city2city.ru/cheljabinsk-beloreck,Челябинск,,8600,SEO
+https://city2city.ru/cheljabinsk-magnitogorsk,Челябинск,,9300,SEO
+https://city2city.ru/cheljabinsk-kurgan,Челябинск,,8100,SEO
+https://city2city.ru/donetsk-perm,Донецк,,66500,DIRECT
+https://city2city.ru/donetsk-tambov,Донецк,,26000,DIRECT
+https://city2city.ru/donetsk-orenburg,Донецк,,53000,DIRECT
+https://city2city.ru/donetsk-volgograd,Донецк,,18600,DIRECT
+https://city2city.ru/donetsk-kirov,Донецк,,56000,DIRECT
+https://city2city.ru/donetsk-maykop,Донецк,,22000,DIRECT
+https://city2city.ru/donetsk-saratov,Донецк,,29000,DIRECT
+https://city2city.ru/donetsk-ufa,Донецк,,57300,DIRECT
+https://city2city.ru/donetsk-ekaterinburg,Донецк,,68500,DIRECT
+https://city2city.ru/donetsk-chelyabinsk,Донецк,,67500,DIRECT
+https://city2city.ru/donetsk-saransk,Донецк,,35000,DIRECT
+https://city2city.ru/donetsk-kazan,Донецк,,47500,DIRECT
+https://city2city.ru/donetsk-yoshkar-ola,Донецк,,47000,DIRECT
+https://city2city.ru/bratsk-irkutsk,Братск,Иркутск,18500,DIRECT
+https://city2city.ru/izhevsk-kazan,Ижевск,Казань,11000,DIRECT
+https://city2city.ru/ekaterinburg-chelyabinsk-2,Екатеринбург,Челябинск,6500,SEO
+https://city2city.ru/chelyabinsk-ekaterinburg,Челябинск,Екатеринбург,6300,SEO
+https://city2city.ru/enisejsk-krasnojarsk,Енисейск,Красноярск,10200,DIRECT
+https://city2city.ru/elista-volgograd,Элиста,Волгоград,8800,SEO
+https://city2city.ru/kazan-moskva,Казань,Москва,24300,DIRECT
+https://city2city.ru/izhevsk-ufa,Ижевск,Уфа,10200,DIRECT
+https://city2city.ru/belgorod-moskva,Белгород,Москва,19800,DIRECT
+https://city2city.ru/ekaterinburg-irbit-2,Екатеринбург,Ирбит,6200,SEO
+https://city2city.ru/joshkar-ola-kazan,Йошкар-Ола,Казань,4500,SEO
+https://city2city.ru/ekaterinburg-tyumen,Екатеринбург,Тюмень,9900,SEO
+https://city2city.ru/kemerovo-novosibirsk,Кемерово,Новосибирск,7800,SEO
+https://city2city.ru/blagoveshhensk-svobodnyj,Благовещенск,Свободный,5100,SEO
+https://city2city.ru/barnaul-belokuriha,Барнаул,Белокуриха,6800,SEO
+https://city2city.ru/irkutsk-angarsk,Иркутск,Ангарск,3000,SEO
+https://city2city.ru/chelyabinsk-ufa,Челябинск,Уфа,12400,DIRECT
+https://city2city.ru/kazan-orenburg,Казань,Оренбург,21900,DIRECT
+https://city2city.ru/ekaterinburg-magnitogorsk-2,Екатеринбург,Магнитогорск,15600,DIRECT
+https://city2city.ru/izhevsk-sarapul,Ижевск,Сарапул,3200,SEO
+https://city2city.ru/chelyabinsk-miass,Челябинск,Миасс,3800,SEO
+https://city2city.ru/barnaul-biysk-2,Барнаул,Бийск,5300,SEO
+https://city2city.ru/izhevsk-votkinsk,Ижевск,Воткинск,3000,SEO
+https://city2city.ru/kazan-oktyabrskij-respublika-bashkortostan,Казань,Октябрьский,12300,DIRECT
+https://city2city.ru/kazan-aznakaevo,Казань,Азнакаево,9300,SEO
+https://city2city.ru/kazan-zelenodolsk,Казань,Зеленодольск,3000,SEO
+https://city2city.ru/kemerovo-novokuznetsk,Кемерово,Новокузнецк,6600,SEO
+https://city2city.ru/ekaterinburg-sibaj-2,Екатеринбург,Сибай,17700,DIRECT
+https://city2city.ru/barnaul-gorno-altaysk,Барнаул,Горно-Алтайск,7600,SEO
+https://city2city.ru/ekaterinburg-pervouralsk,Екатеринбург,Первоуральск,3000,SEO
+https://city2city.ru/chelyabinsk-chebarkul,Челябинск,Чебаркуль,3800,SEO
+https://city2city.ru/ekaterinburg-moskva,Екатеринбург,Москва,50200,DIRECT
+https://city2city.ru/izhevsk-agryz,Ижевск,Агрыз,3000,SEO
+https://city2city.ru/ivanovo-yaroslavl,Иваново,Ярославль,4100,SEO
+https://city2city.ru/elista-astraxan,Элиста,Астрахань,9300,SEO
+https://city2city.ru/astraxan-elista,Астрахань,Элиста,9300,SEO
+https://city2city.ru/izhevsk-perm,Ижевск,Пермь,8500,SEO
+https://city2city.ru/ekaterinburg-ozyorsk,Екатеринбург,Озерск,4500,SEO
+https://city2city.ru/cheboksary-novocheboksarsk,Чебоксары,Новочебоксарск,3000,SEO
+https://city2city.ru/belgorod-voronezh,Белгород,Воронеж,7600,SEO
+https://city2city.ru/kazan-bavly,Казань,Бавлы,10500,DIRECT
+https://city2city.ru/kaluga-tula,Калуга,Тула,3000,SEO
+https://city2city.ru/kazan-tujmazy,Казань,Туймазы,11400,DIRECT
+https://city2city.ru/ivanovo-vladimir,Иваново,Владимир,3500,SEO
+https://city2city.ru/ekaterinburg-kamensk-uralskij,Екатеринбург,Каменск-Уральский,3600,SEO
+https://city2city.ru/blagoveshhensk-belogorsk,Благовещенск,Белогорск,4700,SEO
+https://city2city.ru/belogorsk-blagoveshhensk,Белогорск,Благовещенск,4700,SEO
+https://city2city.ru/ivanovo-plyos,Иваново,Плёс,3200,SEO
+https://city2city.ru/izhevsk-glazov,Ижевск,Глазов,5800,SEO
+https://city2city.ru/kemerovo-yurga,Кемерово,Юрга,4300,SEO
+https://city2city.ru/aldan-jakutsk,Алдан,Якутск,15800,DIRECT
+https://city2city.ru/chelyabinsk-kopejsk,Челябинск,Копейск,3000,SEO
+https://city2city.ru/astraxan-volgograd,Астрахань,Волгоград,12800,DIRECT
+https://city2city.ru/kaluga-obninsk,Калуга,Обнинск,2500,SEO
+https://city2city.ru/irkutsk-shelexov,Иркутск,Шелехов,2000,SEO
+https://city2city.ru/ivanovo-kostroma,Иваново,Кострома,3000,SEO
+https://city2city.ru/kemerovo-belovo,Кемерово,Белово,3500,SEO
+https://city2city.ru/elista-moskva,Элиста,Москва,38000,DIRECT
+https://city2city.ru/chelyabinsk-moskva,Челябинск,Москва,52500,DIRECT
+https://city2city.ru/irkutsk-usole-sibirskoe,Иркутск,Усолье-Сибирское,3800,SEO
+https://city2city.ru/ivanovo-kineshma,Иваново,Кинешма,3800,SEO
+https://city2city.ru/kemerovo-prokopevsk,Кемерово,Прокопьевск,6400,SEO
+https://city2city.ru/ekaterinburg-verxnyaya-pyshma,Екатеринбург,Верхняя Пышма,2000,SEO
+https://city2city.ru/belgorod-rossosh,Белгород,Россошь,7800,SEO
+https://city2city.ru/belgorod-rossosh-2,Белгород,Россошь,7800,SEO
+https://city2city.ru/chelyabinsk-zlatoust,Челябинск,Златоуст,5000,SEO
+https://city2city.ru/ekaterinburg-alapaevsk,Екатеринбург,Алапаевск,5300,SEO
+https://city2city.ru/chelyabinsk-tyumen,Челябинск,Тюмень,12600,DIRECT
+https://city2city.ru/kemerovo-tomsk,Кемерово,Томск,6200,SEO
+https://city2city.ru/barnaul-novoaltaysk,Барнаул,Новоалтайск,2000,SEO
+https://city2city.ru/ekaterinburg-severouralsk,Екатеринбург,Североуральск,13200,DIRECT
+https://city2city.ru/izhevsk-moskva,Ижевск,Москва,35500,DIRECT
+https://city2city.ru/ekaterinburg-beloreczk,Екатеринбург,Белорецк,53700,DIRECT
+https://city2city.ru/astraxan-moskva,Астрахань,Москва,41800,DIRECT
+https://city2city.ru/hanty-mansijsk-njagan,Ханты-Мансийск,Нягань,8700,SEO
+https://city2city.ru/ekaterinburg-asbest,Екатеринбург,Асбест,3800,SEO
+https://city2city.ru/kazan-innopolis,Казань,Иннополис,2000,SEO
+https://city2city.ru/irkutsk-slyudyanka,Иркутск,Слюдянка,3800,SEO
+https://city2city.ru/belgorod-stroitel,Белгород,Строитель,2000,SEO
+https://city2city.ru/izhevsk-neftekamsk,Ижевск,Нефтекамск,4700,SEO
+https://city2city.ru/irkutsk-cheremxovo,Иркутск,Черемхово,5200,SEO
+https://city2city.ru/ivanovo-vichuga,Иваново,Вичуга,3400,SEO
+https://city2city.ru/belgorod-shebekino,Белгород,Шебекино,2000,SEO
+https://city2city.ru/kazan-belebej,Казань,Белебей,13000,DIRECT
+https://city2city.ru/kazan-tolyatti,Казань,Тольятти,10000,DIRECT
+https://city2city.ru/chelyabinsk-app-bugristoe,Челябинск,Троицк,4500,SEO
+https://city2city.ru/blagoveshhensk-jakutsk,Благовещенск,Якутск,53000,DIRECT
+https://city2city.ru/belgorod-valujki,Белгород,Валуйки,5300,SEO
+https://city2city.ru/barnaul-alyaysk,Барнаул,Алейск,4900,SEO
+https://city2city.ru/barnaul-rubtsovsk,Барнаул,Рубцовск,8800,SEO
+https://city2city.ru/cheboksary-nizhnij-novgorod,Чебоксары,Нижний Новгород,7000,SEO
+https://city2city.ru/cheboksary-czivilsk,Чебоксары,Цивильск,2000,SEO
+https://city2city.ru/ekaterinburg-sysert,Екатеринбург,Сысерть,3000,SEO
+https://city2city.ru/ekaterinburg-miass,Екатеринбург,Миасс,7200,SEO
+https://city2city.ru/irkutsk-kirensk,Иркутск,Киренск,28500,DIRECT
+https://city2city.ru/bratsk-krasnojarsk,Братск,Красноярск,20400,DIRECT
+https://city2city.ru/ekaterinburg-beryozovskij,Екатеринбург,Берёзовский,2000,SEO
+https://city2city.ru/ekaterinburg-kazan,Екатеринбург,Казань,26700,DIRECT
+https://city2city.ru/bryansk-domodedovo,Брянск,Домодедово,12000,DIRECT
+https://city2city.ru/kemerovo-krasnoyarsk,Кемерово,Красноярск,15800,DIRECT
+https://city2city.ru/kazan-bolgar,Казань,Болгар,6100,SEO
+https://city2city.ru/chelyabinsk-orenburg,Челябинск,Оренбург,22400,DIRECT
+https://city2city.ru/chelyabinsk-satka,Челябинск,Сатка,5500,SEO
+https://city2city.ru/belgorod-sankt-peterburg,Белгород,Санкт-Петербург,41000,DIRECT
+https://city2city.ru/bryansk-smolensk,Брянск,Смоленск,7400,SEO
+https://city2city.ru/kaluga-suvorov,Калуга,Суворов,2000,SEO
+https://city2city.ru/ekaterinburg-novouralsk,Екатеринбург,Новоуральск,2500,SEO
+https://city2city.ru/ekaterinburg-rezh,Екатеринбург,Реж,2500,SEO
+https://city2city.ru/bryansk-dyatkovo,Брянск,Дятьково,3000,SEO
+https://city2city.ru/ekaterinburg-revda-2,Екатеринбург,Ревда,2000,SEO
+https://city2city.ru/kazan-volzhsk,Казань,Волжск,3000,SEO
+https://city2city.ru/irkutsk-krasnoyarsk,Иркутск,Красноярск,31800,DIRECT
+https://city2city.ru/astraxan-xarabali,Астрахань,Харабали,5300,SEO
+https://city2city.ru/chelyabinsk-orsk,Челябинск,Орск,18300,DIRECT
+https://city2city.ru/kemerovo-anzhero-sudzhensk,Кемерово,Анжеро-Судженск,3000,SEO
+https://city2city.ru/ekaterinburg-zarechnyj-2,Екатеринбург,Заречный,2000,SEO
+https://city2city.ru/kemerovo-kiselyovsk,Кемерово,Киселёвск,5000,SEO
+https://city2city.ru/chelyabinsk-yuzhnouralsk,Челябинск,Южноуральск,2500,SEO
+https://city2city.ru/cheboksary-alatyr,Чебоксары,Алатырь,6000,SEO
+https://city2city.ru/ekaterinburg-orenburg,Екатеринбург,Оренбург,28800,DIRECT
+https://city2city.ru/kazan-buinsk,Казань,Буинск,4500,SEO
+https://city2city.ru/kazan-saratov,Казань,Саратов,19600,DIRECT
+https://city2city.ru/elista-mineralnye-vody,Элиста,Минеральные Воды,9300,SEO
+https://city2city.ru/izhevsk-samara,Ижевск,Самара,16500,DIRECT
+https://city2city.ru/kazan-magnitogorsk,Казань,Магнитогорск,26100,DIRECT
+https://city2city.ru/cheboksary-ulyanovsk,Чебоксары,Ульяновск,7000,SEO
+https://city2city.ru/bryansk-starodub,Брянск,Стародуб,5000,SEO
+https://city2city.ru/irkutsk-zima,Иркутск,Зима,8000,SEO
+https://city2city.ru/kemerovo-tayga,Кемерово,Тайга,3800,SEO
+https://city2city.ru/irkutsk-severobajkalsk,Иркутск,Северобайкальск,24600,DIRECT
+https://city2city.ru/blagoveshhensk-zeya,Благовещенск,Зея,15300,DIRECT
+https://city2city.ru/elista-stavropol,Элиста,Ставрополь,8000,SEO
+https://city2city.ru/kemerovo-topki,Кемерово,Топки,3000,SEO
+https://city2city.ru/irkutsk-novosibirsk,Иркутск,Новосибирск,55000,DIRECT
+https://city2city.ru/bryansk-pochep,Брянск,Почеп,2500,SEO
+https://city2city.ru/ekaterinburg-kachkanar,Екатеринбург,Качканар,7500,SEO
+https://city2city.ru/chelyabinsk-emanzhelinsk,Челябинск,Еманжелинск,2000,SEO
+https://city2city.ru/bryansk-oryol,Брянск,Орёл,4000,SEO
+https://city2city.ru/energodar-ufa,Энергодар,,65500,DIRECT
+https://city2city.ru/energodar-rostov-na-don,Энергодар,,14000,DIRECT
+https://city2city.ru/energodar-simferopol,Энергодар,,10500,DIRECT
+https://city2city.ru/kazan-vyatskie-polyany,Казань,Вятские Поляны,5000,SEO
+https://city2city.ru/izhevsk-nizhnekamsk,Ижевск,Нижнекамск,6300,SEO
+https://city2city.ru/ivanovo-suzdal,Иваново,Суздаль,3600,SEO
+https://city2city.ru/ivanovo-rostov-velikij,Иваново,Ростов,4700,SEO
+https://city2city.ru/aeroport-gagarin-balakovo,аэропорт Гагарин,Балаково,5100,SEO
+https://city2city.ru/kazan-laishevo,Казань,Лаишево,3000,SEO
+https://city2city.ru/ekaterinburg-nevyansk,Екатеринбург,Невьянск,2500,SEO
+https://city2city.ru/chelyabinsk-ozyorsk,Челябинск,Озерск,3500,SEO
+https://city2city.ru/kaluga-maloyaroslavecz,Калуга,Малоярославец,2000,SEO
+https://city2city.ru/chelyabinsk-shhuche,Челябинск,Щучье,3000,SEO
+https://city2city.ru/kemerovo-leninsk-kuznetskiy,Кемерово,Ленинск-Кузнецкий,3000,SEO
+https://city2city.ru/kazan-sibaj,Казань,Сибай,28400,DIRECT
+https://city2city.ru/chelyabinsk-korkino,Челябинск,Коркино,3000,SEO
+https://city2city.ru/kaluga-kirov-kaluzhskaya-oblast,Калуга,Киров,36000,DIRECT
+https://city2city.ru/ekaterinburg-izhevsk,Екатеринбург,Ижевск,17000,DIRECT
+https://city2city.ru/izhevsk-ekaterinburg,Ижевск,Екатеринбург,17100,DIRECT
+https://city2city.ru/ekaterinburg-nizhnyaya-tura,Екатеринбург,Нижняя Тура,7000,SEO
+https://city2city.ru/irkutsk-sayansk,Иркутск,Саянск,8500,SEO
+https://city2city.ru/astraxan-narimanov,Астрахань,Нариманов,2000,SEO
+https://city2city.ru/kazan-buguruslan,Казань,Бугуруслан,11700,DIRECT
+https://city2city.ru/barnaul-zarinsk,Барнаул,Заринск,3500,SEO
+https://city2city.ru/astraxan-rostov-na-donu,Астрахань,Ростов-на-Дону,23100,DIRECT
+https://city2city.ru/kazan-neftekamsk,Казань,Нефтекамск,12400,DIRECT
+https://city2city.ru/ivanovo-nizhnij-novgorod,Иваново,Нижний Новгород,7500,SEO
+https://city2city.ru/ekaterinburg-chebarkul,Екатеринбург,Чебаркуль,7800,SEO
+https://city2city.ru/kemerovo-beryozovskiy,Кемерово,Берёзовский,55800,DIRECT
+https://city2city.ru/astraxan-stavropol,Астрахань,Ставрополь,17400,DIRECT
+https://city2city.ru/bryansk-kursk,Брянск,Курск,8500,SEO
+https://city2city.ru/kaluga-kozelsk,Калуга,Козельск,3200,SEO
+https://city2city.ru/chelyabinsk-kusa,Челябинск,Куса,5500,SEO
+https://city2city.ru/ivanovo-komsomolsk,Иваново,Комсомольск,3000,SEO
+https://city2city.ru/belgorod-samara,Белгород,Самара,35500,DIRECT
+https://city2city.ru/belgorod-novyj_oskol,Белгород,Новый Оскол,3500,SEO
+https://city2city.ru/bryansk-lyudinovo,Брянск,Людиново,3600,SEO
+https://city2city.ru/irkutsk-chita,Иркутск,Чита,32800,DIRECT
+https://city2city.ru/belgorod-lipeck,Белгород,Липецк,11500,DIRECT
+https://city2city.ru/ekaterinburg-zlatoust,Екатеринбург,Златоуст,8100,SEO
+https://city2city.ru/kazan-volgograd,Казань,Волгоград,30900,DIRECT
+https://city2city.ru/belgorod-korocha,Белгород,Короча,3000,SEO
+https://city2city.ru/ivanovo-yuzha,Иваново,Южа,3000,SEO
+https://city2city.ru/ekaterinburg-ulyanovsk,Екатеринбург,Ульяновск,30200,DIRECT
+https://city2city.ru/belgorod-kazan,Белгород,Казань,38600,DIRECT
+https://city2city.ru/kazan-belgorod,Казань,Белгород,40400,DIRECT
+https://city2city.ru/kaluga-lyudinovo,Калуга,Людиново,5800,SEO
+https://city2city.ru/kazan-orsk,Казань,Орск,29700,DIRECT
+https://city2city.ru/irkutsk-bodajbo,Иркутск,Бодайбо,43800,DIRECT
+https://city2city.ru/joshkar-ola-volzhsk,Йошкар-Ола,Волжск,3000,SEO
+https://city2city.ru/kazan-arsk,Казань,Арск,3200,SEO
+https://city2city.ru/ekaterinburg-krasnoturinsk,Екатеринбург,Краснотурьинск,11600,DIRECT
+https://city2city.ru/ekaterinburg-aramil,Екатеринбург,Арамиль,2000,SEO
+https://city2city.ru/cheboksary-penza,Чебоксары,Пенза,14000,DIRECT
+https://city2city.ru/kazan-zainsk,Казань,Заинск,7200,SEO
+https://city2city.ru/ekaterinburg-krasnoufimsk,Екатеринбург,Красноуфимск,6000,SEO
+https://city2city.ru/handyga-jakutsk,Хандыга,Якутск,12600,DIRECT
+https://city2city.ru/kaluga-tarusa,Калуга,Таруса,2000,SEO
+https://city2city.ru/kazan-malmyzh,Казань,Малмыж,5000,SEO
+https://city2city.ru/ekaterinburg-serov,Екатеринбург,Серов,10500,DIRECT
+https://city2city.ru/irkutsk-ust-ilimsk,Иркутск,Усть-Илимск,27000,DIRECT
+https://city2city.ru/joshkar-ola-kirov,Йошкар-Ола,Киров,9000,SEO
+https://city2city.ru/irkutsk-tulun,Иркутск,Тулун,12000,DIRECT
+https://city2city.ru/blagoveshhensk-nerjungri,Благовещенск,Нерюнгри,29400,DIRECT
+https://city2city.ru/kemerovo-barnaul,Кемерово,Барнаул,12000,DIRECT
+https://city2city.ru/ekaterinburg-oktyabrskij-5,Екатеринбург,Октябрьский,18500,DIRECT
+https://city2city.ru/astraxan-kamyzyak,Астрахань,Камызяк,3000,SEO
+https://city2city.ru/ivanovo-kovrov,Иваново,Ковров,4300,SEO
+https://city2city.ru/bryansk-trubchevsk,Брянск,Трубчевск,3000,SEO
+https://city2city.ru/ivanovo-privolzhsk,Иваново,Приволжск,2000,SEO
+https://city2city.ru/barnaul-tomsk,Барнаул,Томск,14700,DIRECT
+https://city2city.ru/bryansk-karachev,Брянск,Карачев,3000,SEO
+https://city2city.ru/ivanovo-rodniki,Иваново,Родники,3000,SEO
+https://city2city.ru/habarovsk-jakutsk,Хабаровск,Якутск,69900,DIRECT
+https://city2city.ru/kazan-kukmor,Казань,Кукмор,5100,SEO
+https://city2city.ru/kazan-salavat,Казань,Салават,19800,DIRECT
+https://city2city.ru/kaluga-meshhovsk,Калуга,Мещовск,2500,SEO
+https://city2city.ru/ekaterinburg-snezhinsk,Екатеринбург,Снежинск,3000,SEO
+https://city2city.ru/izhevsk-naberezhnye-chelny,Ижевск,Набережные Челны,5500,SEO
+https://city2city.ru/kaluga-smolensk,Калуга,Смоленск,10500,DIRECT
+https://city2city.ru/chelyabinsk-sankt-peterburg,Челябинск,Санкт-Петербург,73200,DIRECT
+https://city2city.ru/chelyabinsk-karabash,Челябинск,Карабаш,3500,SEO
+https://city2city.ru/kaluga-bryansk,Калуга,Брянск,7000,SEO
+https://city2city.ru/kazan-mamadysh,Казань,Мамадыш,5600,SEO
+https://city2city.ru/kazan-novocheboksarsk,Казань,Новочебоксарск,4500,SEO
+https://city2city.ru/ekaterinburg-voronezh,Екатеринбург,Воронеж,54200,DIRECT
+https://city2city.ru/bryansk-sevsk,Брянск,Севск,4000,SEO
+https://city2city.ru/bryansk-kaluga,Брянск,Калуга,6800,SEO
+https://city2city.ru/bryansk-novozybkov,Брянск,Новозыбков,6000,SEO
+https://city2city.ru/ekaterinburg-talicza,Екатеринбург,Талица,6500,SEO
+https://city2city.ru/ekaterinburg-sredneuralsk,Екатеринбург,Среднеуральск,3000,SEO
+https://city2city.ru/ekaterinburg-samara,Екатеринбург,Самара,27200,DIRECT
+https://city2city.ru/cheboksary-naberezhnye-chelny,Чебоксары,Набережные Челны,12000,DIRECT
+https://city2city.ru/ekaterinburg-kirov,Екатеринбург,Киров,25500,DIRECT
+https://city2city.ru/joshkar-ola-zvenigovo,Йошкар-Ола,Звенигово,3000,SEO
+https://city2city.ru/belgorod-tula,Белгород,Тула,14500,DIRECT
+https://city2city.ru/ekaterinburg-kirov-2,Екатеринбург,Киров,25500,DIRECT
+https://city2city.ru/belgorod-alekseevka,Белгород,Алексеевка,38000,DIRECT
+https://city2city.ru/chelyabinsk-shadrinsk,Челябинск,Шадринск,6500,SEO
+https://city2city.ru/kaluga-podolsk,Калуга,Подольск,4500,SEO
+https://city2city.ru/ivanovo-kazan,Иваново,Казань,19000,DIRECT
+https://city2city.ru/ekaterinburg-artyomovskij,Екатеринбург,Артёмовский,4200,SEO
+https://city2city.ru/ivanovo-ryazan,Иваново,Рязань,10500,DIRECT
+https://city2city.ru/astraxan-axtubinsk,Астрахань,Ахтубинск,9300,SEO
+https://city2city.ru/ekaterinburg-turinsk,Екатеринбург,Туринск,8000,SEO
+https://city2city.ru/ekaterinburg-kushva,Екатеринбург,Кушва,5500,SEO
+https://city2city.ru/kazan-sterlitamak,Казань,Стерлитамак,18500,DIRECT
+https://city2city.ru/bryansk-surazh,Брянск,Сураж,5000,SEO
+https://city2city.ru/belgorod-vologda,Белгород,Вологда,33900,DIRECT
+https://city2city.ru/belgorod-orel,Белгород,Орёл,9000,SEO
+https://city2city.ru/blagoveshhensk-xabarovsk,Благовещенск,Хабаровск,21600,DIRECT
+https://city2city.ru/elista-rostov-na-donu,Элиста,Ростов-на-Дону,13500,DIRECT
+https://city2city.ru/kemerovo-mariinsk,Кемерово,Мариинск,5000,SEO
+https://city2city.ru/bryansk-unecha,Брянск,Унеча,5000,SEO
+https://city2city.ru/ekaterinburg-nizhnie-sergi,Екатеринбург,Нижние Серги,3000,SEO
+https://city2city.ru/ivanovo-aleksandrov,Иваново,Александров,6500,SEO
+https://city2city.ru/kazan-sochi,Казань,Сочи,59400,DIRECT
+https://city2city.ru/izhevsk-orenburg,Ижевск,Оренбург,21800,DIRECT
+https://city2city.ru/belgorod-tambov,Белгород,Тамбов,14200,DIRECT
+https://city2city.ru/bryansk-voronezh,Брянск,Воронеж,13500,DIRECT
+https://city2city.ru/belgorod-nizhnij-novgorod,Белгород,Нижний Новгород,32500,DIRECT
+https://city2city.ru/cheboksary-zelenodolsk,Чебоксары,Зеленодольск,3500,SEO
+https://city2city.ru/barnaul-zmeinogorsk-2,Барнаул,Змеиногорск,9900,SEO
+https://city2city.ru/ekaterinburg-verxnij-tagil,Екатеринбург,Верхний Тагил,3000,SEO
+https://city2city.ru/kazan-abdulino,Казань,Абдулино,13200,DIRECT
+https://city2city.ru/barnaul-novokuznetsk,Барнаул,Новокузнецк,12500,DIRECT
+https://city2city.ru/kaluga-oryol,Калуга,Орёл,6500,SEO
+https://city2city.ru/ekaterinburg-orsk,Екатеринбург,Орск,24600,DIRECT
+https://city2city.ru/kazan-vladimir,Казань,Владимир,18600,DIRECT
+https://city2city.ru/kazan-penza,Казань,Пенза,15900,DIRECT
+https://city2city.ru/kazan-zvenigovo,Казань,Звенигово,3800,SEO
+https://city2city.ru/cheboksary-kozmodemyansk,Чебоксары,Козьмодемьянск,2000,SEO
+https://city2city.ru/joshkar-ola-yaransk,Йошкар-Ола,Яранск,2500,SEO
+https://city2city.ru/kaluga-suxinichi,Калуга,Сухиничи,3000,SEO
+https://city2city.ru/ekaterinburg-kirovgrad,Екатеринбург,Кировград,3000,SEO
+https://city2city.ru/blagoveshhensk-cziolkovskij,Благовещенск,Циолковский,7400,SEO
+https://city2city.ru/ekaterinburg-verxnyaya-salda,Екатеринбург,Верхняя Салда,5000,SEO
+https://city2city.ru/ekaterinburg-gubaxa,Екатеринбург,Губаха,12000,DIRECT
+https://city2city.ru/belgorod-tver,Белгород,Тверь,24900,DIRECT
+https://city2city.ru/bryansk-obninsk,Брянск,Обнинск,8500,SEO
+https://city2city.ru/bryansk-tula,Брянск,Тула,10000,DIRECT
+https://city2city.ru/kaluga-voronezh,Калуга,Воронеж,13000,DIRECT
+https://city2city.ru/joshkar-ola-nizhnij-novgorod,Йошкар-Ола,Нижний Новгород,10500,DIRECT
+https://city2city.ru/chelyabinsk-bajmak,Челябинск,Баймак,13500,DIRECT
+https://city2city.ru/ekaterinburg-sochi,Екатеринбург,Сочи,81300,DIRECT
+https://city2city.ru/elista-essentuki,Элиста,Ессентуки,10500,DIRECT
+https://city2city.ru/kazan-chelyabinsk,Казань,Челябинск,28400,DIRECT
+https://city2city.ru/ekaterinburg-sankt-peterburg,Екатеринбург,Санкт-Петербург,71100,DIRECT
+https://city2city.ru/chelyabinsk-kazan,Челябинск,Казань,28800,DIRECT
+https://city2city.ru/belgorod-volgograd,Белгород,Волгоград,24300,DIRECT
+https://city2city.ru/belgorod-biryuch,Белгород,Бирюч,4500,SEO
+https://city2city.ru/astraxan-lagan,Астрахань,Лагань,5800,SEO
+https://city2city.ru/chelyabinsk-voronezh,Челябинск,Воронеж,52200,DIRECT
+https://city2city.ru/kazan-kumertau,Казань,Кумертау,21600,DIRECT
+https://city2city.ru/elista-pyatigorsk,Элиста,Пятигорск,9900,SEO
+https://city2city.ru/ekaterinburg-gornozavodsk,Екатеринбург,Горнозаводск,9500,SEO
+https://city2city.ru/astraxan-gorod-lagan,Астрахань,Лагань,5800,SEO
+https://city2city.ru/kaluga-kurovskoe,Калуга,Куровское,7400,SEO
+https://city2city.ru/ekaterinburg-verxnij-ufalej,Екатеринбург,Верхний Уфалей,5500,SEO
+https://city2city.ru/chelyabinsk-penza,Челябинск,Пенза,36900,DIRECT
+https://city2city.ru/barnaul-omsk,Барнаул,Омск,26000,DIRECT
+https://city2city.ru/belgorod-saratov,Белгород,Саратов,23200,DIRECT
+https://city2city.ru/kazan-urzhum,Казань,Уржум,6800,SEO
+https://city2city.ru/cheboksary-sterlitamak,Чебоксары,Стерлитамак,24500,DIRECT
+https://city2city.ru/chelyabinsk-verxneuralsk,Челябинск,Верхнеуральск,7500,SEO
+https://city2city.ru/kemerovo-gurevsk,Кемерово,Гурьевск,5000,SEO
+https://city2city.ru/irkutsk-tajshet,Иркутск,Тайшет,20000,DIRECT
+https://city2city.ru/belgorod-ryazan,Белгород,Рязань,19000,DIRECT
+https://city2city.ru/ekaterinburg-surgut,Екатеринбург,Сургут,33800,DIRECT
+https://city2city.ru/aeroport-pulkovo-velikij-novgorod,аэропорт Пулково,Великий Новгород,6300,SEO
+https://city2city.ru/ekaterinburg-chusovoj,Екатеринбург,Чусовой,10500,DIRECT
+https://city2city.ru/elista-gorod-lagan,Элиста,Лагань,38500,DIRECT
+https://city2city.ru/ekaterinburg-degtyarsk,Екатеринбург,Дегтярск,2000,SEO
+https://city2city.ru/kemerovo-irkutsk,Кемерово,Иркутск,47600,DIRECT
+https://city2city.ru/kemerovo-osinniki,Кемерово,Осинники,7500,SEO
+https://city2city.ru/bryansk-belgorod,Брянск,Белгород,12500,DIRECT
+https://city2city.ru/irkutsk-kemerovo,Иркутск,Кемерово,47400,DIRECT
+https://city2city.ru/ekaterinburg-saratov,Екатеринбург,Саратов,39500,DIRECT
+https://city2city.ru/chelyabinsk-nizhnevartovsk,Челябинск,Нижневартовск,42500,DIRECT
+https://city2city.ru/kazan-kostroma,Казань,Кострома,21500,DIRECT
+https://city2city.ru/ekaterinburg-naberezhnye-chelny,Екатеринбург,Набережные Челны,19000,DIRECT
+https://city2city.ru/kaluga-vyazma,Калуга,Вязьма,5500,SEO
+https://city2city.ru/irkutsk-omsk,Иркутск,Омск,74100,DIRECT
+https://city2city.ru/chelyabinsk-nyazepetrovsk,Челябинск,Нязепетровск,6500,SEO
+https://city2city.ru/elista-lagan,Элиста,Лагань,9000,SEO
+https://city2city.ru/ekaterinburg-yuzhnouralsk,Екатеринбург,Южноуральск,9600,SEO
+https://city2city.ru/ivanovo-sochi,Иваново,Сочи,57000,DIRECT
+https://city2city.ru/kazan-rostov-na-donu,Казань,Ростов-на-Дону,45900,DIRECT
+https://city2city.ru/blagoveshhensk-ussurijsk,Благовещенск,Уссурийск,41500,DIRECT
+https://city2city.ru/ekaterinburg-krasnouralsk,Екатеринбург,Красноуральск,6000,SEO
+https://city2city.ru/irkutsk-jakutsk,Иркутск,Якутск,96000,DIRECT
+https://city2city.ru/belgorod-smolensk,Белгород,Смоленск,20100,DIRECT
+https://city2city.ru/irkutsk-nizhneudinsk,Иркутск,Нижнеудинск,15600,DIRECT
+https://city2city.ru/kazan-meleuz,Казань,Мелеуз,20500,DIRECT
+https://city2city.ru/irkutsk-vladivostok,Иркутск,Владивосток,120000,DIRECT
+https://city2city.ru/izhevsk-vyatskie-polyany,Ижевск,Вятские Поляны,9500,SEO
+https://city2city.ru/astraxan-kislovodsk,Астрахань,Кисловодск,20200,DIRECT
+https://city2city.ru/belgorod-smolensk-2,Белгород,Смоленск,20100,DIRECT
+https://city2city.ru/kazan-tambov,Казань,Тамбов,24300,DIRECT
+https://city2city.ru/belgorod-yaroslavl,Белгород,Ярославль,28000,DIRECT
+https://city2city.ru/kazan-syktyvkar,Казань,Сыктывкар,25200,DIRECT
+https://city2city.ru/bryansk-kirov-kaluzhskaya-oblast,Брянск,Киров,41000,DIRECT
+https://city2city.ru/irkutsk-bajkalsk,Иркутск,Байкальская улица,5200,SEO
+https://city2city.ru/barnaul-slavgorod,Барнаул,Славгород,13000,DIRECT
+https://city2city.ru/belgorod-vladimir,Белгород,Владимир,25200,DIRECT
+https://city2city.ru/blagoveshhensk-birobidzhan,Благовещенск,Биробиджан,15600,DIRECT
+https://city2city.ru/blagoveshhensk-vladivostok,Благовещенск,Владивосток,42400,DIRECT
+https://city2city.ru/cheboksary-yadrin,Чебоксары,Ядрин,2500,SEO
+https://city2city.ru/cheboksary-zvenigovo,Чебоксары,Звенигово,2500,SEO
+https://city2city.ru/izhevsk-ulyanovsk,Ижевск,Ульяновск,17000,DIRECT
+https://city2city.ru/irkutsk-svirsk,Иркутск,Свирск,4000,SEO
+https://city2city.ru/elista-kislovodsk,Элиста,Кисловодск,11000,DIRECT
+https://city2city.ru/ivanovo-gavrilov-posad,Иваново,Гаврилов Посад,4000,SEO
+https://city2city.ru/kazan-sim,Казань,Сим,20400,DIRECT
+https://city2city.ru/ivanovo-penza,Иваново,Пенза,16800,DIRECT
+https://city2city.ru/kazan-menzelinsk,Казань,Мензелинск,8500,SEO
+https://city2city.ru/kazan-sarapul,Казань,Сарапул,11500,DIRECT
+https://city2city.ru/ekaterinburg-kopejsk,Екатеринбург,Копейск,6500,SEO
+https://city2city.ru/kaluga-sankt-peterburg,Калуга,Санкт-Петербург,26400,DIRECT
+https://city2city.ru/astraxan-sankt-peterburg,Астрахань,Санкт-Петербург,63200,DIRECT
+https://city2city.ru/kazan-surgut,Казань,Сургут,59800,DIRECT
+https://city2city.ru/kazan-dzerzhinsk,Казань,Дзержинск,14500,DIRECT
+https://city2city.ru/bryansk-pskov,Брянск,Псков,21000,DIRECT
+https://city2city.ru/blagoveshhensk-tynda,Благовещенск,Тында,23200,DIRECT
+https://city2city.ru/kazan-sankt-peterburg,Казань,Санкт-Петербург,45300,DIRECT
+https://city2city.ru/astraxan-kazan,Астрахань,Казань,43800,DIRECT
+https://city2city.ru/blagoveshhensk-rajchixinsk,Благовещенск,Райчихинск,5600,SEO
+https://city2city.ru/ivanovo-volgorechensk,Иваново,Волгореченск,2000,SEO
+https://city2city.ru/kazan-tetyushi,Казань,Тетюши,5000,SEO
+https://city2city.ru/ekaterinburg-verxnyaya-tura,Екатеринбург,Верхняя Тура,6000,SEO
+https://city2city.ru/kaluga-novomoskovsk,Калуга,Новомосковск,5000,SEO
+https://city2city.ru/astraxan-novorossijsk,Астрахань,Новороссийск,29000,DIRECT
+https://city2city.ru/izhevsk-kambarka,Ижевск,Камбарка,4000,SEO
+https://city2city.ru/ekaterinburg-troiczk,Екатеринбург,Троицк,51000,DIRECT
+https://city2city.ru/chelyabinsk-sosnovka,Челябинск,Сосновка,26500,DIRECT
+https://city2city.ru/astraxan-mineralnye-vody,Астрахань,Минеральные Воды,18600,DIRECT
+https://city2city.ru/astraxan-ufa,Астрахань,Уфа,50500,DIRECT
+https://city2city.ru/cheboksary-volzhsk,Чебоксары,Волжск,3500,SEO
+https://city2city.ru/ekaterinburg-verxoture,Екатеринбург,Верхотурье,9000,SEO
+https://city2city.ru/chelyabinsk-ulyanovsk,Челябинск,Ульяновск,29800,DIRECT
+https://city2city.ru/astraxan-sochi,Астрахань,Сочи,32600,DIRECT
+https://city2city.ru/ivanovo-puchezh,Иваново,Пучеж,5000,SEO
+https://city2city.ru/chelyabinsk-surgut,Челябинск,Сургут,36000,DIRECT
+https://city2city.ru/izhevsk-kirov,Ижевск,Киров,12800,DIRECT
+https://city2city.ru/kazan-syzran,Казань,Сызрань,10200,DIRECT
+https://city2city.ru/belgorod-liski,Белгород,Лиски,8000,SEO
+https://city2city.ru/ivanovo-rostov-na-donu,Иваново,Ростов-на-Дону,41000,DIRECT
+https://city2city.ru/blagoveshhensk-shimanovsk,Благовещенск,Шимановск,8800,SEO
+https://city2city.ru/ekaterinburg-tavda,Екатеринбург,Тавда,11000,DIRECT
+https://city2city.ru/ekaterinburg-app-bugristoe,Екатеринбург,Троицк,10500,DIRECT
+https://city2city.ru/elista-volgodonsk,Элиста,Волгодонск,7000,SEO
+https://city2city.ru/ekaterinburg-app-doneczk,Екатеринбург,Донецк,62500,DIRECT
+https://city2city.ru/cheboksary-kirov,Чебоксары,Киров,12000,DIRECT
+https://city2city.ru/kemerovo-belokuriha,Кемерово,Белокуриха,16000,DIRECT
+https://city2city.ru/ekaterinburg-lysva,Екатеринбург,Лысьва,11500,DIRECT
+https://city2city.ru/belgorod-kaluga,Белгород,Калуга,15000,DIRECT
+https://city2city.ru/astraxan-kerch,Астрахань,Керчь,32000,DIRECT
+https://city2city.ru/ekaterinburg-plast,Екатеринбург,Пласт,10000,DIRECT
+https://city2city.ru/chelyabinsk-pervomajskij,Челябинск,посёлок Первомайский,50000,DIRECT
+https://city2city.ru/belgorod-penza,Белгород,Пенза,23000,DIRECT
+https://city2city.ru/kaluga-mosalsk,Калуга,Мосальск,3000,SEO
+https://city2city.ru/ekaterinburg-satka,Екатеринбург,Сатка,9600,SEO
+https://city2city.ru/barnaul-abakan,Барнаул,Абакан,34000,DIRECT
+https://city2city.ru/ekaterinburg-chernushka,Екатеринбург,Чернушка,9500,SEO
+https://city2city.ru/blagoveshhensk-obluche,Благовещенск,Облучье,11000,DIRECT
+https://city2city.ru/elista-gorodovikovsk,Элиста,Городовиковск,7200,SEO
+https://city2city.ru/astraxan-znamensk,Астрахань,Знаменск,11000,DIRECT
+https://city2city.ru/ivanovo-kamenka,Иваново,Каменка,19000,DIRECT
+https://city2city.ru/astraxan-tambov,Астрахань,Тамбов,28500,DIRECT
+https://city2city.ru/kazan-chajkovskij,Казань,Чайковский,13800,DIRECT
+https://city2city.ru/chelyabinsk-kursk,Челябинск,Курск,59700,DIRECT
+https://city2city.ru/belgorod-velikij-novgorod,Белгород,Великий Новгород,35800,DIRECT
+https://city2city.ru/barnaul-kyzyl,Барнаул,Кызыл,45500,DIRECT
+https://city2city.ru/astraxan-sevastopol,Астрахань,Севастополь,40500,DIRECT
+https://city2city.ru/bryansk-simferopol,Брянск,Симферополь,51500,DIRECT
+https://city2city.ru/ivanovo-kursk,Иваново,Курск,25000,DIRECT
+https://city2city.ru/kemerovo-sharypovo,Кемерово,Шарыпово,9000,SEO
+https://city2city.ru/ekaterinburg-kasli,Екатеринбург,Касли,3500,SEO
+https://city2city.ru/barnaul-yarovoe,Барнаул,Яровое,13500,DIRECT
+https://city2city.ru/bryansk-sankt-peterburg,Брянск,Санкт-Петербург,32400,DIRECT
+https://city2city.ru/kazan-voronezh,Казань,Воронеж,31000,DIRECT
+https://city2city.ru/barnaul-krasnoyarsk,Барнаул,Красноярск,27600,DIRECT
+https://city2city.ru/chelyabinsk-krasnogorsk,Челябинск,Красногорск,53000,DIRECT
+https://city2city.ru/kazan-buzuluk,Казань,Бузулук,14500,DIRECT
+https://city2city.ru/kaluga-belgorod,Калуга,Белгород,15500,DIRECT
+https://city2city.ru/ekaterinburg-tolyatti,Екатеринбург,Тольятти,28000,DIRECT
+https://city2city.ru/kemerovo-abakan,Кемерово,Абакан,22000,DIRECT
+https://city2city.ru/astraxan-gelendzhik,Астрахань,Геленджик,29400,DIRECT
+https://city2city.ru/belgorod-boguchar,Белгород,Богучар,11000,DIRECT
+https://city2city.ru/chelyabinsk-rostov-na-donu,Челябинск,Ростов-на-Дону,64000,DIRECT
+https://city2city.ru/ivanovo-noginsk,Иваново,Ногинск,7500,SEO
+https://city2city.ru/belgorod-arxangelsk,Белгород,Архангельск,57000,DIRECT
+https://city2city.ru/bryansk-nizhnij-novgorod,Брянск,Нижний Новгород,24600,DIRECT
+https://city2city.ru/izhevsk-chelyabinsk,Ижевск,Челябинск,22600,DIRECT
+https://city2city.ru/astraxan-volzhskij,Астрахань,Волжский,13200,DIRECT
+https://city2city.ru/blagoveshhensk-chita,Благовещенск,Чита,45600,DIRECT
+https://city2city.ru/kazan-sorochinsk,Казань,Сорочинск,17500,DIRECT
+https://city2city.ru/kazan-alatyr,Казань,Алатырь,7500,SEO
+https://city2city.ru/chelyabinsk-izhevsk,Челябинск,Ижевск,22600,DIRECT
+https://city2city.ru/ivanovo-ekaterinburg,Иваново,Екатеринбург,45500,DIRECT
+https://city2city.ru/cheboksary-sosnovka,Чебоксары,Сосновка,10000,DIRECT
+https://city2city.ru/ekaterinburg-sovetskij-2,Екатеринбург,Советский,21500,DIRECT
+https://city2city.ru/ivanovo-sankt-peterburg,Иваново,Санкт-Петербург,26800,DIRECT
+https://city2city.ru/belgorod-ufa,Белгород,Уфа,48000,DIRECT
+https://city2city.ru/bryansk-rossosh,Брянск,Россошь,19000,DIRECT
+https://city2city.ru/ivanovo-tula,Иваново,Тула,14000,DIRECT
+https://city2city.ru/barnaul-berdsk,Барнаул,Бердск,6000,SEO
+https://city2city.ru/izhevsk-tolyatti,Ижевск,Тольятти,17600,DIRECT
+https://city2city.ru/kaluga-lipeczk,Калуга,Липецк,12000,DIRECT
+https://city2city.ru/bryansk-rylsk,Брянск,Рыльск,6500,SEO
+https://city2city.ru/irkutsk-aeroport-ust-kut,аэропорт Иркутск,Усть-Кут,38500,DIRECT
+https://city2city.ru/izhevsk-sankt-peterburg,Ижевск,Санкт-Петербург,56000,DIRECT
+https://city2city.ru/ekaterinburg-nyazepetrovsk,Екатеринбург,Нязепетровск,6500,SEO
+https://city2city.ru/cheboksary-izhevsk,Чебоксары,Ижевск,15500,DIRECT
+https://city2city.ru/barnaul-cherepanovo-2,Барнаул,Черепаново,4000,SEO
+https://city2city.ru/belgorod-obninsk,Белгород,Обнинск,17500,DIRECT
+https://city2city.ru/belgorod-oboyan,Белгород,Обоянь,2500,SEO
+https://city2city.ru/chelyabinsk-sochi,Челябинск,Сочи,79600,DIRECT
+https://city2city.ru/cheboksary-syzran,Чебоксары,Сызрань,11000,DIRECT
+https://city2city.ru/belgorod-simferopol,Белгород,Симферополь,41500,DIRECT
+https://city2city.ru/kemerovo-gorno-altaysk,Кемерово,Горно-Алтайск,17100,DIRECT
+https://city2city.ru/ekaterinburg-yugorsk,Екатеринбург,Югорск,21300,DIRECT
+https://city2city.ru/kirov-anapa,Киров,Анапа,66000,DIRECT
+https://city2city.ru/izhevsk-chernushka,Ижевск,Чернушка,9500,SEO
+https://city2city.ru/ivanovo-vyazniki,Иваново,Вязники,5000,SEO
+https://city2city.ru/cheboksary-lyskovo,Чебоксары,Лысково,5000,SEO
+https://city2city.ru/elista-anapa,Элиста,Анапа,20500,DIRECT
+https://city2city.ru/ekaterinburg-rostov-na-don,Екатеринбург,Ростов-на-Дону,66000,DIRECT
+https://city2city.ru/ivanovo-anapa,Иваново,Анапа,53600,DIRECT
+https://city2city.ru/ekaterinburg-birsk,Екатеринбург,Бирск,13000,DIRECT
+https://city2city.ru/izhevsk-yanaul,Ижевск,Янаул,5800,SEO
+https://city2city.ru/astraxan-belgorod,Астрахань,Белгород,38000,DIRECT
+https://city2city.ru/cheboksary-oktyabrskij-respublika-bashkortostan,Чебоксары,Октябрьский,17000,DIRECT
+https://city2city.ru/bryansk-rostov-na-donu,Брянск,Ростов-на-Дону,30900,DIRECT
+https://city2city.ru/irkutsk-ekaterinburg,Иркутск,Екатеринбург,102000,DIRECT
+https://city2city.ru/bryansk-doneczk-rostovskaya-oblast,Брянск,Донецк,35100,DIRECT
+https://city2city.ru/belgorod-sochi,Белгород,Сочи,37000,DIRECT
+https://city2city.ru/barnaul-iskitim-2,Барнаул,Искитим,5500,SEO
+https://city2city.ru/ekaterinburg-berezniki,Екатеринбург,Березники,16500,DIRECT
+https://city2city.ru/aeroport-pulkovo-ivangorod,аэропорт Пулково,Ивангород,5400,SEO
+https://city2city.ru/chelyabinsk-nizhnekamsk,Челябинск,Нижнекамск,22500,DIRECT
+https://city2city.ru/kemerovo-toguchin,Кемерово,Тогучин,6000,SEO
+https://city2city.ru/belgorod-pskov,Белгород,Псков,34000,DIRECT
+https://city2city.ru/kemerovo-myski,Кемерово,Мыски,5000,SEO
+https://city2city.ru/elista-voronezh,Элиста,Воронеж,25000,DIRECT
+https://city2city.ru/astraxan-zheleznovodsk,Астрахань,Железноводск,19000,DIRECT
+https://city2city.ru/ivanovo-naro-fominsk,Иваново,Наро-Фоминск,11500,DIRECT
+https://city2city.ru/chelyabinsk-mirnyj,Челябинск,Мирный,144000,DIRECT
+https://city2city.ru/kazan-sosnovka,Казань,Сосновка,5500,SEO
+https://city2city.ru/ivanovo-furmanov,Иваново,город Фурманов,2000,SEO
+https://city2city.ru/izhevsk-agidel,Ижевск,Агидель,5000,SEO
+https://city2city.ru/aeroport-gagarin-volsk,аэропорт Гагарин,Вольск,4400,SEO
+https://city2city.ru/kaluga-zhizdra,Калуга,Жиздра,4500,SEO
+https://city2city.ru/bryansk-lipeczk,Брянск,Липецк,13000,DIRECT
+https://city2city.ru/kazan-barysh,Казань,Барыш,11000,DIRECT
+https://city2city.ru/bryansk-stavropol,Брянск,Ставрополь,41000,DIRECT
+https://city2city.ru/kaluga-zhukov,Калуга,Жуков,2500,SEO
+https://city2city.ru/chelyabinsk-ryazan,Челябинск,Рязань,50500,DIRECT
+https://city2city.ru/kazan-novyj-urengoj,Казань,Новый Уренгой,82000,DIRECT
+https://city2city.ru/bryansk-sochi,Брянск,Сочи,47500,DIRECT
+https://city2city.ru/astraxan-temryuk,Астрахань,Темрюк,29000,DIRECT
+https://city2city.ru/blagoveshhensk-zavitinsk,Благовещенск,Завитинск,5600,SEO
+https://city2city.ru/ekaterinburg-chajkovskij,Екатеринбург,Чайковский,14000,DIRECT
+https://city2city.ru/kemerovo-zelenogorsk,Кемерово,Зеленогорск,129000,DIRECT
+https://city2city.ru/arxangelsk-vologda,Архангельск,Вологда,23000,DIRECT
+https://city2city.ru/chelyabinsk-mezhgore,Челябинск,Межгорье,11000,DIRECT
+https://city2city.ru/kazan-chernushka,Казань,Чернушка,18500,DIRECT
+https://city2city.ru/kazan-vologda,Казань,Вологда,31500,DIRECT
+https://city2city.ru/ekaterinburg-gaj,Екатеринбург,Гай,25500,DIRECT
+https://city2city.ru/chelyabinsk-bakal,Челябинск,Бакал,6000,SEO
+https://city2city.ru/chelyabinsk-adler,Челябинск,Адлер,81500,DIRECT
+https://city2city.ru/ekaterinburg-tula,Екатеринбург,Тула,55500,DIRECT
+https://city2city.ru/kemerovo-iskitim,Кемерово,Искитим,9500,SEO
+https://city2city.ru/ekaterinburg-kurgan,международный аэропорт Кольцово Екатеринбург,,11000,DIRECT
+https://city2city.ru/kazan-murom,Казань,Муром,15000,DIRECT
+https://city2city.ru/elista-posyolok-komsomolskij,Элиста,посёлок Комсомольский,6000,SEO
+https://city2city.ru/astraxan-orenburg,Астрахань,Оренбург,48500,DIRECT
+https://city2city.ru/kazan-birsk,Казань,Бирск,16500,DIRECT
+https://city2city.ru/ekaterinburg-solnechnyj,Екатеринбург,посёлок Солнечный,52000,DIRECT
+https://city2city.ru/izhevsk-magnitogorsk,Ижевск,Магнитогорск,20000,DIRECT
+https://city2city.ru/joshkar-ola-naberezhnye-chelny,Йошкар-Ола,Набережные Челны,12000,DIRECT
+https://city2city.ru/ekaterinburg-almetevsk,Екатеринбург,Альметьевск,24500,DIRECT
+https://city2city.ru/astraxan-pyatigorsk,Астрахань,Пятигорск,19200,DIRECT
+https://city2city.ru/joshkar-ola-urzhum,Йошкар-Ола,Уржум,8000,SEO
+https://city2city.ru/ekaterinburg-stavropol,Екатеринбург,Ставрополь,68500,DIRECT
+https://city2city.ru/kazan-agryz,Казань,Агрыз,10000,DIRECT
+https://city2city.ru/ivanovo-ufa,Иваново,Уфа,35100,DIRECT
+https://city2city.ru/cheboksary-rostov-na-donu,Чебоксары,Ростов-на-Дону,41700,DIRECT
+https://city2city.ru/ekaterinburg-magnitogorsk,международный аэропорт Кольцово Екатеринбург,,15400,DIRECT
+https://city2city.ru/bryansk-lokot,Брянск,посёлок Локоть,4300,SEO
+https://city2city.ru/ekaterinburg-chelyabinsk,международный аэропорт Кольцово Екатеринбург,,6300,SEO
+https://city2city.ru/chelyabinsk-kurtamysh,Челябинск,Куртамыш,7500,SEO
+https://city2city.ru/ekaterinburg-cheboksary,Екатеринбург,Чебоксары,31500,DIRECT
+https://city2city.ru/belgorod-sevastopol,Белгород,Севастополь,44000,DIRECT
+https://city2city.ru/irkutsk-vixorevka,Иркутск,Вихоревка,18000,DIRECT
+https://city2city.ru/ekaterinburg-bajmak,Екатеринбург,Баймак,19800,DIRECT
+https://city2city.ru/kemerovo-yarovoe,Кемерово,Яровое,20000,DIRECT
+https://city2city.ru/astraxan-ejsk,Астрахань,Ейск,26800,DIRECT
+https://city2city.ru/blagoveshhensk-ulan-ude,Благовещенск,Улан-Удэ,66000,DIRECT
+https://city2city.ru/elista-gelendzhik,Элиста,Геленджик,20000,DIRECT
+https://city2city.ru/kemerovo-biysk,Кемерово,Бийск,14000,DIRECT
+https://city2city.ru/bryansk-desnogorsk,Брянск,Десногорск,5000,SEO
+https://city2city.ru/kaluga-simferopol,Калуга,Симферополь,50500,DIRECT
+https://city2city.ru/kazan-glazov,Казань,Глазов,17000,DIRECT
+https://city2city.ru/kazan-agidel,Казань,Агидель,12500,DIRECT
+https://city2city.ru/cheboksary-nizhnekamsk,Чебоксары,Нижнекамск,11000,DIRECT
+https://city2city.ru/cheboksary-bugulma,Чебоксары,Бугульма,14000,DIRECT
+https://city2city.ru/irkutsk-troiczk,Иркутск,Троицк,153000,DIRECT
+https://city2city.ru/elista-sochi,Элиста,Сочи,23200,DIRECT
+https://city2city.ru/ivanovo-samara,Иваново,Самара,27400,DIRECT
+https://city2city.ru/elista-zheleznovodsk,Элиста,Железноводск,10000,DIRECT
+https://city2city.ru/chelyabinsk-joshkar-ola,Челябинск,Йошкар-Ола,32600,DIRECT
+https://city2city.ru/ekaterinburg-shadrinsk,международный аэропорт Кольцово Екатеринбург,,6900,SEO
+https://city2city.ru/chelyabinsk-anapa,Челябинск,Анапа,76500,DIRECT
+https://city2city.ru/ekaterinburg-emanzhelinsk,Екатеринбург,Еманжелинск,8000,SEO
+https://city2city.ru/ekaterinburg-ufa,международный аэропорт Кольцово Екатеринбург,,15800,DIRECT
+https://city2city.ru/cheboksary-sergach,Чебоксары,Сергач,5000,SEO
+https://city2city.ru/ekaterinburg-solikamsk,Екатеринбург,Соликамск,15900,DIRECT
+https://city2city.ru/ekaterinburg-tagil,международный аэропорт Кольцово Екатеринбург,,4300,SEO
+https://city2city.ru/ekaterinburg-perm,международный аэропорт Кольцово Екатеринбург,,10800,DIRECT
+https://city2city.ru/elista-sankt-peterburg,Элиста,Санкт-Петербург,59200,DIRECT
+https://city2city.ru/kemerovo-salair,Кемерово,Салаир,5000,SEO
+https://city2city.ru/kaluga-ruza,Калуга,Руза,5000,SEO
+https://city2city.ru/irkutsk-blagoveshhensk,Иркутск,Благовещенск,79000,DIRECT
+https://city2city.ru/ekaterinburg-shumixa,Екатеринбург,Шумиха,5000,SEO
+https://city2city.ru/ekaterinburg-nyagan,Екатеринбург,Нягань,26100,DIRECT
+https://city2city.ru/aeroport-pulkovo-pskov,аэропорт Пулково,Псков,9000,SEO
+https://city2city.ru/irkutsk-bolshoe-goloustnoe,Иркутск,посёлок Большое Голоустное,5000,SEO
+https://city2city.ru/blagoveshhensk-skovorodino,Благовещенск,Сковородино,19200,DIRECT
+https://city2city.ru/kazan-kirov,Международный аэропорт Казань,,11800,DIRECT
+https://city2city.ru/belgorod-petrozavodsk,Белгород,Петрозаводск,50000,DIRECT
+https://city2city.ru/chelyabinsk-novotroiczk,Челябинск,Новотроицк,19000,DIRECT
+https://city2city.ru/kemerovo-tashtagol,Кемерово,Таштагол,11000,DIRECT
+https://city2city.ru/ivanovo-gavrilov-yam,Иваново,Гаврилов-Ям,2500,SEO
+https://city2city.ru/chelyabinsk-nizhnij-tagil,Челябинск,Нижний Тагил,10500,DIRECT
+https://city2city.ru/bryansk-adler,Брянск,Адлер,48000,DIRECT
+https://city2city.ru/kaluga-protvino,Калуга,Протвино,3000,SEO
+https://city2city.ru/ekaterinburg-yuryuzan,Екатеринбург,Юрюзань,6000,SEO
+https://city2city.ru/astraxan-budyonnovsk,Астрахань,Будённовск,15000,DIRECT
+https://city2city.ru/ekaterinburg-volgograd,Екатеринбург,Волгоград,52000,DIRECT
+https://city2city.ru/kazan-simferopol,Казань,Симферополь,63500,DIRECT
+https://city2city.ru/belgorod-chelyabinsk,Белгород,Челябинск,60500,DIRECT
+https://city2city.ru/ivanovo-ermolino,Иваново,Ермолино,12500,DIRECT
+https://city2city.ru/astraxan-volgodonsk,Астрахань,Волгодонск,16500,DIRECT
+https://city2city.ru/joshkar-ola-saratov,Йошкар-Ола,Саратов,23000,DIRECT
+https://city2city.ru/bryansk-tver,Брянск,Тверь,15600,DIRECT
+https://city2city.ru/joshkar-ola-ufa,Йошкар-Ола,Уфа,20500,DIRECT
+https://city2city.ru/astraxan-voronezh,Астрахань,Воронеж,30000,DIRECT
+https://city2city.ru/kazan-ulyanovsk,Международный аэропорт Казань,,6600,SEO
+https://city2city.ru/kazan-bugulma,Международный аэропорт Казань,,9600,SEO
+https://city2city.ru/irkutsk-zheleznogorsk-ilimskij,Иркутск,Железногорск-Илимский,34000,DIRECT
+https://city2city.ru/ivanovo-joshkar-ola,Иваново,Йошкар-Ола,16200,DIRECT
+https://city2city.ru/irkutsk-xuzhir,Иркутск,посёлок Хужир,8800,SEO
+https://city2city.ru/belgorod-adler,Белгород,Адлер,38000,DIRECT
+https://city2city.ru/kazan-samara,Международный аэропорт Казань,,11200,DIRECT
+https://city2city.ru/kazan-yoskar_ola,Международный аэропорт Казань,,5000,SEO
+https://city2city.ru/astraxan-yalta,Астрахань,Ялта,40400,DIRECT
+https://city2city.ru/chelyabinsk-nizhnij-novgorod,Челябинск,Нижний Новгород,40500,DIRECT
+https://city2city.ru/ekaterinburg-oktyabrskij-6,Екатеринбург,посёлок Октябрьский,18500,DIRECT
+https://city2city.ru/barnaul-yurga,Барнаул,Юрга,12500,DIRECT
+https://city2city.ru/kazan-izhevsk,Международный аэропорт Казань,,11100,DIRECT
+https://city2city.ru/belgorod-stavropol,Белгород,Ставрополь,31500,DIRECT
+https://city2city.ru/cheboksary-syktyvkar,Чебоксары,Сыктывкар,23600,DIRECT
+https://city2city.ru/kazan-almetevsk,Международный аэропорт Казань,,8000,SEO
+https://city2city.ru/bryansk-star,Брянск,посёлок Старь,2000,SEO
+https://city2city.ru/kazan-perm,Международный аэропорт Казань,,20000,DIRECT
+https://city2city.ru/astraxan-ryazan,Астрахань,Рязань,36500,DIRECT
+https://city2city.ru/kaluga-kolomna,Калуга,Коломна,6500,SEO
+https://city2city.ru/ivanovo-lipeczk,Иваново,Липецк,18300,DIRECT
+https://city2city.ru/cheboksary-perm,Чебоксары,Пермь,22000,DIRECT
+https://city2city.ru/kazan-nizhniy_novgorod,Международный аэропорт Казань,,12600,DIRECT
+https://city2city.ru/kazan-zhigulyovsk,Казань,Жигулёвск,10000,DIRECT
+https://city2city.ru/kazan-nab_chelny,Международный аэропорт Казань,,7500,SEO
+https://city2city.ru/kazan-ekaterinburg,Международный аэропорт Казань,,26000,DIRECT
+https://city2city.ru/astraxan-saratov,Астрахань,Саратов,24000,DIRECT
+https://city2city.ru/ekaterinburg-sol-ileczk,Екатеринбург,Соль-Илецк,29500,DIRECT
+https://city2city.ru/kazan-cheboksary,Международный аэропорт Казань,,5100,SEO
+https://city2city.ru/kazan-nizhnekamsk,Международный аэропорт Казань,,6000,SEO
+https://city2city.ru/joshkar-ola-ivanovo,Йошкар-Ола,Иваново,17100,DIRECT
+https://city2city.ru/kazan-sevastopol,Казань,Севастополь,66500,DIRECT
+https://city2city.ru/ekaterinburg-dobryanka,Екатеринбург,Добрянка,13000,DIRECT
+https://city2city.ru/kazan-chistopol,Международный аэропорт Казань,,5000,SEO
+https://city2city.ru/bryansk-novomoskovsk,Брянск,Новомосковск,10500,DIRECT
+https://city2city.ru/kazan-chebarkul,Казань,Чебаркуль,26700,DIRECT
+https://city2city.ru/izhevsk-joshkar-ola,Ижевск,Йошкар-Ола,15000,DIRECT
+https://city2city.ru/ekaterinburg-tobolsk,Екатеринбург,Тобольск,17600,DIRECT
+https://city2city.ru/belgorod-serpuxov,Белгород,Серпухов,17200,DIRECT
+https://city2city.ru/kazan-poxvistnevo,Казань,Похвистнево,11000,DIRECT
+https://city2city.ru/izhevsk-sochi,Ижевск,Сочи,70000,DIRECT
+https://city2city.ru/ekaterinburg-nizhnevartovsk,Екатеринбург,Нижневартовск,40000,DIRECT
+https://city2city.ru/kazan-saransk,Международный аэропорт Казань,,12000,DIRECT
+https://city2city.ru/bryansk-murom,Брянск,Муром,21400,DIRECT
+https://city2city.ru/ekaterinburg-anapa,Екатеринбург,Анапа,77500,DIRECT
+https://city2city.ru/kazan-sergach,Казань,Сергач,9000,SEO
+https://city2city.ru/astraxan-lipeczk,Астрахань,Липецк,33500,DIRECT
+https://city2city.ru/ivanovo-navoloki,Иваново,Наволоки,3500,SEO
+https://city2city.ru/kazan-ufa,Международный аэропорт Казань,,15900,DIRECT
+https://city2city.ru/elista-volzhskij,Элиста,Волжский,9500,SEO
+https://city2city.ru/blagoveshhensk-aldan,Благовещенск,Алдан,37200,DIRECT
+https://city2city.ru/chelyabinsk-nizhnyaya-tura,Челябинск,Нижняя Тура,13500,DIRECT
+https://city2city.ru/astraxan-penza,Астрахань,Пенза,30500,DIRECT
+https://city2city.ru/chelyabinsk-berezniki,Челябинск,Березники,22500,DIRECT

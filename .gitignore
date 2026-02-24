@@ -1,0 +1,40 @@
+# Temporary / debug files
+_tmp*.txt
+_*.txt
+ssh_*.txt
+scp*.txt
+NUL
+*.log
+
+# Progress files (resume state, regenerated automatically)
+*_progress.json
+progress.json
+serp_operations.json
+
+# Large data files (>5MB) — хранить локально, не в git
+all_routes_db.tsv
+new_routes_titles.tsv
+serp_results.csv
+wordstat_raw.jsonl
+
+# Raw test files
+test_serp_result.xml
+test_serp_result.json
+test_searchapi.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Junk
+C:*
+.claude/
+
+# Secrets
+.env
+YandexSearchApi.txt

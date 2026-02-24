@@ -1,0 +1,125 @@
+================================================================================
+ANALYSIS: Routes in DB but NOT in current 4204
+================================================================================
+
+Total in DB:                   114,034
+Our known (4204):                4,204
+  - of those in DB:              4,204
+  - not found in DB:                 0
+NEW routes (not in 4204):      109,516
+
+--- NEW ROUTES BREAKDOWN ---
+With both cities parsed:        93,505
+With price > 0:                      0
+Indexable (is_indexable=1):         112
+Unique city_from:                  138
+Unique city_to:                  2,150
+Unique city pairs:              88,668
+
+--- DISTANCE DISTRIBUTION (new routes with distance) ---
+  no_distance             109,516
+  <50km                         0
+  50-200km                      0
+  200-500km                     0
+  500-1000km                    0
+  >1000km                       0
+
+--- TOP-20 CITIES BY ROUTE COUNT (city_from) ---
+  Белгород                             1,863 routes
+  Воронеж                              1,834 routes
+  Архангельск                          1,818 routes
+  Курск                                1,791 routes
+  Петрозаводск                         1,791 routes
+  Йошкар-Ола                           1,787 routes
+  Псков                                1,785 routes
+  Ижевск                               1,782 routes
+  Калуга                               1,781 routes
+  Курган                               1,781 routes
+  Орёл                                 1,780 routes
+  Чебоксары                            1,777 routes
+  Тамбов                               1,777 routes
+  Владимир                             1,776 routes
+  Элиста                               1,775 routes
+  Саранск                              1,774 routes
+  Ростов-на-Дону                       1,773 routes
+  Липецк                               1,771 routes
+  Ставрополь                           1,771 routes
+  Астрахань                            1,761 routes
+
+--- SAMPLE NEW ROUTES (first 30) ---
+  taxi777-mezhgorod-moscow                                              Москва -> -                    price=     0 dist=    0
+  moskva-abdulino                                                       Москва -> Абдулино             price=     0 dist=    0
+  moskva-abinsk                                                         Москва -> Абинск               price=     0 dist=    0
+  moskva-achit                                                          Москва -> посёлок городского типа Ачит price=     0 dist=    0
+  moskva-adler                                                          Москва -> Адлер                price=     0 dist=    0
+  moskva-adygejsk                                                       Москва -> Адыгейск             price=     0 dist=    0
+  moskva-afanasevo                                                      Москва -> посёлок городского типа Афанасьево price=     0 dist=    0
+  moskva-afipskij                                                       Москва -> посёлок городского типа Афипский price=     0 dist=    0
+  moskva-agidel                                                         Москва -> Агидель              price=     0 dist=    0
+  moskva-agirish                                                        Москва -> посёлок городского типа Агириш price=     0 dist=    0
+  moskva-agoj                                                           Москва -> село Агой            price=     0 dist=    0
+  moskva-agryz                                                          Москва -> Агрыз                price=     0 dist=    0
+  moskva-aksubaevo                                                      Москва -> село Новое Аксубаево price=     0 dist=    0
+  moskva-aktyubinskij                                                   Москва -> посёлок городского типа Актюбинский price=     0 dist=    0
+  moskva-alapaevsk                                                      Москва -> Алапаевск            price=     0 dist=    0
+  moskva-alatyr                                                         Москва -> Алатырь              price=     0 dist=    0
+  moskva-aleksandrov                                                    Москва -> Александров          price=     0 dist=    0
+  moskva-aleksandrovsk                                                  Москва -> Александровск        price=     0 dist=    0
+  moskva-alekseevka                                                     Москва -> Алексеевка           price=     0 dist=    0
+  moskva-alekseevka-2                                                   Москва -> село Алексеевка      price=     0 dist=    0
+  moskva-alekseevskoe                                                   Москва -> посёлок городского типа Алексеевское price=     0 dist=    0
+  moskva-almetevsk                                                      Москва -> Альметьевск          price=     0 dist=    0
+  moskva-altuxovo                                                       Москва -> посёлок Алтухово     price=     0 dist=    0
+  moskva-alupka                                                         Москва -> Алупка               price=     0 dist=    0
+  moskva-alushta                                                        Москва -> Алушта               price=     0 dist=    0
+  moskva-andra                                                          Москва -> поселок городского типа Андра price=     0 dist=    0
+  moskva-andreapol                                                      Москва -> Андреаполь           price=     0 dist=    0
+  moskva-anna                                                           Москва -> посёлок городского типа Анна price=     0 dist=    0
+  moskva-apastovo                                                       Москва -> поселок городского типа Апастово price=     0 dist=    0
+  moskva-apatity                                                        Москва -> Апатиты              price=     0 dist=    0
+
+================================================================================
+WORDSTAT API BUDGET ESTIMATION
+================================================================================
+
+Routes with both cities (eligible for Wordstat): 93,505
+
+--- Option 1: Yandex Cloud Search API (Wordstat) ---
+  API: searchapi.api.cloud.yandex.net/v2/wordstat/topRequests
+  Cost: FREE (Preview mode)
+  Rate: ~4 rps (0.25s pause)
+  Time: 93505 / 4 / 60 = 390 min = 6.5 hours
+  Daily limit: unknown (Preview), estimated ~50K/day
+  Estimated days: 1.9 days if 50K/day limit
+  TOTAL COST: $0 (FREE)
+
+--- Option 2: Classic Wordstat API (api.wordstat.yandex.net) ---
+  Cost: FREE but limited to 5000 requests/day
+  Time: 93505 / 5000 = 19 days
+  TOTAL COST: $0 (FREE)
+
+--- Option 3: Yandex Cloud Web Search (SERP) ---
+  Cost: $0.25 per 1000 deferred requests
+  Requests: 93,505
+  TOTAL COST: $23.38 (~2338 RUB)
+
+--- TOTAL BUDGET SUMMARY ---
+  Phase 1 (Wordstat frequency):  FREE
+  Phase 2 (SERP analysis):       $23.38 (~2338 RUB)
+  TOTAL:                         $23.38 (~2338 RUB)
+
+--- TIME ESTIMATION ---
+  Wordstat at 4 rps:             6.5 hours
+  SERP deferred (batches of 200): 468 batches x 90s wait = 11.7 hours + send/collect time
+  TOTAL estimated:               18.2 hours
+
+--- OPTIMIZATION: SMART FILTERING ---
+  Instead of checking ALL 93,505 routes,
+  filter first by city importance:
+
+  Top-20 cities: ~35,572 routes
+    Time: 2.5 hours, SERP: $8.89
+  Top-50 cities: ~86,596 routes
+    Time: 6.0 hours, SERP: $21.65
+  All 138 cities: 93,505 routes
+    Time: 6.5 hours, SERP: $23.38
