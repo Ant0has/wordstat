@@ -11,7 +11,7 @@ https://city2city.ru/donetsk-tambov.html;Донецк;Тамбов;870;26000;102
 https://city2city.ru/donetsk-kazan.html;Донецк;Казань;1580;47500;10273;SEO_INVEST_DIRECT;old
 https://city2city.ru/donetsk-ufa.html;Донецк;Уфа;1910;57300;10273;SEO_INVEST_DIRECT;old
 https://city2city.ru/donetsk-orenburg.html;Донецк;Оренбург;1770;53000;10273;DIRECT_ONLY;old
-https://city2city.ru/donetsk-maykop.html;Донецк;Майкоп;540;22000;10273;SEO_INVEST_DIRECT;old
+https://city2city.ru/donetsk-maykop.html;Донецк;Майкоп;540;16500;10273;SEO_INVEST_DIRECT;old
 https://city2city.ru/bratsk-irkutsk.html;Братск;Иркутск;620;18500;1371;SEO_INVEST_DIRECT;old
 https://city2city.ru/izhevsk-kazan.html;Ижевск;Казань;365;11000;1026;DIRECT_ONLY;old
 https://city2city.ru/moskva-doneczk-rostovskaya-oblast.html;Москва;Донецк;980;29500;818;SEO_INVEST_DIRECT;old
@@ -250,7 +250,7 @@ https://city2city.ru/moskva-dzerzhinsk.html;Москва;Дзержинск;440;
 https://city2city.ru/saratov-volgograd.html;Саратов;Волгоград;375;11000;34;DIRECT_TEST;old
 https://city2city.ru/velikiy-novgorod-moskva.html;Великий Новгород;Москва;570;17100;34;DIRECT_TEST;old
 https://city2city.ru/izhevsk-ekaterinburg.html;Ижевск;Екатеринбург;570;17100;34;DIRECT_TEST;old
-https://city2city.ru/kaluga-kirov-kaluzhskaya-oblast.html;Калуга;Киров;1200;36000;34;DIRECT_TEST;old
+https://city2city.ru/kaluga-kirov.html;Калуга;Киров;1200;36000;34;DIRECT_TEST;old
 https://city2city.ru/rostov-samara.html;Ростов-на-Дону;Самара;1280;38400;34;DIRECT_TEST;old
 https://city2city.ru/novosibirsk-rubtsovsk.html;Новосибирск;Рубцовск;520;15500;34;DIRECT_TEST;old
 https://city2city.ru/ekaterinburg-izhevsk.html;Екатеринбург;Ижевск;565;17000;34;DIRECT_TEST;old
@@ -276,7 +276,6 @@ https://city2city.ru/moskva-tyumen.html;Москва;Тюмень;1995;59800;31;
 https://city2city.ru/krasnoyarsk-irkutsk.html;Красноярск;Иркутск;1060;31800;31;DIRECT_TEST;old
 https://city2city.ru/saratov-kazan.html;Саратов;Казань;680;20400;31;DIRECT_TEST;old
 https://city2city.ru/syktyvkar-moskva.html;Сыктывкар;Москва;1345;40400;31;DIRECT_TEST;old
-https://city2city.ru/kaluga-kirov.html;Калуга;Киров;1200;36000;31;NEW_P1;new
 https://city2city.ru/moskva-pavlovskaya.html;Москва;станица Павловская;1250;37500;31;NEW_P1;new
 https://city2city.ru/samara-pervomajsk.html;Самара;Первомайск;2100;63000;31;NEW_P1;new
 https://city2city.ru/krasnodar-groznyj.html;Краснодар;Грозный;695;20800;30;DIRECT_TEST;old
@@ -287,7 +286,6 @@ https://city2city.ru/irkutsk-chita.html;Иркутск;Чита;1095;32800;30;DI
 https://city2city.ru/ufa-novotroiczk.html;Уфа;Новотроицк;600;18000;30;DIRECT_TEST;old
 https://city2city.ru/moskva-saransk.html;Москва;Саранск;630;18900;30;DIRECT_TEST;old
 https://city2city.ru/belgorod-lipeck.html;Белгород;Липецк;385;11500;29;DIRECT_TEST;old
-https://city2city.ru/svo-taxi-saratov-donetsk.html;Саратов;Донецк;760;23000;29;DIRECT_TEST;old
 https://city2city.ru/samara-perm.html;Самара;Пермь;870;26100;29;DIRECT_TEST;old
 https://city2city.ru/saratov-doneczk-rostovskaya-oblast.html;Саратов;Донецк;760;23000;29;DIRECT_TEST;old
 https://city2city.ru/kazan-volgograd.html;Казань;Волгоград;1030;30900;28;DIRECT_TEST;old
@@ -307,7 +305,7 @@ https://city2city.ru/ulyanovsk-ufa.html;Ульяновск;Уфа;585;17600;26;D
 https://city2city.ru/ekaterinburg-krasnoturinsk.html;Екатеринбург;Краснотурьинск;385;11600;26;DIRECT_TEST;old
 https://city2city.ru/rostov-sankt-peterburg.html;Ростов-на-Дону;Санкт-Петербург;1800;54000;26;DIRECT_TEST;old
 https://city2city.ru/sankt-peterburg-rostov-na-don.html;Санкт-Петербург;Ростов-на-Дону;1790;53700;26;DIRECT_TEST;old
-https://city2city.ru/krasnodar-sankt-peterburg.html;Ростов-на-Дону;Санкт-Петербург;2060;61800;26;DIRECT_TEST;old
+https://city2city.ru/krasnodar-sankt-peterburg.html;Краснодар;Санкт-Петербург;2060;61800;26;DIRECT_TEST;old
 https://city2city.ru/svo-taxi-rostov-na-donu-melitopol.html;Ростов-на-Дону;Мелитополь;370;11000;26;DIRECT_TEST;old
 https://city2city.ru/irkutsk-ust-ilimsk.html;Иркутск;Усть-Илимск;900;27000;25;DIRECT_TEST;old
 https://city2city.ru/kirov-ufa.html;Киров;Уфа;750;22500;25;DIRECT_TEST;old
@@ -703,26 +701,24 @@ https://city2city.ru/novosibirsk-minusinsk.html;Новосибирск;Мину�
 https://city2city.ru/melitopol-ryazan.html;Мелитополь;Рязань;1340;40000;7;DIRECT_LOW;old
 https://city2city.ru/svo-taxi-rossosh-smolensk.html;Россошь;Смоленск;880;26500;7;DIRECT_LOW;old
 https://city2city.ru/kostroma-kirov.html;Кострома;Киров;615;18500;7;DIRECT_LOW;old
-https://city2city.ru/ekaterinburg-troiczk.html;Екатеринбург;Троицк;1700;51000;7;DIRECT_LOW;old
 https://city2city.ru/kirov-sankt-peterburg.html;Киров;Санкт-Петербург;1545;46500;7;DIRECT_LOW;old
 https://city2city.ru/moskva-velsk.html;Москва;Вельск;730;22000;7;DIRECT_LOW;old
 https://city2city.ru/vladimir-rostov-velikij.html;Владимир;Ростов;1240;37000;7;DIRECT_LOW;old
 https://city2city.ru/ufa-ryazan.html;Уфа;Рязань;1280;38500;7;DIRECT_LOW;old
 https://city2city.ru/samara-magnitogorsk.html;Самара;Магнитогорск;780;23500;7;DIRECT_LOW;old
 https://city2city.ru/ufa-buguruslan.html;Уфа;Бугуруслан;360;10800;7;DIRECT_LOW;old
-https://city2city.ru/ekaterinburg-app-bugristoe.html;Екатеринбург;Троицк;350;10500;7;DIRECT_LOW;old
+https://city2city.ru/ekaterinburg-troiczk.html;Екатеринбург;Троицк;350;10500;7;DIRECT_LOW;old
 https://city2city.ru/astraxan-znamensk.html;Астрахань;Знаменск;360;11000;7;DIRECT_LOW;old
 https://city2city.ru/tver-vologda.html;Тверь;Вологда;525;16000;7;DIRECT_LOW;old
 https://city2city.ru/tambov-sochi.html;Тамбов;Сочи;1290;38500;7;DIRECT_LOW;old
 https://city2city.ru/kazan-syzran.html;Казань;Сызрань;340;10200;7;DIRECT_LOW;old
 https://city2city.ru/samara-chebarkul.html;Самара;Чебаркуль;800;24000;7;DIRECT_LOW;old
 https://city2city.ru/yaroslavl-samara.html;Ярославль;Самара;1030;31000;7;DIRECT_LOW;old
-https://city2city.ru/orenburg-beloreczk.html;Оренбург;Белорецк;1940;58200;7;DIRECT_LOW;old
+https://city2city.ru/orenburg-beloreczk.html;Оренбург;Белорецк;350;10500;7;DIRECT_LOW;old
 https://city2city.ru/petrozavodsk-kostomuksha.html;Петрозаводск;Костомукша;490;14700;7;DIRECT_LOW;old
 https://city2city.ru/ufa-cheboksary.html;Уфа;Чебоксары;700;21000;7;DIRECT_LOW;old
 https://city2city.ru/nizhnij-novgorod-sochi.html;Нижний Новгород;Сочи;1820;54500;7;DIRECT_LOW;old
 https://city2city.ru/ekaterinburg-app-doneczk.html;Екатеринбург;Донецк;2090;62500;7;DIRECT_LOW;old
-https://city2city.ru/petrozavodsk-app-lyuttya.html;Петрозаводск;Костомукша;550;16500;7;DIRECT_LOW;old
 https://city2city.ru/yaroslavl-belgorod.html;Ярославль;Белгород;940;28200;7;DIRECT_LOW;old
 https://city2city.ru/izhevsk-kirov.html;Ижевск;Киров;425;12800;7;DIRECT_LOW;old
 https://city2city.ru/kirov-lesnoj.html;Киров;Лесной;810;24500;7;DIRECT_LOW;old
@@ -927,7 +923,7 @@ https://city2city.ru/ekaterinburg-birsk.html;Екатеринбург;Бирск
 https://city2city.ru/kirov-uren.html;Киров;Урень;370;11000;4;DIRECT_LOW;old
 https://city2city.ru/ulyanovsk-ryazan.html;Ульяновск;Рязань;765;23000;4;DIRECT_LOW;old
 https://city2city.ru/ekaterinburg-yugorsk.html;Екатеринбург;Югорск;710;21300;4;DIRECT_LOW;old
-https://city2city.ru/irkutsk-aeroport-ust-kut.html;аэропорт Иркутск;Усть-Кут;960;38500;4;DIRECT_LOW;old
+https://city2city.ru/irkutsk-aeroport-ust-kut.html;аэропорт Иркутск;Усть-Кут;960;29000;4;DIRECT_LOW;old
 https://city2city.ru/krasnodar-ufa.html;Краснодар;Уфа;1970;59100;4;DIRECT_LOW;old
 https://city2city.ru/sankt-peterburg-kazan.html;Санкт-Петербург;Казань;1510;45300;4;DIRECT_LOW;old
 https://city2city.ru/smolensk-samara.html;Смоленск;Самара;1490;44500;4;DIRECT_LOW;old
@@ -1214,7 +1210,6 @@ https://city2city.ru/orenburg-nizhnevartovsk.html;Оренбург;Нижнев�
 https://city2city.ru/samara-zainsk.html;Самара;Заинск;340;10000;2;DIRECT_LOW;old
 https://city2city.ru/kazan-agidel.html;Казань;Агидель;410;12500;2;DIRECT_LOW;old
 https://city2city.ru/tokmak-samara.html;Токмак;Самара;1630;49000;2;DIRECT_LOW;old
-https://city2city.ru/tyumen-urengoj.html;Тюмень;Новый Уренгой;1550;46500;2;DIRECT_LOW;old
 https://city2city.ru/ekaterinburg-gaj.html;Екатеринбург;Гай;850;25500;2;DIRECT_LOW;old
 https://city2city.ru/orenburg-troiczk.html;Оренбург;Троицк;1530;46000;2;DIRECT_LOW;old
 https://city2city.ru/ulyanovsk-buguruslan.html;Ульяновск;Бугуруслан;360;11000;2;DIRECT_LOW;old
@@ -1464,7 +1459,7 @@ https://city2city.ru/moskva-glazov.html;Москва;Глазов;1220;36500;1;D
 https://city2city.ru/oryol-anapa.html;Орёл;Анапа;1330;40000;1;DIRECT_LOW;old
 https://city2city.ru/saratov-mixajlovka.html;Саратов;Михайловка;350;10500;1;DIRECT_LOW;old
 https://city2city.ru/nizhnij-novgorod-adler.html;Нижний Новгород;Адлер;1860;56000;1;DIRECT_LOW;old
-https://city2city.ru/irkutsk-zheleznogorsk-ilimskij.html;Иркутск;Железногорск-Илимский;846;34000;1;DIRECT_LOW;old
+https://city2city.ru/irkutsk-zheleznogorsk-ilimskij.html;Иркутск;Железногорск-Илимский;846;25500;1;DIRECT_LOW;old
 https://city2city.ru/stavropol-adler.html;Ставрополь;Адлер;510;15500;1;DIRECT_LOW;old
 https://city2city.ru/kursk-gelendzhik.html;Курск;Геленджик;1230;37000;1;DIRECT_LOW;old
 https://city2city.ru/lugansk-kostroma.html;Луганск;Кострома;1380;41400;1;DIRECT_LOW;old
