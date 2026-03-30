@@ -430,6 +430,13 @@ wordstatapi/
 - 87 из 240 рассчитаны через OSRM (расстояние + цена 30₽/км): `monitor_data/new_routes_filled.csv`
 - 153 без расстояния (мелкие города): `monitor_data/routes_no_distance.csv`
 
+**UTM-трекинг (26.03.2026):**
+- Фронт city2city.ru сохраняет UTM из URL в cookie (30 дней) → передаёт при отправке заявки
+- Бэкенд c2cv5-srvapp принимает UTM и пробрасывает в CRM при создании лида
+- CRM: поля utm_source/medium/campaign/content/term + landing_page + referrer в таблицах orders и app_leads
+- Admin API `/admin/leads` отдаёт UTM в блоке source
+- Позволяет отследить ROI рекламных кампаний Яндекс.Директа
+
 ### Что осталось
 - ~85 маршрутов готовы к загрузке в БД (расстояние + цена есть)
 - ~153 маршрута без расстояния — ручная проверка
